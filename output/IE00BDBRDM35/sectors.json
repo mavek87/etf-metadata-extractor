@@ -1,0 +1,22 @@
+{
+  "Treasuries":53.72,
+  "Agency Fixed Rate":9.63,
+  "Owned No Guarantee":4.74,
+  "Supranational":2.18,
+  "Cash and\/or Derivatives":2.14,
+  "Local Authority":1.48,
+  "Government Guaranteed":1.13,
+  "Banking":0.84,
+  "Mortgage Collateralized":0.62,
+  "Sovereign":0.5,
+  "Consumer Non-Cyclical":0.23,
+  "Communications":0.15,
+  "Technology":0.06,
+  "Non-Agency CMBS":0.03,
+  "Consumer Cyclical":0.03,
+  "Public Sector Collateralized":0.02,
+  "Government Sponsored":0.02,
+  "Capital Goods":0.02,
+  "Agency CMBS":0.01,
+  "Industrial Other":0.01
+}

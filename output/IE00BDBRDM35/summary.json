@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00BDBRDM35",
+  "data": "2025-08-23 09:08:06",
+  "total_rows": 19436,
+  "valid_rows": 19432,
+  "weight_sum": 77.56,
+  "num_sectors": 20,
+  "num_locations": 50,
+  "top_10_sectors": {
+    "Treasuries": 53.72,
+    "Agency Fixed Rate": 9.63,
+    "Owned No Guarantee": 4.74,
+    "Supranational": 2.18,
+    "Cash and/or Derivatives": 2.14,
+    "Local Authority": 1.48,
+    "Government Guaranteed": 1.1300000000000001,
+    "Banking": 0.84,
+    "Mortgage Collateralized": 0.62,
+    "Sovereign": 0.5
+  },
+  "top_10_locations": {
+    "United States": 29.7,
+    "China": 9.84,
+    "Japan": 8.94,
+    "France": 3.2800000000000002,
+    "Germany": 2.97,
+    "United Kingdom": 2.81,
+    "Italy": 2.7600000000000002,
+    "Supranational": 2.18,
+    "Canada": 2.02,
+    "Ireland": 2.02
+  }
+}

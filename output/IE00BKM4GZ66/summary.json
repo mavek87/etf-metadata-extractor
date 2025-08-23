@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00BKM4GZ66",
+  "data": "2025-08-23 09:08:06",
+  "total_rows": 3159,
+  "valid_rows": 3158,
+  "weight_sum": 98.47,
+  "num_sectors": 12,
+  "num_locations": 29,
+  "top_10_sectors": {
+    "Information Technology": 22.61,
+    "Financials": 22.43,
+    "Consumer Discretionary": 12.09,
+    "Communication": 9.25,
+    "Industrials": 8.02,
+    "Materials": 6.42,
+    "Health Care": 4.41,
+    "Consumer Staples": 4.4,
+    "Energy": 3.58,
+    "Utilities": 2.4
+  },
+  "top_10_locations": {
+    "China": 26.95,
+    "Taiwan": 18.82,
+    "India": 17.55,
+    "Korea (South)": 10.58,
+    "Brazil": 3.59,
+    "South Africa": 3.47,
+    "Saudi Arabia": 2.97,
+    "Mexico": 1.87,
+    "United Arab Emirates": 1.59,
+    "Malaysia": 1.3800000000000001
+  }
+}

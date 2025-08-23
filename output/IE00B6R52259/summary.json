@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00B6R52259",
+  "data": "2025-08-23 09:08:06",
+  "total_rows": 1745,
+  "valid_rows": 1744,
+  "weight_sum": 99.7,
+  "num_sectors": 12,
+  "num_locations": 43,
+  "top_10_sectors": {
+    "Information Technology": 25.58,
+    "Financials": 19.69,
+    "Industrials": 10.42,
+    "Consumer Discretionary": 10.24,
+    "Health Care": 8.61,
+    "Communication": 8.48,
+    "Consumer Staples": 5.51,
+    "Materials": 3.25,
+    "Energy": 3.24,
+    "Utilities": 2.38
+  },
+  "top_10_locations": {
+    "United States": 64.15,
+    "Japan": 4.93,
+    "United Kingdom": 3.39,
+    "Canada": 2.89,
+    "Germany": 2.7600000000000002,
+    "Ireland": 2.76,
+    "China": 2.69,
+    "France": 2.44,
+    "Switzerland": 2.05,
+    "Taiwan": 1.9100000000000001
+  }
+}

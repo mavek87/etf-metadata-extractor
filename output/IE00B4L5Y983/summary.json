@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00B4L5Y983",
+  "data": "2025-08-23 09:08:06",
+  "total_rows": 1359,
+  "valid_rows": 1358,
+  "weight_sum": 100.0,
+  "num_sectors": 12,
+  "num_locations": 24,
+  "top_10_sectors": {
+    "Information Technology": 26.02,
+    "Financials": 17.0,
+    "Industrials": 11.15,
+    "Consumer Discretionary": 10.17,
+    "Health Care": 9.41,
+    "Communication": 8.46,
+    "Consumer Staples": 5.9399999999999995,
+    "Energy": 3.41,
+    "Materials": 3.24,
+    "Utilities": 2.63
+  },
+  "top_10_locations": {
+    "United States": 71.64,
+    "Japan": 5.58,
+    "United Kingdom": 3.73,
+    "Canada": 3.17,
+    "France": 2.78,
+    "Germany": 2.5100000000000002,
+    "Switzerland": 2.36,
+    "Australia": 1.71,
+    "Netherlands": 1.1,
+    "Sweden": 0.89
+  }
+}
