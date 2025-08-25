@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00BJ0KDR00",
+  "data": "2025-08-25 19:21:27",
+  "total_rows": 550,
+  "valid_rows": 549,
+  "weight_sum": 0.9999999724000002,
+  "num_sectors": 12,
+  "num_countries": 11,
+  "top_10_sectors": {
+    "Information Technology": 0.3311608797,
+    "Financials": 0.135179283,
+    "Consumer Discretionary": 0.1070679106,
+    "Communication Services": 0.09914814549999999,
+    "Health Care": 0.09175139510000001,
+    "Industrials": 0.0864913504,
+    "Consumer Staples": 0.0516614347,
+    "Energy": 0.0295901349,
+    "Utilities": 0.0231462888,
+    "Real Estate": 0.0206608741
+  },
+  "top_10_countries": {
+    "United States": 0.9689526085,
+    "Ireland": 0.0165842929,
+    "United Kingdom": 0.005479868200000001,
+    "Switzerland": 0.0025369925000000002,
+    "Uruguay": 0.0019578015,
+    "Canada": 0.0012461206,
+    "Netherlands": 0.0010523539,
+    "Bermuda": 0.0008800772,
+    "Singapore": 0.0005958169,
+    "Australia": 0.0005068445
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00BP3QZ825",
+  "data": "2025-08-25 16:11:12",
+  "total_rows": 373,
+  "valid_rows": 372,
+  "weight_sum": 99.99000000000002,
+  "num_sectors": 12,
+  "num_locations": 22,
+  "top_10_sectors": {
+    "Finanziari": 30.88,
+    "IT": 15.07,
+    "Industriali": 12.55,
+    "Comunicazione": 10.46,
+    "Generi di largo consumo": 9.82,
+    "Salute": 6.99,
+    "Consumi Discrezionali": 4.9,
+    "Imprese di servizi di pubblica utilità": 4.04,
+    "Energia": 1.92,
+    "Materiali": 1.86
+  },
+  "top_10_locations": {
+    "Stati Uniti": 58.73,
+    "Germania": 7.45,
+    "Canada": 5.97,
+    "Giappone": 5.43,
+    "Regno unito": 4.99,
+    "Svizzera": 2.75,
+    "Spagna": 2.7,
+    "Francia": 2.4699999999999998,
+    "Australia": 2.39,
+    "Italia": 1.82
+  }
+}

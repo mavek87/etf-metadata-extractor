@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00BL25JL35",
+  "data": "2025-08-25 19:21:27",
+  "total_rows": 317,
+  "valid_rows": 315,
+  "weight_sum": 0.9999999843000001,
+  "num_sectors": 12,
+  "num_countries": 26,
+  "top_10_sectors": {
+    "Information Technology": 0.2655013783,
+    "Financials": 0.1637222811,
+    "Industrials": 0.1128066301,
+    "Consumer Discretionary": 0.10140506789999999,
+    "Health Care": 0.0949652805,
+    "Communication Services": 0.0896511878,
+    "Consumer Staples": 0.0592452257,
+    "Materials": 0.0328163674,
+    "Energy": 0.0292047878,
+    "Utilities": 0.0269649989
+  },
+  "top_10_countries": {
+    "United States": 0.7408646705999999,
+    "United Kingdom": 0.0449891071,
+    "Switzerland": 0.0405797703,
+    "Japan": 0.0235982505,
+    "Netherlands": 0.0193044053,
+    "Spain": 0.0178457744,
+    "Australia": 0.0170348223,
+    "Ireland": 0.0163291845,
+    "France": 0.013057615,
+    "Germany": 0.0125317795
+  }
+}

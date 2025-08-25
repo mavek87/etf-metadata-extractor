@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE00BM67HK77",
+  "data": "2025-08-25 19:21:28",
+  "total_rows": 139,
+  "valid_rows": 136,
+  "weight_sum": 0.9999999935,
+  "num_sectors": 11,
+  "num_countries": 21,
+  "top_10_sectors": {
+    "Pharmaceuticals": 0.4165050219,
+    "Health Care Equipment": 0.1819477319,
+    "Biotechnology": 0.1522364984,
+    "Life Sciences Tools & Services": 0.0780332416,
+    "Managed Health Care": 0.0558426074,
+    "Health Care Services": 0.0356963708,
+    "Health Care Supplies": 0.0311041031,
+    "Health Care Distributors": 0.0249382125,
+    "Health Care Facilities": 0.0115554681,
+    "Health Care Technology": 0.0085304486
+  },
+  "top_10_countries": {
+    "United States": 0.6835027077,
+    "Switzerland": 0.0879427186,
+    "United Kingdom": 0.0537502881,
+    "Japan": 0.0397407524,
+    "France": 0.0305595019,
+    "Denmark": 0.0293590331,
+    "Ireland": 0.0217203436,
+    "Germany": 0.0148224867,
+    "Australia": 0.014722066,
+    "Netherlands": 0.010115568
+  }
+}

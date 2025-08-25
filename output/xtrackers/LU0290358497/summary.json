@@ -1,0 +1,26 @@
+{
+  "ISIN": "LU0290358497",
+  "data": "2025-08-25 19:21:26",
+  "total_rows": 842,
+  "valid_rows": 842,
+  "weight_sum": 0.9999999629,
+  "num_sectors": 3,
+  "num_countries": 22,
+  "top_10_sectors": {
+    "unknown": 0.8962708177,
+    "Government": 0.1025525253,
+    "Financial": 0.0011766199000000001
+  },
+  "top_10_countries": {
+    "France": 0.2095032309,
+    "Belgium": 0.2044924967,
+    "Spain": 0.1462950952,
+    "Italy": 0.119688394,
+    "Germany": 0.0967156397,
+    "Austria": 0.0400329903,
+    "United Kingdom": 0.0335684939,
+    "Turkey": 0.023902782299999998,
+    "Canada": 0.0204750434,
+    "United States": 0.0194308691
+  }
+}

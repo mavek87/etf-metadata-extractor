@@ -1,0 +1,33 @@
+{
+  "ISIN": "DE000A0F5UH1",
+  "data": "2025-08-25 16:11:11",
+  "total_rows": 146,
+  "valid_rows": 145,
+  "weight_sum": 100.01,
+  "num_sectors": 12,
+  "num_locations": 20,
+  "top_10_sectors": {
+    "Finanziari": 37.02,
+    "Energia": 11.98,
+    "Consumi Discrezionali": 10.09,
+    "Imprese di servizi di pubblica utilità": 8.51,
+    "Materiali": 7.83,
+    "Industriali": 7.67,
+    "Immobili": 6.58,
+    "Comunicazione": 3.99,
+    "Generi di largo consumo": 2.9000000000000004,
+    "Salute": 1.65
+  },
+  "top_10_locations": {
+    "Stati Uniti": 17.24,
+    "Hong Kong": 13.66,
+    "Australia": 13.54,
+    "Regno unito": 8.33,
+    "Canada": 7.84,
+    "Paesi Bassi": 7.23,
+    "Giappone": 5.05,
+    "Francia": 4.78,
+    "Singapore": 4.3,
+    "Germania": 4.29
+  }
+}

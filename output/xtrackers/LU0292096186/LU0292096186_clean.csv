@@ -1,0 +1,125 @@
+Unnamed: 0,Name,ISIN,Country,Currency,Exchange,Type of Security,Rating,Primary Listing,Industry Classification,Weighting
+1,ALPHABET INC,US02079K1079,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0792176107
+2,APPLE INC,US0378331005,United States,USD,NASDAQ National Market System,Equity,Aa1,NASDAQ Composite Index,Technology,0.0764919665
+3,NVIDIA CORP,US67066G1040,United States,USD,NASDAQ National Market System,Equity,B1,NASDAQ Composite Index,Technology,0.0751507429
+4,META PLATFORMS INC,US30303M1027,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0558639255
+5,LINDE PLC,IE000S9YS762,United Kingdom,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Basic Materials,0.0490371071
+6,PALO ALTO NETWORKS INC,US6974351057,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Technology,0.0343579575
+7,NU HOLDINGS LTD,KYG6683N1034,Brazil,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Industrials,0.0330448873
+8,ACCENTURE PLC,IE00B4BNMY34,Ireland,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Industrials,0.0292981684
+9,IMPLENIA AG,CH0023868554,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Industrials,0.029212454
+10,DIAMONDBACK ENERGY INC,US25278X1090,United States,USD,NASDAQ National Market System,Equity,B1,NASDAQ Composite Index,Energy,0.0229557867
+11,BROADCOM INC,US11135F1012,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0228172497
+12,FIVE BELOW INC,US33829M1018,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Consumer Discretionary,0.0213580132
+13,DROPBOX INC,US26210C1045,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0200392391
+14,TEXAS INSTRUMENTS INC,US8825081040,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0199291937
+15,MEDTRONIC PLC,IE00BTN1Y115,Ireland,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Health Care,0.0194440489
+16,SPOTIFY TECHNOLOGY SA,LU1778762911,Luxembourg,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0172200728
+17,TECAN GROUP AG,CH0012100191,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Health Care,0.0167577983
+18,MASCO CORP,US5745991068,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Industrials,0.0148426613
+19,AGEAS SA,BE0974264930,Belgium,EUR,Euronext Brussels,Equity,-,BEL 20 Index,Financials,0.0138036563
+20,NASDAQ INC,US6311031081,United States,USD,NASDAQ National Market System,Equity,Baa3,NASDAQ Composite Index,Financials,0.012992428
+21,DIGITAL REALTY TRUST INC,US2538681030,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0116242553
+22,CICOR TECHNOLOGIES LTD,CH0008702190,Switzerland,CHF,-,Equity,-,Swiss Market Index,unknown,0.0099759016
+23,BOSTON SCIENTIFIC CORP,US1011371077,United States,USD,New York Stock Exchange,Equity,Baa3,S&P 500 Index,Health Care,0.0096855649
+24,AUTODESK INC,US0527691069,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0094065705
+25,AMAZON.COM INC,US0231351067,United States,USD,NASDAQ National Market System,Equity,Baa1,NASDAQ Composite Index,Consumer Discretionary,0.0087004267
+26,BASILEA PHARMACEUTICA AG ALLSCHWIL,CH0011432447,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Health Care,0.0083803078
+27,APPLOVIN CORP,US03831W1080,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0076858007
+28,EOG RESOURCES INC,US26875P1012,United States,USD,New York Stock Exchange,Equity,A3,S&P 500 Index,Energy,0.007438576
+29,UBER TECHNOLOGIES INC,US90353T1007,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0074383966
+30,DORMAKABA HOLDING AG,CH0011795959,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Industrials,0.0071554333
+31,VALARIS LTD,BMG9460G1015,Bermuda,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Energy,0.0070610651
+32,AUTOMATIC DATA PROCESSING INC,US0530151036,United States,USD,NASDAQ National Market System,Equity,Aaa,NASDAQ Composite Index,Industrials,0.0067804846
+33,VZ HOLDING AG,CH0528751586,Switzerland,CHF,-,Equity,-,Swiss Market Index,Financials,0.0067256484
+34,ALLREAL HOLDING AG,CH0008837566,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Real Estate,0.0066334612
+35,JUNGFRAUBAHN HOLDING AG,CH0017875789,Switzerland,CHF,-,Equity,-,Swiss Market Index,unknown,0.0064158566
+36,VENTAS INC,US92276F1003,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0063567049
+37,MEDACTA GROUP SA,CH0468525222,Switzerland,CHF,-,Equity,-,Swiss Market Index,Health Care,0.0061594871
+38,GODADDY INC,US3802371076,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Technology,0.0061578506
+39,ARISTA NETWORKS INC,US0404132054,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,unknown,0.0059925098
+40,MCDONALD'S CORP,US5801351017,United States,USD,New York Stock Exchange,Equity,A2,S&P 500 Index,Consumer Discretionary,0.0056810896
+41,BURCKHARDT COMPRESSION HOLDING AG,CH0025536027,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Industrials,0.0056134686
+42,EVEREST GROUP LTD,BMG3223R1088,Bermuda,USD,New York Stock Exchange,Equity,A3,S&P 500 Index,Financials,0.0056131473
+43,ZSCALER INC,US98980G1022,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.005381275
+44,CARNIVAL CORP,PA1436583006,United States,USD,New York Stock Exchange,Equity,Baa1,S&P 500 Index,Consumer Discretionary,0.005011393
+45,CROWN CASTLE INC,US22822V1017,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0048487133
+46,JACKSON FINANCIAL INC,US46817M1071,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,0.0047480163
+47,CAPRI HOLDINGS LTD,VGG1890L1076,United Kingdom,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0047075468
+48,INTUITIVE SURGICAL INC,US46120E6023,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,0.0045131735
+49,LEGALZOOM.COM INC,US52466B1035,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Industrials,0.004484945
+50,DUKE ENERGY CORP,US26441C2044,United States,USD,New York Stock Exchange,Equity,A3,S&P 500 Index,Utilities,0.0042590453
+51,AEROVIRONMENT INC,US0080731088,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Industrials,0.0042457207
+52,TX GROUP AG,CH0011178255,Switzerland,CHF,-,Equity,-,Swiss Market Index,Consumer Discretionary,0.0041984768
+53,EXTREME NETWORKS INC,US30226D1063,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Telecommunications,0.0041813272
+54,INTERSHOP HOLDING AG,CH1338987303,Switzerland,CHF,-,Equity,-,Swiss Market Index,Real Estate,0.0041659548
+55,LIBERTY MEDIA CORP,US5312297717,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,unknown,0.0039904168
+56,IRON MOUNTAIN INC,US46284V1017,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0038691922
+57,KEROS THERAPEUTICS INC,US4923271013,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,0.0037935848
+58,DKSH HOLDING AG,CH0126673539,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Industrials,0.0037492341
+59,UBS GROUP AG,CH0244767585,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Financials,0.0037308355
+60,TENABLE HOLDINGS INC,US88025T1025,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0037259798
+61,AVALONBAY COMMUNITIES INC,US0534841012,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0035181015
+62,EQUITY RESIDENTIAL,US29476L1070,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0035125762
+63,VICI PROPERTIES INC,US9256521090,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0033026021
+64,FRONTDOOR INC,US35905A1097,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Consumer Discretionary,0.0032212947
+65,HONEYWELL INTERNATIONAL INC,US4385161066,United States,USD,New York Stock Exchange,Equity,A2,S&P 500 Index,Industrials,0.0031693223
+66,CADENCE BANK,US12740C1036,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,0.003122002
+67,METHODE ELECTRONICS INC,US5915202007,United States,USD,New York Stock Exchange,Equity,B1,S&P 500 Index,Technology,0.0031103328
+68,ACUSHNET HOLDINGS CORP,US0050981085,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0029654307
+69,INSULET CORP,US45784P1012,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,0.0029575658
+70,NXP SEMICONDUCTORS NV,NL0009538784,Netherlands,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0029497433
+71,GRANITE CONSTRUCTION INC,US3873281071,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Industrials,0.0029333009
+72,ENOVA INTERNATIONAL INC,US29357K1034,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,0.0028591592
+73,ASCENDIS PHARMA A/S,US04351P1012,Denmark,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,unknown,0.0028269002
+74,COMPAGNIE FINANCIERE TRADITION SA,CH0014345117,Switzerland,CHF,-,Equity,-,Swiss Market Index,unknown,0.002793149
+75,AVOLTA AG,CH0023405456,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Consumer Discretionary,0.0027621033
+76,ZUGER KANTONALBANK,CH0493891243,Switzerland,CHF,-,Equity,-,Swiss Market Index,unknown,0.0027339884
+77,KKR & CO INC,US48251W1045,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,0.0026901361
+78,BROOKDALE SENIOR LIVING INC,US1124631045,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Health Care,0.0025999533
+79,LENDINGCLUB CORP,US52603A2087,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,0.0025693501
+80,AMBAC FINANCIAL GROUP INC,US0231398845,United States,USD,New York Stock Exchange,Equity,B1,S&P 500 Index,Financials,0.0023442305
+81,GALENICA AG,CH0360674466,Switzerland,CHF,Scoach Switzerland,Equity,-,Swiss Market Index,Consumer Discretionary,0.0021269057
+82,NEWMONT CORPORATION,US6516391066,United States,USD,New York Stock Exchange,Equity,Baa2,S&P 500 Index,Basic Materials,0.0019764717
+83,WEC ENERGY GROUP INC,US92939U1060,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Utilities,0.0019700083
+84,WIX.COM LTD,IL0011301780,Israel,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0018199917
+85,ANALOG DEVICES INC,US0326541051,United States,USD,NASDAQ National Market System,Equity,A3,NASDAQ Composite Index,Technology,0.0016957842
+86,INTEL CORP,US4581401001,United States,USD,NASDAQ National Market System,Equity,A1,NASDAQ Composite Index,Technology,0.0016941695
+87,ZETA GLOBAL HOLDINGS CORP,US98956A1051,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Technology,0.0015946066
+88,CONOCOPHILLIPS,US20825C1045,United States,USD,New York Stock Exchange,Equity,A1,S&P 500 Index,Energy,0.0015125795
+89,COTERRA ENERGY INC,US1270971039,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Energy,0.0014756396
+90,WALMART INC,US9311421039,United States,USD,New York Stock Exchange,Equity,Aa2,S&P 500 Index,Consumer Discretionary,0.0013973783
+91,XPONENTIAL FITNESS INC,US98422X1019,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0013754005
+92,ON SEMICONDUCTOR CORP,US6821891057,United States,USD,NASDAQ National Market System,Equity,Ba1,NASDAQ Composite Index,Technology,0.0013436303
+93,SUN COMMUNITIES INC,US8666741041,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Real Estate,0.0013111948
+94,EZCORP INC,US3023011063,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Financials,0.0013111294
+95,ELF BEAUTY INC,US26856L1035,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0010242763
+96,LENNAR CORP,US5260571048,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Consumer Discretionary,0.0009965476
+97,CME GROUP INC,US12572Q1058,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Financials,0.0009228547
+98,ATLASSIAN CORP,US0494681010,Australia,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0008988301
+99,MARA HOLDINGS INC,US5657881067,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Financials,0.0008988032
+100,SENTINELONE INC,US81730H1095,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Technology,0.0008674028
+101,PORTILLOS INC,US73642K1060,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Consumer Discretionary,0.0008209758
+102,VIR BIOTECHNOLOGY INC,US92764N1028,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,0.0007565383
+103,MYR GROUP INC,US55405W1045,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Industrials,0.0007341292
+104,TESLA INC,US88160R1014,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Consumer Staples,0.0007177207
+105,MARSH & MCLENNAN COMPANIES INC,US5717481023,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,0.0007050926
+106,NORTHROP GRUMMAN CORP,US6668071029,United States,USD,New York Stock Exchange,Equity,Baa2,S&P 500 Index,Industrials,0.0006553792
+107,GRID DYNAMICS HOLDINGS INC,US39813G1094,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Technology,0.0006221263
+108,UNITEDHEALTH GROUP INC,US91324P1021,United States,USD,New York Stock Exchange,Equity,A3,S&P 500 Index,Health Care,0.0005783664
+109,OCCIDENTAL PETROLEUM CORP,US6745991058,United States,USD,New York Stock Exchange,Equity,A1,S&P 500 Index,Energy,0.0005757941
+110,HENRY SCHEIN INC,US8064071025,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,0.0005022076
+111,ROYAL CARIBBEAN CRUISES LTD,LR0008862868,United States,USD,New York Stock Exchange,Equity,Ba1,S&P 500 Index,Consumer Discretionary,0.0004923873
+112,NEWS CORP,US65249B1098,United States,USD,NASDAQ National Market System,Equity,Baa1,NASDAQ Composite Index,Consumer Discretionary,0.000375121
+113,NMI HOLDINGS INC,US6292093050,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Financials,0.0003257769
+114,DEXCOM INC,US2521311074,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,0.0002960049
+115,HUMANA INC,US4448591028,United States,USD,New York Stock Exchange,Equity,Aa2,S&P 500 Index,Health Care,0.0001111943
+116,WORKIVA INC,US98139A1051,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Technology,9.36931e-05
+117,YUM! BRANDS INC,US9884981013,United States,USD,New York Stock Exchange,Equity,Baa3,S&P 500 Index,Consumer Discretionary,8.995e-05
+118,RAYMOND JAMES FINANCIAL INC,US7547301090,United States,USD,New York Stock Exchange,Equity,-,S&P 500 Index,Financials,8.56098e-05
+119,ALPHABET INC,US02079K3059,United States,USD,NASDAQ National Market System,Equity,Aa2,NASDAQ Composite Index,Technology,4.91122e-05
+120,DEERE & CO,US2441991054,United States,USD,New York Stock Exchange,Equity,A2,S&P 500 Index,Industrials,4.54125e-05
+121,IDEXX LABORATORIES INC,US45168D1046,United States,USD,NASDAQ National Market System,Equity,-,NASDAQ Composite Index,Health Care,3.72449e-05
+122,WW GRAINGER INC,US3848021040,United States,USD,New York Stock Exchange,Equity,Aa1,S&P 500 Index,Industrials,2.9478e-05
+123,FEDEX CORP,US31428X1063,United States,USD,New York Stock Exchange,Equity,Baa1,S&P 500 Index,Industrials,2.31662e-05
+124,PPG INDUSTRIES INC,US6935061076,United States,USD,New York Stock Exchange,Equity,Baa1,S&P 500 Index,Industrials,8.599e-07

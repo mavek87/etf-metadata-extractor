@@ -1,0 +1,33 @@
+{
+  "ISIN": "LU0292096186",
+  "data": "2025-08-25 19:21:27",
+  "total_rows": 124,
+  "valid_rows": 124,
+  "weight_sum": 0.9999999943999999,
+  "num_sectors": 12,
+  "num_countries": 12,
+  "top_10_sectors": {
+    "Technology": 0.43296478509999997,
+    "Industrials": 0.1460185055,
+    "Consumer Discretionary": 0.0919631867,
+    "Health Care": 0.0765730408,
+    "Financials": 0.0654478763,
+    "Basic Materials": 0.0510135788,
+    "Real Estate": 0.0491427563,
+    "Energy": 0.041019441000000004,
+    "unknown": 0.0347287224,
+    "Utilities": 0.0062290536
+  },
+  "top_10_countries": {
+    "United States": 0.6829843646,
+    "Switzerland": 0.1292904645,
+    "United Kingdom": 0.053744653899999995,
+    "Ireland": 0.0487422173,
+    "Brazil": 0.0330448873,
+    "Luxembourg": 0.0172200728,
+    "Belgium": 0.0138036563,
+    "Bermuda": 0.012674212399999999,
+    "Netherlands": 0.0029497433,
+    "Denmark": 0.0028269002
+  }
+}

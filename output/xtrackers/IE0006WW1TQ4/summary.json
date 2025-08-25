@@ -1,0 +1,33 @@
+{
+  "ISIN": "IE0006WW1TQ4",
+  "data": "2025-08-25 19:21:27",
+  "total_rows": 796,
+  "valid_rows": 794,
+  "weight_sum": 0.9999999608999999,
+  "num_sectors": 12,
+  "num_countries": 29,
+  "top_10_sectors": {
+    "Financials": 0.2598338743,
+    "Industrials": 0.1774887928,
+    "Health Care": 0.0976495753,
+    "Consumer Discretionary": 0.0907445905,
+    "Information Technology": 0.0806809066,
+    "Consumer Staples": 0.0736959157,
+    "Materials": 0.0637374127,
+    "Communication Services": 0.0486794214,
+    "Energy": 0.0472230189,
+    "Utilities": 0.033343576
+  },
+  "top_10_countries": {
+    "Japan": 0.1954006938,
+    "United Kingdom": 0.1245021049,
+    "Canada": 0.1097331381,
+    "France": 0.09462730429999999,
+    "Germany": 0.0883715357,
+    "Switzerland": 0.0853059716,
+    "Australia": 0.0587129671,
+    "Netherlands": 0.0412600647,
+    "Spain": 0.0302444672,
+    "Italy": 0.0277995656
+  }
+}
