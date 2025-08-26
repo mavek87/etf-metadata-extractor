@@ -1,0 +1,108 @@
+portId,date,countryCode,countryName,fundMktPercent,holdingStatCode,benchmarkMktPercent,regionCode,regionName,__typename
+9679,2025-07-31,AE,United Arab Emirates,0.20327,FTCTYATPCS,0.20284,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,AT,Austria,0.0548,FTCTYATPCS,0.05462,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,AU,Australia,1.68341,FTCTYATPCS,1.69043,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,BE,Belgium,0.23663,FTCTYATPCS,0.23069,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,BR,Brazil,0.39996,FTCTYATPCS,0.4007,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CA,Canada,2.42913,FTCTYATPCS,2.43612,NA,North America,FundMarketAllocationType
+9679,2025-07-31,CH,Switzerland,2.03202,FTCTYATPCS,2.04066,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,CL,Chile,0.05531,FTCTYATPCS,0.05438,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CN,China,3.34777,FTCTYATPCS,3.37175,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CO,Colombia,0.0107,FTCTYATPCS,0.01278,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CZ,Czech Republic,0.01915,FTCTYATPCS,0.01623,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,DE,Germany,2.19406,FTCTYATPCS,2.19189,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,DK,Denmark,0.41195,FTCTYATPCS,0.40827,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,EG,Egypt,0.00496,FTCTYATPCS,0.00518,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,ES,Spain,0.76018,FTCTYATPCS,0.75548,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,FI,Finland,0.22751,FTCTYATPCS,0.22585,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,FR,France,2.3481,FTCTYATPCS,2.34375,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,GB,United Kingdom,3.43766,FTCTYATPCS,3.384,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,GR,Greece,0.07878,FTCTYATPCS,0.08061,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,HK,Hong Kong,0.51796,FTCTYATPCS,0.5178,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,HU,Hungary,0.0329,FTCTYATPCS,0.03356,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,ID,Indonesia,0.12215,FTCTYATPCS,0.12509,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,IE,Ireland,0.06961,FTCTYATPCS,0.06969,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,IL,Israel,0.21603,FTCTYATPCS,0.21207,ME,Middle East,FundMarketAllocationType
+9679,2025-07-31,IN,India,2.0313,FTCTYATPCS,2.02126,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,IS,Iceland,0.00757,FTCTYATPCS,0.00908,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,IT,Italy,0.75218,FTCTYATPCS,0.75723,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,JP,Japan,5.53553,FTCTYATPCS,5.5445,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,KR,Korea,1.1693,FTCTYATPCS,1.17514,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,KW,Kuwait,0.09086,FTCTYATPCS,0.08637,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,MX,Mexico,0.21509,FTCTYATPCS,0.21532,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,MY,Malaysia,0.15906,FTCTYATPCS,0.16072,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,NL,Netherlands,0.9256,FTCTYATPCS,0.92904,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,NO,Norway,0.1327,FTCTYATPCS,0.13419,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,NZ,New Zealand,0.05842,FTCTYATPCS,0.05693,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,OT,Other,0.00029,FTCTYATPCS,,OT,Other,FundMarketAllocationType
+9679,2025-07-31,PH,Philippines,0.05208,FTCTYATPCS,0.05181,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,PL,Poland,0.0955,FTCTYATPCS,0.09671,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,PT,Portugal,0.0452,FTCTYATPCS,0.0448,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,QA,Qatar,0.08867,FTCTYATPCS,0.08749,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,RO,Romania,0.01318,FTCTYATPCS,0.01642,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,RU,Russia,0.0,FTCTYATPCS,,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,SA,Saudi Arabia,0.37033,FTCTYATPCS,0.37899,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,SE,Sweden,0.69737,FTCTYATPCS,0.70118,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,SG,Singapore,0.33475,FTCTYATPCS,0.33114,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,TH,Thailand,0.15224,FTCTYATPCS,0.15336,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,TR,Turkey,0.08587,FTCTYATPCS,0.09692,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,TW,Taiwan,2.06436,FTCTYATPCS,2.0545,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,US,United States,63.67204,FTCTYATPCS,63.6758,NA,North America,FundMarketAllocationType
+9679,2025-07-31,ZA,South Africa,0.35648,FTCTYATPCS,0.35664,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,AE,United Arab Emirates,0.1935,MSCTYATPCS,0.19047,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,AT,Austria,0.0548,MSCTYATPCS,0.05462,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,AU,Australia,1.67858,MSCTYATPCS,1.68506,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,BE,Belgium,0.23663,MSCTYATPCS,0.23069,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,BR,Brazil,0.44596,MSCTYATPCS,0.44538,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CA,Canada,2.42913,MSCTYATPCS,2.43612,NA,North America,FundMarketAllocationType
+9679,2025-07-31,CH,Switzerland,2.03202,MSCTYATPCS,2.04066,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,CL,Chile,0.05531,MSCTYATPCS,0.05438,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CN,China,3.35564,MSCTYATPCS,3.30427,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CO,Colombia,0.0107,MSCTYATPCS,0.01278,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,CZ,Czech Republic,0.01915,MSCTYATPCS,0.01623,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,DE,Germany,2.1918,MSCTYATPCS,2.1894,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,DK,Denmark,0.41195,MSCTYATPCS,0.40827,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,EG,Egypt,0.00496,MSCTYATPCS,0.00518,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,ES,Spain,0.75845,MSCTYATPCS,0.75226,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,FI,Finland,0.22557,MSCTYATPCS,0.22585,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,FR,France,2.30345,MSCTYATPCS,2.35918,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,GB,United Kingdom,3.33752,MSCTYATPCS,3.33227,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,GR,Greece,0.07878,MSCTYATPCS,0.07258,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,HK,Hong Kong,0.47306,MSCTYATPCS,0.47379,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,HU,Hungary,0.0329,MSCTYATPCS,0.03356,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,ID,Indonesia,0.12215,MSCTYATPCS,0.12509,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,IE,Ireland,0.08454,MSCTYATPCS,0.06969,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,IL,Israel,0.23386,MSCTYATPCS,0.23036,ME,Middle East,FundMarketAllocationType
+9679,2025-07-31,IN,India,1.96264,MSCTYATPCS,1.99743,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,IS,Iceland,0.00757,MSCTYATPCS,0.00908,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,IT,Italy,0.75579,MSCTYATPCS,0.75723,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,JP,Japan,5.53553,MSCTYATPCS,5.5445,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,KR,Korea,1.21267,MSCTYATPCS,1.17514,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,KW,Kuwait,0.09086,MSCTYATPCS,0.08637,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,MX,Mexico,0.21509,MSCTYATPCS,0.21532,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,MY,Malaysia,0.15906,MSCTYATPCS,0.16072,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,NL,Netherlands,0.93336,MSCTYATPCS,0.91361,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,NO,Norway,0.1327,MSCTYATPCS,0.13419,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,NZ,New Zealand,0.06213,MSCTYATPCS,0.05693,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,OT,Other,0.19623,MSCTYATPCS,0.28016,OT,Other,FundMarketAllocationType
+9679,2025-07-31,PE,Peru,0.02933,MSCTYATPCS,0.02778,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,PH,Philippines,0.05208,MSCTYATPCS,0.05181,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,PL,Poland,0.0955,MSCTYATPCS,0.09671,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,PT,Portugal,0.0452,MSCTYATPCS,0.0448,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,QA,Qatar,0.08867,MSCTYATPCS,0.08749,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,RO,Romania,0.01318,MSCTYATPCS,0.01642,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,RU,Russia,0.0,MSCTYATPCS,,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,SA,Saudi Arabia,0.37033,MSCTYATPCS,0.37899,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,SE,Sweden,0.81014,MSCTYATPCS,0.81264,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,SG,Singapore,0.33745,MSCTYATPCS,0.33626,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,TH,Thailand,0.1368,MSCTYATPCS,0.15185,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,TR,Turkey,0.08449,MSCTYATPCS,0.09491,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,TW,Taiwan,2.06436,MSCTYATPCS,2.0545,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,US,United States,63.4819,MSCTYATPCS,63.41037,NA,North America,FundMarketAllocationType
+9679,2025-07-31,ZA,South Africa,0.35648,MSCTYATPCS,0.35664,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,,,9.88326,SASTTYPPC,9.91139,EM,Emerging Markets,FundMarketAllocationType
+9679,2025-07-31,,,14.49985,SASTTYPPC,14.44866,EU,Europe,FundMarketAllocationType
+9679,2025-07-31,,,9.29937,SASTTYPPC,9.31594,FE,Pacific,FundMarketAllocationType
+9679,2025-07-31,,,0.21603,SASTTYPPC,0.21207,ME,Middle East,FundMarketAllocationType
+9679,2025-07-31,,,66.10117,SASTTYPPC,66.11192,NA,North America,FundMarketAllocationType
+9679,2025-07-31,,,0.00029,SASTTYPPC,,OT,Other,FundMarketAllocationType
