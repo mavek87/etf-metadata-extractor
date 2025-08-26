@@ -103,13 +103,29 @@ sector and regions: at the moment any URL found. They can be found scraping the 
 
 ### Fidelity
 
+https://www.fidelity-italia.it/xapi/fund/portfolio/download/fundFullHolding?id=IE00BYXVGZ48&countries=it&country=it&languages=it%2Cen&language=it&channels=ce.private-investor%2Cce.professional-investor&channel=ce.professional-investor&r=1756198976642
+
+sector and regions: at the moment any URL found. They can be found scraping the web page.
+
 ### WisdomTree
+
+similar to vanguard but even worst because the url to download the csv file is hidden in js code
+sector and regions: at the moment any URL found. They can be found scraping the web page.
 
 ### VanEck
 
+similar to vanguard but even worst because the url to download the csv file is hidden in js code
+sector and regions: at the moment any URL found. They can be found scraping the web page.
+
 ### HSBC
 
+https://www.assetmanagement.hsbc.it/it/api/v1/download/document/ie00b5l01s80/it/it/holdings
+
+no sector. Could be scraped but it's not easy
+
 ### Franklin Templeton
+
+similar to vanguard but even worst because the url to download the csv file is hidden in js code
 
 ### UBS
 
@@ -120,4 +136,9 @@ sector and regions: at the moment any URL found. They can be found scraping the 
 ### BNP
 
 ### Ossiam
+
+
+# alternative site to download sectors and other data
+
+https://global.morningstar.com/it/investimenti/etf/0P0001BJX7/portafoglio
 
