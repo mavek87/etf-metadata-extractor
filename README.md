@@ -97,9 +97,14 @@ https://dng-api.invesco.com/cache/v1/accounts/it_IT/shareclasses/IE000OEF25S1/we
 
 ### JPMorgan
 
-https://am.jpmorgan.com/FundsMarketingHandler/excel?type=dailyETFHoldings&cusip=IE00BF4G6Y48&country=it&role=per&fundType=N_ETF&locale=it-IT&isUnderlyingHolding=false&isProxyHolding=false
+- List of all the ETFs: https://am.jpmorgan.com/FundsMarketingHandler/fund-explorer-label?country=it&language=it&version=8.15_1755008531
 
-sector and regions: at the moment any URL found. They can be found scraping the web page.
+- All the json data: https://am.jpmorgan.com/FundsMarketingHandler/product-data?cusip=IE00BF4G6Y48&country=it&role=per&language=it&userLoggedIn=false&version=8.15_1755008531
+  - key: emeaRegionalBreakdown -> regions
+  - key: emeaSectorBreakdown -> sectors
+  - key: dailyHoldingsAll -> holdings
+
+- report (probably useless): https://am.jpmorgan.com/FundsMarketingHandler/excel?type=dailyETFHoldings&cusip=IE00BF4G6Y48&country=it&role=per&fundType=N_ETF&locale=it-IT&isUnderlyingHolding=false&isProxyHolding=false
 
 ### Fidelity
 
