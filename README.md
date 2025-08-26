@@ -91,7 +91,15 @@ To collect correct data, it is important to use official csv files provided by t
 
 ### Invesco
 
+https://dng-api.invesco.com/cache/v1/accounts/it_IT/shareclasses/IE000OEF25S1/holdings/index?idType=isin
+https://dng-api.invesco.com/cache/v1/accounts/it_IT/shareclasses/IE000OEF25S1/weightedHoldings/fund?idType=isin&breakdown=sector&audienceType=Financial%20Professional&productType=ETF
+https://dng-api.invesco.com/cache/v1/accounts/it_IT/shareclasses/IE000OEF25S1/weightedHoldings/fund?idType=isin&breakdown=country&audienceType=Financial%20Professional&productType=ETF
+
 ### JPMorgan
+
+https://am.jpmorgan.com/FundsMarketingHandler/excel?type=dailyETFHoldings&cusip=IE00BF4G6Y48&country=it&role=per&fundType=N_ETF&locale=it-IT&isUnderlyingHolding=false&isProxyHolding=false
+
+sector and regions: at the moment any URL found. They can be found scraping the web page.
 
 ### Fidelity
 
