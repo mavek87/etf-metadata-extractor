@@ -1,0 +1,7937 @@
+{
+  "effectiveDate": "2025-08-25",
+  "holdings": [
+    {
+      "name": "CHEVRON CORP USD0.75",
+      "isin": "US1667641005",
+      "cusip": "166764100",
+      "weight": 0.1741
+    },
+    {
+      "name": "REDDIT INC-CL USD 0.000100000",
+      "isin": "US75734B1008",
+      "cusip": "75734B100",
+      "weight": 0.1543
+    },
+    {
+      "name": "SOFTBANK GROUP CORP NPV",
+      "isin": "JP3436100006",
+      "cusip": "J7596P109",
+      "weight": 0.1438
+    },
+    {
+      "name": "FUJIKURA LTD NPV",
+      "isin": "JP3811000003",
+      "cusip": "J14784128",
+      "weight": 0.1375
+    },
+    {
+      "name": "CELESTICA INC CAD NPV",
+      "isin": "CA15101Q2071",
+      "cusip": "15101Q207",
+      "weight": 0.1273
+    },
+    {
+      "name": "FUTU HOLDINGS LTD-ADR",
+      "isin": "US36118L1061",
+      "cusip": "36118L106",
+      "weight": 0.126
+    },
+    {
+      "name": "SYNOPSYS INC USD0.01",
+      "isin": "US8716071076",
+      "cusip": "871607107",
+      "weight": 0.1246
+    },
+    {
+      "name": "SBI HOLDINGS INC NPV",
+      "isin": "JP3436120004",
+      "cusip": "J6991H100",
+      "weight": 0.1229
+    },
+    {
+      "name": "NESTE OYJ NPV",
+      "isin": "FI0009013296",
+      "cusip": "X5688A109",
+      "weight": 0.121
+    },
+    {
+      "name": "ROBINHOOD MARKETS INC - A USD 0.0001",
+      "isin": "US7707001027",
+      "cusip": "770700102",
+      "weight": 0.1186
+    },
+    {
+      "name": "SEAGATE TECHNOLOGY HOLDINGS USD NPV",
+      "isin": "IE00BKVD2N49",
+      "cusip": "G7997R103",
+      "weight": 0.1136
+    },
+    {
+      "name": "ROBLOX CORP -CLASS A USD 0.0001",
+      "isin": "US7710491033",
+      "cusip": "771049103",
+      "weight": 0.113
+    },
+    {
+      "name": "WESTERN DIGITAL CORP USD0.01",
+      "isin": "US9581021055",
+      "cusip": "958102105",
+      "weight": 0.1115
+    },
+    {
+      "name": "BARRY CALLEBAUT AG-REG CHF0.02",
+      "isin": "CH0009002962",
+      "cusip": "H05072105",
+      "weight": 0.1115
+    },
+    {
+      "name": "ADVANTEST CORP NPV",
+      "isin": "JP3122400009",
+      "cusip": "J00210104",
+      "weight": 0.1104
+    },
+    {
+      "name": "ALNYLAM PHARMACEUTICALS INC USD0.01",
+      "isin": "US02043Q1076",
+      "cusip": "02043Q107",
+      "weight": 0.1083
+    },
+    {
+      "name": "SUMITOMO ELECTRIC INDUSTRIES NPV",
+      "isin": "JP3407400005",
+      "cusip": "J77411114",
+      "weight": 0.107
+    },
+    {
+      "name": "CAMECO CORP NPV",
+      "isin": "CA13321L1085",
+      "cusip": "13321L108",
+      "weight": 0.1065
+    },
+    {
+      "name": "ADVANCED MICRO DEVICES USD0.01",
+      "isin": "US0079031078",
+      "cusip": "007903107",
+      "weight": 0.1056
+    },
+    {
+      "name": "FUJI ELECTRIC CO LTD NPV",
+      "isin": "JP3820000002",
+      "cusip": "J14112106",
+      "weight": 0.105
+    },
+    {
+      "name": "ORACLE CORP USD0.01",
+      "isin": "US68389X1054",
+      "cusip": "68389X105",
+      "weight": 0.1048
+    },
+    {
+      "name": "TERADYNE INC USD0.125",
+      "isin": "US8807701029",
+      "cusip": "880770102",
+      "weight": 0.1047
+    },
+    {
+      "name": "COMMERZBANK AG NPV",
+      "isin": "DE000CBK1001",
+      "cusip": "D172W1279",
+      "weight": 0.1032
+    },
+    {
+      "name": "GALDERMA GROUP CHF 0.010000000",
+      "isin": "CH1335392721",
+      "cusip": "H3301B107",
+      "weight": 0.1029
+    },
+    {
+      "name": "BLOCK INC USD 0.0000001",
+      "isin": "US8522341036",
+      "cusip": "852234103",
+      "weight": 0.1023
+    },
+    {
+      "name": "WARTSILA OYJ ABP NPV",
+      "isin": "FI0009003727",
+      "cusip": "X98155116",
+      "weight": 0.1023
+    },
+    {
+      "name": "PAN AMERICAN SILVER CORP NPV",
+      "isin": "CA6979001089",
+      "cusip": "697900108",
+      "weight": 0.1018
+    },
+    {
+      "name": "Barrick Mining Corp CAD NPV",
+      "isin": "CA06849F1080",
+      "cusip": "06849F108",
+      "weight": 0.1013
+    },
+    {
+      "name": "ROYAL CARIBBEAN CRUISES LTD USD0.01",
+      "isin": "LR0008862868",
+      "cusip": "V7780T103",
+      "weight": 0.1011
+    },
+    {
+      "name": "JDE PEET'S BV NPV",
+      "isin": "NL0014332678",
+      "cusip": "N44664105",
+      "weight": 0.1002
+    },
+    {
+      "name": "PRYSMIAN SPA EUR0.1",
+      "isin": "IT0004176001",
+      "cusip": "T7630L105",
+      "weight": 0.1
+    },
+    {
+      "name": "LUNDIN GOLD INC CAD NPV",
+      "isin": "CA5503711080",
+      "cusip": "550371108",
+      "weight": 0.0997
+    },
+    {
+      "name": "ACCIONA SA EUR1",
+      "isin": "ES0125220311",
+      "cusip": "E0008Z109",
+      "weight": 0.0996
+    },
+    {
+      "name": "GE VERNOVA LLC USD 0.0100",
+      "isin": "US36828A1016",
+      "cusip": "36828A101",
+      "weight": 0.0993
+    },
+    {
+      "name": "CORNING INC USD0.5",
+      "isin": "US2193501051",
+      "cusip": "219350105",
+      "weight": 0.0992
+    },
+    {
+      "name": "ARISTA NETWORKS INC USD NPV",
+      "isin": "US0404132054",
+      "cusip": "040413205",
+      "weight": 0.0991
+    },
+    {
+      "name": "KINROSS GOLD CORP NPV",
+      "isin": "CA4969024047",
+      "cusip": "496902404",
+      "weight": 0.0985
+    },
+    {
+      "name": "SANDS CHINA LTD USD0.01",
+      "isin": "KYG7800X1079",
+      "cusip": "G7800X107",
+      "weight": 0.0984
+    },
+    {
+      "name": "ROGERS COMMUNICATIONS INC-B NPV",
+      "isin": "CA7751092007",
+      "cusip": "775109200",
+      "weight": 0.0983
+    },
+    {
+      "name": "DR HORTON INC USD0.01",
+      "isin": "US23331A1097",
+      "cusip": "23331A109",
+      "weight": 0.0981
+    },
+    {
+      "name": "LAS VEGAS SANDS CORP USD0.001",
+      "isin": "US5178341070",
+      "cusip": "517834107",
+      "weight": 0.0979
+    },
+    {
+      "name": "CARLYLE GROUP INC/THE USD1",
+      "isin": "US14316J1088",
+      "cusip": "14316J108",
+      "weight": 0.0977
+    },
+    {
+      "name": "CARNIVAL CORP USD0.01",
+      "isin": "PA1436583006",
+      "cusip": "143658300",
+      "weight": 0.0973
+    },
+    {
+      "name": "NEWMONT CORP USD1.6",
+      "isin": "US6516391066",
+      "cusip": "651639106",
+      "weight": 0.0969
+    },
+    {
+      "name": "UNITED RENTALS INC USD0.01",
+      "isin": "US9113631090",
+      "cusip": "911363109",
+      "weight": 0.0967
+    },
+    {
+      "name": "EBAY INC USD0.001",
+      "isin": "US2786421030",
+      "cusip": "278642103",
+      "weight": 0.0967
+    },
+    {
+      "name": "GRIFOLS SA EUR0.25",
+      "isin": "ES0171996087",
+      "cusip": "E5706X215",
+      "weight": 0.0966
+    },
+    {
+      "name": "YANGZIJIANG SHIPBUILDING NPV",
+      "isin": "SG1U76934819",
+      "cusip": "Y9728A102",
+      "weight": 0.0965
+    },
+    {
+      "name": "JAPAN POST INSURANCE CO LTD NPV",
+      "isin": "JP3233250004",
+      "cusip": "J2800E107",
+      "weight": 0.096
+    },
+    {
+      "name": "EMCOR GROUP INC USD0.01",
+      "isin": "US29084Q1004",
+      "cusip": "29084Q100",
+      "weight": 0.0959
+    },
+    {
+      "name": "ESTEE LAUDER COMPANIES-CL A USD0.01",
+      "isin": "US5184391044",
+      "cusip": "518439104",
+      "weight": 0.0956
+    },
+    {
+      "name": "UNITED AIRLINES HOLDINGS INC USD0.01",
+      "isin": "US9100471096",
+      "cusip": "910047109",
+      "weight": 0.0956
+    },
+    {
+      "name": "BROADCOM INC NPV",
+      "isin": "US11135F1012",
+      "cusip": "11135F101",
+      "weight": 0.0956
+    },
+    {
+      "name": "NVIDIA CORP USD0.001",
+      "isin": "US67066G1040",
+      "cusip": "67066G104",
+      "weight": 0.0955
+    },
+    {
+      "name": "GALAXY ENTERTAINMENT GROUP L NPV",
+      "isin": "HK0027032686",
+      "cusip": "Y2679D118",
+      "weight": 0.095
+    },
+    {
+      "name": "SHOPIFY INC - CLASS A NPV",
+      "isin": "CA82509L1076",
+      "cusip": "82509L107",
+      "weight": 0.0946
+    },
+    {
+      "name": "BRITISH AMERICAN TOBACCO PLC GBP0.25",
+      "isin": "GB0002875804",
+      "cusip": "G1510J102",
+      "weight": 0.0945
+    },
+    {
+      "name": "FERGUSON ENTERPRISES INC/DE USD NPV",
+      "isin": "US31488V1070",
+      "cusip": "31488V107",
+      "weight": 0.0945
+    },
+    {
+      "name": "CBRE GROUP INC - A USD0.01",
+      "isin": "US12504L1098",
+      "cusip": "12504L109",
+      "weight": 0.0943
+    },
+    {
+      "name": "EVOLUTION AB SEK 0.003",
+      "isin": "SE0012673267",
+      "cusip": "W3287P115",
+      "weight": 0.0939
+    },
+    {
+      "name": "ULTA BEAUTY INC NPV",
+      "isin": "US90384S3031",
+      "cusip": "90384S303",
+      "weight": 0.0939
+    },
+    {
+      "name": "MITSUBISHI HEAVY INDUSTRIES NPV",
+      "isin": "JP3900000005",
+      "cusip": "J44002178",
+      "weight": 0.0938
+    },
+    {
+      "name": "Expedia Group Inc USD0.001",
+      "isin": "US30212P3038",
+      "cusip": "30212P303",
+      "weight": 0.0937
+    },
+    {
+      "name": "LUNDIN MINING CORP NPV",
+      "isin": "CA5503721063",
+      "cusip": "550372106",
+      "weight": 0.0937
+    },
+    {
+      "name": "NEW DUKE HOLDCO INC-CL A USD NPV",
+      "isin": "US26142V1052",
+      "cusip": "26142V105",
+      "weight": 0.0936
+    },
+    {
+      "name": "TOHO CO LTD NPV",
+      "isin": "JP3598600009",
+      "cusip": "J84764117",
+      "weight": 0.0933
+    },
+    {
+      "name": "DEUTSCHE BANK AG-REGISTERED NPV",
+      "isin": "DE0005140008",
+      "cusip": "D18190898",
+      "weight": 0.0933
+    },
+    {
+      "name": "PULTEGROUP INC USD0.01",
+      "isin": "US7458671010",
+      "cusip": "745867101",
+      "weight": 0.0932
+    },
+    {
+      "name": "WARNER BROS DISCOVERY INC USD NPV",
+      "isin": "US9344231041",
+      "cusip": "934423104",
+      "weight": 0.093
+    },
+    {
+      "name": "NUCOR CORP USD0.4",
+      "isin": "US6703461052",
+      "cusip": "670346105",
+      "weight": 0.0928
+    },
+    {
+      "name": "MAGNA INTERNATIONAL INC NPV",
+      "isin": "CA5592224011",
+      "cusip": "559222401",
+      "weight": 0.0928
+    },
+    {
+      "name": "INPEX CORP NPV",
+      "isin": "JP3294460005",
+      "cusip": "J2467E101",
+      "weight": 0.0926
+    },
+    {
+      "name": "BT GROUP PLC GBP0.05",
+      "isin": "GB0030913577",
+      "cusip": "G16612106",
+      "weight": 0.0926
+    },
+    {
+      "name": "INCYTE CORP USD0.001",
+      "isin": "US45337C1027",
+      "cusip": "45337C102",
+      "weight": 0.0925
+    },
+    {
+      "name": "ROLLS-ROYCE HOLDINGS PLC GBP0.2",
+      "isin": "GB00B63H8491",
+      "cusip": "G76225104",
+      "weight": 0.0925
+    },
+    {
+      "name": "SAPUTO INC NPV",
+      "isin": "CA8029121057",
+      "cusip": "802912105",
+      "weight": 0.0924
+    },
+    {
+      "name": "MELROSE INDUSTRIES PLC GBP NPV",
+      "isin": "GB00BNGDN821",
+      "cusip": "G5973J210",
+      "weight": 0.0924
+    },
+    {
+      "name": "C.H. ROBINSON WORLDWIDE INC USD0.1",
+      "isin": "US12541W2098",
+      "cusip": "12541W209",
+      "weight": 0.0924
+    },
+    {
+      "name": "IQVIA HOLDINGS INC USD0.01",
+      "isin": "US46266C1053",
+      "cusip": "46266C105",
+      "weight": 0.0924
+    },
+    {
+      "name": "NEXON CO LTD NPV",
+      "isin": "JP3758190007",
+      "cusip": "J4914X104",
+      "weight": 0.0922
+    },
+    {
+      "name": "BAYER AG-REG NPV",
+      "isin": "DE000BAY0017",
+      "cusip": "D0712D163",
+      "weight": 0.0922
+    },
+    {
+      "name": "FLUTTER ENTERT USD 0.090000000",
+      "isin": "IE00BWT6H894",
+      "cusip": "G3643J108",
+      "weight": 0.0922
+    },
+    {
+      "name": "UCB SA NPV",
+      "isin": "BE0003739530",
+      "cusip": "B93562120",
+      "weight": 0.0921
+    },
+    {
+      "name": "Sandoz Group AG CHF 0.05",
+      "isin": "CH1243598427",
+      "cusip": "H7140B103",
+      "weight": 0.092
+    },
+    {
+      "name": "IDEXX LABORATORIES INC USD0.1",
+      "isin": "US45168D1046",
+      "cusip": "45168D104",
+      "weight": 0.0919
+    },
+    {
+      "name": "ASHTEAD GROUP PLC GBP 10.0000",
+      "isin": "GB0000536739",
+      "cusip": "G05320109",
+      "weight": 0.0919
+    },
+    {
+      "name": "ARCHER-DANIELS-MIDLAND CO NPV",
+      "isin": "US0394831020",
+      "cusip": "039483102",
+      "weight": 0.0919
+    },
+    {
+      "name": "CONCORDIA FINANCIAL GROUP LT NPV",
+      "isin": "JP3305990008",
+      "cusip": "J08613101",
+      "weight": 0.0918
+    },
+    {
+      "name": "NORTHROP GRUMMAN CORP USD1",
+      "isin": "US6668071029",
+      "cusip": "666807102",
+      "weight": 0.0915
+    },
+    {
+      "name": "CENTRAL JAPAN RAILWAY CO NPV",
+      "isin": "JP3566800003",
+      "cusip": "J05523105",
+      "weight": 0.0913
+    },
+    {
+      "name": "CUMMINS INC USD2.5",
+      "isin": "US2310211063",
+      "cusip": "231021106",
+      "weight": 0.0912
+    },
+    {
+      "name": "KERING EUR4",
+      "isin": "FR0000121485",
+      "cusip": "F5433L103",
+      "weight": 0.0909
+    },
+    {
+      "name": "BUILDERS FIRSTSOURCE INC USD0.01",
+      "isin": "US12008R1077",
+      "cusip": "12008R107",
+      "weight": 0.0909
+    },
+    {
+      "name": "TOYOTA TSUSHO CORP NPV",
+      "isin": "JP3635000007",
+      "cusip": "J92719111",
+      "weight": 0.0908
+    },
+    {
+      "name": "HEWLETT PACKARD ENTERPRISE USD0.01",
+      "isin": "US42824C1099",
+      "cusip": "42824C109",
+      "weight": 0.0908
+    },
+    {
+      "name": "ZILLOW GROUP INC - C NPV",
+      "isin": "US98954M2008",
+      "cusip": "98954M200",
+      "weight": 0.0907
+    },
+    {
+      "name": "AMPHENOL CORP-CL A USD0.001",
+      "isin": "US0320951017",
+      "cusip": "032095101",
+      "weight": 0.0906
+    },
+    {
+      "name": "SMITH & NEPHEW PLC GBP 0.2000",
+      "isin": "GB0009223206",
+      "cusip": "G82343164",
+      "weight": 0.0906
+    },
+    {
+      "name": "Aisin Corp NPV",
+      "isin": "JP3102000001",
+      "cusip": "J00714105",
+      "weight": 0.0906
+    },
+    {
+      "name": "DAIKIN INDUSTRIES LTD NPV",
+      "isin": "JP3481800005",
+      "cusip": "J10038115",
+      "weight": 0.0905
+    },
+    {
+      "name": "M&G PLC GBP0.0005",
+      "isin": "GB00BKFB1C65",
+      "cusip": "G6107R102",
+      "weight": 0.0905
+    },
+    {
+      "name": "DAIFUKU CO LTD NPV",
+      "isin": "JP3497400006",
+      "cusip": "J08988107",
+      "weight": 0.0904
+    },
+    {
+      "name": "ENEOS HOLDINGS INC NPV",
+      "isin": "JP3386450005",
+      "cusip": "J29699105",
+      "weight": 0.0904
+    },
+    {
+      "name": "T&D HOLDINGS INC NPV",
+      "isin": "JP3539220008",
+      "cusip": "J86796109",
+      "weight": 0.0904
+    },
+    {
+      "name": "ORIX CORP NPV",
+      "isin": "JP3200450009",
+      "cusip": "J61933123",
+      "weight": 0.0904
+    },
+    {
+      "name": "TE CONNECTIVITY PLC USD NPV",
+      "isin": "IE000IVNQZ81",
+      "cusip": "G87052109",
+      "weight": 0.0902
+    },
+    {
+      "name": "Keppel Ltd NPV",
+      "isin": "SG1U68934629",
+      "cusip": "Y4722Z120",
+      "weight": 0.0902
+    },
+    {
+      "name": "CENOVUS ENERGY INC NPV",
+      "isin": "CA15135U1093",
+      "cusip": "15135U109",
+      "weight": 0.0901
+    },
+    {
+      "name": "WOODSIDE ENERGY GROUP LTD AUD NPV",
+      "isin": "AU0000224040",
+      "cusip": "Q98327333",
+      "weight": 0.0901
+    },
+    {
+      "name": "ASICS CORP NPV",
+      "isin": "JP3118000003",
+      "cusip": "J03234150",
+      "weight": 0.09
+    },
+    {
+      "name": "DEUTSCHE LUFTHANSA-REG NPV",
+      "isin": "DE0008232125",
+      "cusip": "D1908N106",
+      "weight": 0.0899
+    },
+    {
+      "name": "VISTRA CORP USD0.01",
+      "isin": "US92840M1027",
+      "cusip": "92840M102",
+      "weight": 0.0898
+    },
+    {
+      "name": "AGNICO EAGLE MINES LTD NPV",
+      "isin": "CA0084741085",
+      "cusip": "008474108",
+      "weight": 0.0898
+    },
+    {
+      "name": "FORTESCUE LTD NPV",
+      "isin": "AU000000FMG4",
+      "cusip": "Q39360104",
+      "weight": 0.0897
+    },
+    {
+      "name": "KBC GROUP NV NPV",
+      "isin": "BE0003565737",
+      "cusip": "B5337G162",
+      "weight": 0.0896
+    },
+    {
+      "name": "ORION OYJ-CLASS B EUR0.65",
+      "isin": "FI0009014377",
+      "cusip": "X6002Y112",
+      "weight": 0.0894
+    },
+    {
+      "name": "SIEMENS ENERGY AG NPV",
+      "isin": "DE000ENER6Y0",
+      "cusip": "D6T47E106",
+      "weight": 0.0894
+    },
+    {
+      "name": "MIZUHO FINANCIAL GROUP INC NPV",
+      "isin": "JP3885780001",
+      "cusip": "J4599L102",
+      "weight": 0.0893
+    },
+    {
+      "name": "BANCO DE SABADELL SA EUR0.125",
+      "isin": "ES0113860A34",
+      "cusip": "E15819191",
+      "weight": 0.0893
+    },
+    {
+      "name": "AEON CO LTD NPV",
+      "isin": "JP3388200002",
+      "cusip": "J00288100",
+      "weight": 0.0893
+    },
+    {
+      "name": "CITIGROUP INC USD0.01",
+      "isin": "US1729674242",
+      "cusip": "172967424",
+      "weight": 0.0893
+    },
+    {
+      "name": "BANCO BPM SPA NPV",
+      "isin": "IT0005218380",
+      "cusip": "T1708N101",
+      "weight": 0.0892
+    },
+    {
+      "name": "VEEVA SYSTEMS INC-CLASS A USD0.00001",
+      "isin": "US9224751084",
+      "cusip": "922475108",
+      "weight": 0.0892
+    },
+    {
+      "name": "PALANTIR TECHNOLOGIES INC-A USD0.001",
+      "isin": "US69608A1088",
+      "cusip": "69608A108",
+      "weight": 0.0891
+    },
+    {
+      "name": "DOORDASH INC - A USD NPV",
+      "isin": "US25809K1051",
+      "cusip": "25809K105",
+      "weight": 0.089
+    },
+    {
+      "name": "SITC INTERNATIONAL HOLDINGS HKD0.1",
+      "isin": "KYG8187G1055",
+      "cusip": "G8187G105",
+      "weight": 0.089
+    },
+    {
+      "name": "Jabil Inc USD0.001",
+      "isin": "US4663131039",
+      "cusip": "466313103",
+      "weight": 0.0889
+    },
+    {
+      "name": "CLOUDFLARE INC - CLASS A USD0.001",
+      "isin": "US18915M1071",
+      "cusip": "18915M107",
+      "weight": 0.0889
+    },
+    {
+      "name": "TOROMONT INDUSTRIES LTD NPV",
+      "isin": "CA8911021050",
+      "cusip": "891102105",
+      "weight": 0.0889
+    },
+    {
+      "name": "APPLOVIN CORP-CLASS A USD 0.0000",
+      "isin": "US03831W1080",
+      "cusip": "03831W108",
+      "weight": 0.0889
+    },
+    {
+      "name": "CARVANA CO USD0.001",
+      "isin": "US1468691027",
+      "cusip": "146869102",
+      "weight": 0.0889
+    },
+    {
+      "name": "PROSUS NV EUR0.05",
+      "isin": "NL0013654783",
+      "cusip": "N7163R103",
+      "weight": 0.0888
+    },
+    {
+      "name": "LEGRAND SA EUR4",
+      "isin": "FR0010307819",
+      "cusip": "F56196185",
+      "weight": 0.0888
+    },
+    {
+      "name": "NIKE INC -CL B NPV",
+      "isin": "US6541061031",
+      "cusip": "654106103",
+      "weight": 0.0887
+    },
+    {
+      "name": "SANTOS LTD AUD NPV",
+      "isin": "AU000000STO6",
+      "cusip": "Q82869118",
+      "weight": 0.0887
+    },
+    {
+      "name": "HONG KONG EXCHANGES & CLEAR NPV",
+      "isin": "HK0388045442",
+      "cusip": "Y3506N139",
+      "weight": 0.0886
+    },
+    {
+      "name": "BPER Banca EUR3",
+      "isin": "IT0000066123",
+      "cusip": "T1325T119",
+      "weight": 0.0886
+    },
+    {
+      "name": "UNIBAIL-RODAMCO-WESTFIELD EUR0.5",
+      "isin": "FR0013326246",
+      "cusip": "F95094581",
+      "weight": 0.0886
+    },
+    {
+      "name": "DICK'S SPORTING GOODS INC USD0.01",
+      "isin": "US2533931026",
+      "cusip": "253393102",
+      "weight": 0.0885
+    },
+    {
+      "name": "GOLDMAN SACHS GROUP INC USD0.01",
+      "isin": "US38141G1040",
+      "cusip": "38141G104",
+      "weight": 0.0884
+    },
+    {
+      "name": "WH GROUP LTD USD0.0001",
+      "isin": "KYG960071028",
+      "cusip": "G96007102",
+      "weight": 0.0883
+    },
+    {
+      "name": "JARDINE MATHESON HLDGS LTD USD0.25",
+      "isin": "BMG507361001",
+      "cusip": "G50736100",
+      "weight": 0.0883
+    },
+    {
+      "name": "UBS GROUP AG-REG CHF 0.1000",
+      "isin": "CH0244767585",
+      "cusip": "H42097107",
+      "weight": 0.0882
+    },
+    {
+      "name": "SYNCHRONY FINANCIAL USD0.001",
+      "isin": "US87165B1035",
+      "cusip": "87165B103",
+      "weight": 0.0882
+    },
+    {
+      "name": "MITSUBISHI ELECTRIC CORP NPV",
+      "isin": "JP3902400005",
+      "cusip": "J43873116",
+      "weight": 0.0882
+    },
+    {
+      "name": "UNICREDIT SPA NPV",
+      "isin": "IT0005239360",
+      "cusip": "T9T23L642",
+      "weight": 0.0881
+    },
+    {
+      "name": "PTC INC USD0.01",
+      "isin": "US69370C1009",
+      "cusip": "69370C100",
+      "weight": 0.0881
+    },
+    {
+      "name": "SUMITOMO METAL MINING CO LTD NPV",
+      "isin": "JP3402600005",
+      "cusip": "J77712180",
+      "weight": 0.0881
+    },
+    {
+      "name": "VESTAS WIND SYSTEM DKK 0.20",
+      "isin": "DK0061539921",
+      "cusip": "K9773J201",
+      "weight": 0.0881
+    },
+    {
+      "name": "DOLLAR TREE INC USD0.01",
+      "isin": "US2567461080",
+      "cusip": "256746108",
+      "weight": 0.088
+    },
+    {
+      "name": "REPSOL SA EUR1",
+      "isin": "ES0173516115",
+      "cusip": "E8471S130",
+      "weight": 0.088
+    },
+    {
+      "name": "ABN AMRO BANK NV-CVA EUR1",
+      "isin": "NL0011540547",
+      "cusip": "N0162C102",
+      "weight": 0.088
+    },
+    {
+      "name": "WESTPAC BANKING CORP NPV",
+      "isin": "AU000000WBC1",
+      "cusip": "Q97417101",
+      "weight": 0.088
+    },
+    {
+      "name": "FASTENAL CO USD0.01",
+      "isin": "US3119001044",
+      "cusip": "311900104",
+      "weight": 0.0878
+    },
+    {
+      "name": "CATERPILLAR INC USD1",
+      "isin": "US1491231015",
+      "cusip": "149123101",
+      "weight": 0.0877
+    },
+    {
+      "name": "LENNAR CORP-A USD0.1",
+      "isin": "US5260571048",
+      "cusip": "526057104",
+      "weight": 0.0877
+    },
+    {
+      "name": "ANTOFAGASTA PLC GBP0.05",
+      "isin": "GB0000456144",
+      "cusip": "G0398N128",
+      "weight": 0.0877
+    },
+    {
+      "name": "RESMED INC USD0.004",
+      "isin": "US7611521078",
+      "cusip": "761152107",
+      "weight": 0.0875
+    },
+    {
+      "name": "NOMURA HOLDINGS INC NPV",
+      "isin": "JP3762600009",
+      "cusip": "J58646100",
+      "weight": 0.0875
+    },
+    {
+      "name": "BLACKROCK FUNDING INC/DE USD NPV",
+      "isin": "US09290D1019",
+      "cusip": "09290D101",
+      "weight": 0.0874
+    },
+    {
+      "name": "NEC CORP NPV",
+      "isin": "JP3733000008",
+      "cusip": "J48818207",
+      "weight": 0.0874
+    },
+    {
+      "name": "AZRIELI GROUP LTD ILS0.1",
+      "isin": "IL0011194789",
+      "cusip": "M1571Q105",
+      "weight": 0.0874
+    },
+    {
+      "name": "JAPAN POST BANK CO LTD NPV",
+      "isin": "JP3946750001",
+      "cusip": "J2800C101",
+      "weight": 0.0874
+    },
+    {
+      "name": "STANDARD CHARTERED PLC USD0.5",
+      "isin": "GB0004082847",
+      "cusip": "G84228157",
+      "weight": 0.0874
+    },
+    {
+      "name": "IMPERIAL OIL LTD NPV",
+      "isin": "CA4530384086",
+      "cusip": "453038408",
+      "weight": 0.0874
+    },
+    {
+      "name": "TAISEI CORP NPV",
+      "isin": "JP3443600006",
+      "cusip": "J79561148",
+      "weight": 0.0873
+    },
+    {
+      "name": "YOKOGAWA ELECTRIC CORP NPV",
+      "isin": "JP3955000009",
+      "cusip": "J97272124",
+      "weight": 0.0873
+    },
+    {
+      "name": "GENMAB A/S DKK1",
+      "isin": "DK0010272202",
+      "cusip": "K3967W102",
+      "weight": 0.0873
+    },
+    {
+      "name": "DISCO CORP NPV",
+      "isin": "JP3548600000",
+      "cusip": "J12327102",
+      "weight": 0.0872
+    },
+    {
+      "name": "TELECOM ITALIA SPA NPV",
+      "isin": "IT0003497168",
+      "cusip": "T92778108",
+      "weight": 0.0872
+    },
+    {
+      "name": "CYBERARK SOFTWARE LTD/ISRAEL ILS0.01",
+      "isin": "IL0011334468",
+      "cusip": "M2682V108",
+      "weight": 0.0872
+    },
+    {
+      "name": "NITTO DENKO CORP NPV",
+      "isin": "JP3684000007",
+      "cusip": "J58472119",
+      "weight": 0.0872
+    },
+    {
+      "name": "KANSAI ELECTRIC POWER CO INC NPV",
+      "isin": "JP3228600007",
+      "cusip": "J30169106",
+      "weight": 0.0871
+    },
+    {
+      "name": "ASAHI KASEI CORP NPV",
+      "isin": "JP3111200006",
+      "cusip": "J0242P110",
+      "weight": 0.087
+    },
+    {
+      "name": "BANCO SANTANDER SA EUR0.5",
+      "isin": "ES0113900J37",
+      "cusip": "E19790109",
+      "weight": 0.087
+    },
+    {
+      "name": "TOKYO GAS CO LTD NPV",
+      "isin": "JP3573000001",
+      "cusip": "J87000113",
+      "weight": 0.0869
+    },
+    {
+      "name": "DAIWA SECURITIES GROUP INC NPV",
+      "isin": "JP3502200003",
+      "cusip": "J11718111",
+      "weight": 0.0869
+    },
+    {
+      "name": "BANCA MEDIOLANUM SPA EUR0.1",
+      "isin": "IT0004776628",
+      "cusip": "T1R88K108",
+      "weight": 0.0869
+    },
+    {
+      "name": "EUROFINS SCIENTIFIC EUR0.1",
+      "isin": "FR0014000MR3",
+      "cusip": "L31839134",
+      "weight": 0.0868
+    },
+    {
+      "name": "NORTHERN TRUST CORP USD1.667",
+      "isin": "US6658591044",
+      "cusip": "665859104",
+      "weight": 0.0867
+    },
+    {
+      "name": "MINEBEA MITSUMI INC NPV",
+      "isin": "JP3906000009",
+      "cusip": "J42884130",
+      "weight": 0.0867
+    },
+    {
+      "name": "RESONA HOLDINGS INC NPV",
+      "isin": "JP3500610005",
+      "cusip": "J6448E106",
+      "weight": 0.0867
+    },
+    {
+      "name": "EQT AB SEK0.1",
+      "isin": "SE0012853455",
+      "cusip": "W3R27C102",
+      "weight": 0.0867
+    },
+    {
+      "name": "HERSHEY CO/THE USD1",
+      "isin": "US4278661081",
+      "cusip": "427866108",
+      "weight": 0.0866
+    },
+    {
+      "name": "IHI CORP NPV",
+      "isin": "JP3134800006",
+      "cusip": "J2398N113",
+      "weight": 0.0866
+    },
+    {
+      "name": "BRAMBLES LTD AUD NPV",
+      "isin": "AU000000BXB1",
+      "cusip": "Q6634U106",
+      "weight": 0.0866
+    },
+    {
+      "name": "CITIZENS FINANCIAL GROUP USD0.01",
+      "isin": "US1746101054",
+      "cusip": "174610105",
+      "weight": 0.0866
+    },
+    {
+      "name": "TRACTOR SUPPLY COMPANY USD0.008",
+      "isin": "US8923561067",
+      "cusip": "892356106",
+      "weight": 0.0864
+    },
+    {
+      "name": "GALP ENERGIA SGPS SA EUR1",
+      "isin": "PTGAL0AM0009",
+      "cusip": "X3078L108",
+      "weight": 0.0864
+    },
+    {
+      "name": "BANK LEUMI LE-ISRAEL ILS0.1",
+      "isin": "IL0006046119",
+      "cusip": "M16043107",
+      "weight": 0.0864
+    },
+    {
+      "name": "BANCO BILBAO VIZCAYA ARGENTA EUR0.49",
+      "isin": "ES0113211835",
+      "cusip": "E11805103",
+      "weight": 0.0864
+    },
+    {
+      "name": "ERSTE GROUP BANK AG NPV",
+      "isin": "AT0000652011",
+      "cusip": "A19494102",
+      "weight": 0.0863
+    },
+    {
+      "name": "ASTELLAS PHARMA INC NPV",
+      "isin": "JP3942400007",
+      "cusip": "J03393105",
+      "weight": 0.0863
+    },
+    {
+      "name": "MITSUBISHI ESTATE CO LTD NPV",
+      "isin": "JP3899600005",
+      "cusip": "J43916113",
+      "weight": 0.0862
+    },
+    {
+      "name": "NORFOLK SOUTHERN CORP USD1",
+      "isin": "US6558441084",
+      "cusip": "655844108",
+      "weight": 0.0862
+    },
+    {
+      "name": "SWISS LIFE HOLDING AG-REG CHF5.1",
+      "isin": "CH0014852781",
+      "cusip": "H8404J162",
+      "weight": 0.0862
+    },
+    {
+      "name": "WHITECAP RESOURCES INC NPV",
+      "isin": "CA96467A2002",
+      "cusip": "96467A200",
+      "weight": 0.0862
+    },
+    {
+      "name": "DELTA AIR LINES INC USD0.0001",
+      "isin": "US2473617023",
+      "cusip": "247361702",
+      "weight": 0.0862
+    },
+    {
+      "name": "SINO LAND CO NPV",
+      "isin": "HK0083000502",
+      "cusip": "Y80267126",
+      "weight": 0.0862
+    },
+    {
+      "name": "ARGENX SE NPV",
+      "isin": "NL0010832176",
+      "cusip": "N0610Q109",
+      "weight": 0.086
+    },
+    {
+      "name": "SPIRAX-SARCO ENGINEERING PLC GBP0.269231",
+      "isin": "GB00BWFGQN14",
+      "cusip": "G83561129",
+      "weight": 0.0859
+    },
+    {
+      "name": "ENI SPA NPV",
+      "isin": "IT0003132476",
+      "cusip": "T3643A145",
+      "weight": 0.0859
+    },
+    {
+      "name": "COVIVIO EUR3",
+      "isin": "FR0000064578",
+      "cusip": "F2R22T119",
+      "weight": 0.0859
+    },
+    {
+      "name": "SYENSQO SA EUR NPV",
+      "isin": "BE0974464977",
+      "cusip": "B8T189100",
+      "weight": 0.0858
+    },
+    {
+      "name": "TEMENOS AG - REG CHF5",
+      "isin": "CH0012453913",
+      "cusip": "H8547Q107",
+      "weight": 0.0858
+    },
+    {
+      "name": "MONOLITHIC POWER SYSTEMS INC USD0.001",
+      "isin": "US6098391054",
+      "cusip": "609839105",
+      "weight": 0.0857
+    },
+    {
+      "name": "FIRST QUANTUM MINERALS LTD NPV",
+      "isin": "CA3359341052",
+      "cusip": "335934105",
+      "weight": 0.0857
+    },
+    {
+      "name": "LAM RESEARCH CORP COM USD 0.001",
+      "isin": "US5128073062",
+      "cusip": "512807306",
+      "weight": 0.0857
+    },
+    {
+      "name": "STOCKLAND NPV",
+      "isin": "AU000000SGP0",
+      "cusip": "Q8773B105",
+      "weight": 0.0856
+    },
+    {
+      "name": "EISAI CO LTD NPV",
+      "isin": "JP3160400002",
+      "cusip": "J12852117",
+      "weight": 0.0855
+    },
+    {
+      "name": "MONGODB INC USD0.001",
+      "isin": "US60937P1066",
+      "cusip": "60937P106",
+      "weight": 0.0854
+    },
+    {
+      "name": "WHARF REAL ESTATE INVESTMENT HKD0.1",
+      "isin": "KYG9593A1040",
+      "cusip": "G9593A104",
+      "weight": 0.0854
+    },
+    {
+      "name": "REGIONS FINANCIAL CORP USD0.01",
+      "isin": "US7591EP1005",
+      "cusip": "7591EP100",
+      "weight": 0.0854
+    },
+    {
+      "name": "SINGAPORE EXCHANGE LTD NPV",
+      "isin": "SG1J26887955",
+      "cusip": "Y79946102",
+      "weight": 0.0854
+    },
+    {
+      "name": "HONGKONG LAND HOLDINGS LTD USD0.1",
+      "isin": "BMG4587L1090",
+      "cusip": "G4587L109",
+      "weight": 0.0854
+    },
+    {
+      "name": "ON SEMICONDUCTOR CORP USD0.01",
+      "isin": "US6821891057",
+      "cusip": "682189105",
+      "weight": 0.0853
+    },
+    {
+      "name": "KONINKLIJKE PHILIPS NV EUR0.2",
+      "isin": "NL0000009538",
+      "cusip": "N7637U112",
+      "weight": 0.0853
+    },
+    {
+      "name": "ROCKWELL AUTOMATION INC USD1",
+      "isin": "US7739031091",
+      "cusip": "773903109",
+      "weight": 0.0852
+    },
+    {
+      "name": "OTSUKA HOLDINGS CO LTD NPV",
+      "isin": "JP3188220002",
+      "cusip": "J63117105",
+      "weight": 0.0851
+    },
+    {
+      "name": "SAAB AB-B SEK NPV",
+      "isin": "SE0021921269",
+      "cusip": "W72838175",
+      "weight": 0.0851
+    },
+    {
+      "name": "INTERACTIVE BROKERS GRO-CL A USD0.01",
+      "isin": "US45841N1072",
+      "cusip": "45841N107",
+      "weight": 0.0851
+    },
+    {
+      "name": "L3HARRIS TECHNOLOGIES INC USD1",
+      "isin": "US5024311095",
+      "cusip": "502431109",
+      "weight": 0.0851
+    },
+    {
+      "name": "DAI-ICHI LIFE HOLDINGS INC NPV",
+      "isin": "JP3476480003",
+      "cusip": "J09748112",
+      "weight": 0.0851
+    },
+    {
+      "name": "FIRST SOLAR INC USD0.001",
+      "isin": "US3364331070",
+      "cusip": "336433107",
+      "weight": 0.0851
+    },
+    {
+      "name": "NINTENDO CO LTD NPV",
+      "isin": "JP3756600007",
+      "cusip": "J51699106",
+      "weight": 0.085
+    },
+    {
+      "name": "ORIGIN ENERGY LTD NPV",
+      "isin": "AU000000ORG5",
+      "cusip": "Q71610101",
+      "weight": 0.085
+    },
+    {
+      "name": "STORA ENSO OYJ-R SHS EUR1.7",
+      "isin": "FI0009005961",
+      "cusip": "X8T9CM113",
+      "weight": 0.085
+    },
+    {
+      "name": "Konami Group Corp NPV",
+      "isin": "JP3300200007",
+      "cusip": "J3600L101",
+      "weight": 0.085
+    },
+    {
+      "name": "BANK HAPOALIM BM ILS1",
+      "isin": "IL0006625771",
+      "cusip": "M1586M115",
+      "weight": 0.0849
+    },
+    {
+      "name": "Meta Platforms INC USD0.000006",
+      "isin": "US30303M1027",
+      "cusip": "30303M102",
+      "weight": 0.0849
+    },
+    {
+      "name": "JOHNSON & JOHNSON USD1",
+      "isin": "US4781601046",
+      "cusip": "478160104",
+      "weight": 0.0849
+    },
+    {
+      "name": "ZENSHO HOLDINGS CO LTD NPV",
+      "isin": "JP3429300001",
+      "cusip": "J9885X108",
+      "weight": 0.0848
+    },
+    {
+      "name": "BAKER HUGHES CO USD0.0001",
+      "isin": "US05722G1004",
+      "cusip": "05722G100",
+      "weight": 0.0848
+    },
+    {
+      "name": "PAN PACIFIC INTERNATIONAL HO NPV",
+      "isin": "JP3639650005",
+      "cusip": "J6352W100",
+      "weight": 0.0848
+    },
+    {
+      "name": "HOLOGIC INC USD0.01",
+      "isin": "US4364401012",
+      "cusip": "436440101",
+      "weight": 0.0848
+    },
+    {
+      "name": "SANRIO CO LTD NPV",
+      "isin": "JP3343200006",
+      "cusip": "J68209105",
+      "weight": 0.0847
+    },
+    {
+      "name": "GEN ELEC CO USD 0.01",
+      "isin": "US3696043013",
+      "cusip": "369604301",
+      "weight": 0.0847
+    },
+    {
+      "name": "INTESA SANPAOLO NPV",
+      "isin": "IT0000072618",
+      "cusip": "T55067101",
+      "weight": 0.0846
+    },
+    {
+      "name": "MARVELL TECHNOLOGY INC USD NPV",
+      "isin": "US5738741041",
+      "cusip": "573874104",
+      "weight": 0.0846
+    },
+    {
+      "name": "THERMO FISHER SCIENTIFIC INC USD1",
+      "isin": "US8835561023",
+      "cusip": "883556102",
+      "weight": 0.0846
+    },
+    {
+      "name": "BP PLC GBP 0.2500",
+      "isin": "GB0007980591",
+      "cusip": "G12793108",
+      "weight": 0.0846
+    },
+    {
+      "name": "MICRON TECHNOLOGY INC USD0.1",
+      "isin": "US5951121038",
+      "cusip": "595112103",
+      "weight": 0.0845
+    },
+    {
+      "name": "COSTAR GROUP INC USD0.01",
+      "isin": "US22160N1090",
+      "cusip": "22160N109",
+      "weight": 0.0845
+    },
+    {
+      "name": "JACOBS SOLUTIONS USD 1.0000",
+      "isin": "US46982L1089",
+      "cusip": "46982L108",
+      "weight": 0.0845
+    },
+    {
+      "name": "NORSK HYDRO ASA NOK1.098",
+      "isin": "NO0005052605",
+      "cusip": "R61115102",
+      "weight": 0.0845
+    },
+    {
+      "name": "KAJIMA CORP NPV",
+      "isin": "JP3210200006",
+      "cusip": "J29223120",
+      "weight": 0.0845
+    },
+    {
+      "name": "NATIONAL BANK OF CANADA NPV",
+      "isin": "CA6330671034",
+      "cusip": "633067103",
+      "weight": 0.0844
+    },
+    {
+      "name": "KYOWA KIRIN CO LTD NPV",
+      "isin": "JP3256000005",
+      "cusip": "J38296117",
+      "weight": 0.0844
+    },
+    {
+      "name": "ENTAIN PLC GBP 0.0100",
+      "isin": "IM00B5VQMV65",
+      "cusip": "G3167C109",
+      "weight": 0.0844
+    },
+    {
+      "name": "SG HOLDINGS CO LTD NPV",
+      "isin": "JP3162770006",
+      "cusip": "J7134P108",
+      "weight": 0.0844
+    },
+    {
+      "name": "ILLUMINA INC USD0.01",
+      "isin": "US4523271090",
+      "cusip": "452327109",
+      "weight": 0.0844
+    },
+    {
+      "name": "TDK CORP NPV",
+      "isin": "JP3538800008",
+      "cusip": "J82141136",
+      "weight": 0.0843
+    },
+    {
+      "name": "ALLEGION PLC USD0.01",
+      "isin": "IE00BFRT3W74",
+      "cusip": "G0176J109",
+      "weight": 0.0842
+    },
+    {
+      "name": "CAIXABANK SA EUR1",
+      "isin": "ES0140609019",
+      "cusip": "E2427M123",
+      "weight": 0.0842
+    },
+    {
+      "name": "DELL TECHNOLOGIES -C NPV",
+      "isin": "US24703L2025",
+      "cusip": "24703L202",
+      "weight": 0.0842
+    },
+    {
+      "name": "AJINOMOTO CO INC NPV",
+      "isin": "JP3119600009",
+      "cusip": "J00882126",
+      "weight": 0.0842
+    },
+    {
+      "name": "AUST AND NZ BANKING GROUP NPV",
+      "isin": "AU000000ANZ3",
+      "cusip": "Q0429F119",
+      "weight": 0.084
+    },
+    {
+      "name": "LOGITECH INTERNATIONAL-REG CHF0.25",
+      "isin": "CH0025751329",
+      "cusip": "H50430232",
+      "weight": 0.084
+    },
+    {
+      "name": "NOVARTIS AG-REG CHF0.5",
+      "isin": "CH0012005267",
+      "cusip": "H5820Q150",
+      "weight": 0.084
+    },
+    {
+      "name": "DAVIDE CAMPARI-MILANO NV EUR0.05",
+      "isin": "NL0015435975",
+      "cusip": "N24565108",
+      "weight": 0.084
+    },
+    {
+      "name": "MORGAN STANLEY USD0.01",
+      "isin": "US6174464486",
+      "cusip": "617446448",
+      "weight": 0.084
+    },
+    {
+      "name": "SKF AB-B SHARES SEK2.5",
+      "isin": "SE0000108227",
+      "cusip": "W84237143",
+      "weight": 0.0839
+    },
+    {
+      "name": "MARTIN MARIETTA MATERIALS USD0.01",
+      "isin": "US5732841060",
+      "cusip": "573284106",
+      "weight": 0.0839
+    },
+    {
+      "name": "SOCIETE GE EUR1.25",
+      "isin": "FR0000130809",
+      "cusip": "F8591M517",
+      "weight": 0.0839
+    },
+    {
+      "name": "INTL CONSOLIDATED AIRLINE-DI EUR0.5",
+      "isin": "ES0177542018",
+      "cusip": "E67674106",
+      "weight": 0.0838
+    },
+    {
+      "name": "ISRAEL DISCOUNT BANK-A ILS0.1",
+      "isin": "IL0006912120",
+      "cusip": "465074201",
+      "weight": 0.0838
+    },
+    {
+      "name": "VERTIV HOLDINGS CO USD 0.0001",
+      "isin": "US92537N1081",
+      "cusip": "92537N108",
+      "weight": 0.0838
+    },
+    {
+      "name": "Blackstone Inc USD0.00001",
+      "isin": "US09260D1072",
+      "cusip": "09260D107",
+      "weight": 0.0837
+    },
+    {
+      "name": "STATE STREET CORP USD1",
+      "isin": "US8574771031",
+      "cusip": "857477103",
+      "weight": 0.0837
+    },
+    {
+      "name": "RECKITT BENCKISER GROUP PLC GBP0.1",
+      "isin": "GB00B24CGK77",
+      "cusip": "G74079107",
+      "weight": 0.0837
+    },
+    {
+      "name": "RYANAIR HOLDINGS PLC EUR0.006",
+      "isin": "IE00BYTBXV33",
+      "cusip": "G7727C186",
+      "weight": 0.0837
+    },
+    {
+      "name": "BANKINTER SA EUR0.3",
+      "isin": "ES0113679I37",
+      "cusip": "E2116H880",
+      "weight": 0.0837
+    },
+    {
+      "name": "CHIBA BANK LTD/THE NPV",
+      "isin": "JP3511800009",
+      "cusip": "J05670104",
+      "weight": 0.0836
+    },
+    {
+      "name": "WHARF HOLDINGS LTD NPV",
+      "isin": "HK0004000045",
+      "cusip": "Y8800U127",
+      "weight": 0.0836
+    },
+    {
+      "name": "COINBASE GLOBAL INC -CLASS A USD 0.0000",
+      "isin": "US19260Q1076",
+      "cusip": "19260Q107",
+      "weight": 0.0836
+    },
+    {
+      "name": "ELECTRONIC ARTS INC USD0.01",
+      "isin": "US2855121099",
+      "cusip": "285512109",
+      "weight": 0.0836
+    },
+    {
+      "name": "MARUBENI CORP NPV",
+      "isin": "JP3877600001",
+      "cusip": "J39788138",
+      "weight": 0.0836
+    },
+    {
+      "name": "ABBVIE INC USD0.01",
+      "isin": "US00287Y1091",
+      "cusip": "00287Y109",
+      "weight": 0.0836
+    },
+    {
+      "name": "PRUDENTIAL PLC GBP 5.0000",
+      "isin": "GB0007099541",
+      "cusip": "G72899100",
+      "weight": 0.0836
+    },
+    {
+      "name": "MITSUBISHI HC CAPITAL INC NPV",
+      "isin": "JP3499800005",
+      "cusip": "J4706D100",
+      "weight": 0.0835
+    },
+    {
+      "name": "BANK OF NEW YORK MELLON CORP USD0.01",
+      "isin": "US0640581007",
+      "cusip": "064058100",
+      "weight": 0.0835
+    },
+    {
+      "name": "BCE INC NPV",
+      "isin": "CA05534B7604",
+      "cusip": "05534B760",
+      "weight": 0.0834
+    },
+    {
+      "name": "MIZRAHI TEFAHOT BANK LTD ILS0.1",
+      "isin": "IL0006954379",
+      "cusip": "M7031A135",
+      "weight": 0.0834
+    },
+    {
+      "name": "COCHLEAR LTD NPV",
+      "isin": "AU000000COH5",
+      "cusip": "Q25953102",
+      "weight": 0.0834
+    },
+    {
+      "name": "SUMITOMO REALTY & DEVELOPMEN NPV",
+      "isin": "JP3409000001",
+      "cusip": "J77841112",
+      "weight": 0.0833
+    },
+    {
+      "name": "ASTRAZENECA PLC USD0.25",
+      "isin": "GB0009895292",
+      "cusip": "G0593M107",
+      "weight": 0.0833
+    },
+    {
+      "name": "SCHODERS PLC OR GBP 0.20",
+      "isin": "GB00BP9LHF23",
+      "cusip": "G78602144",
+      "weight": 0.0833
+    },
+    {
+      "name": "KEYCORP USD1",
+      "isin": "US4932671088",
+      "cusip": "493267108",
+      "weight": 0.0832
+    },
+    {
+      "name": "HUMANA INC USD0.166",
+      "isin": "US4448591028",
+      "cusip": "444859102",
+      "weight": 0.0832
+    },
+    {
+      "name": "CRH PLC USD 0.3200",
+      "isin": "IE0001827041",
+      "cusip": "G25508105",
+      "weight": 0.0832
+    },
+    {
+      "name": "HONDA MOTOR CO LTD NPV",
+      "isin": "JP3854600008",
+      "cusip": "J22302111",
+      "weight": 0.0832
+    },
+    {
+      "name": "ABB LTD-REG CHF0.12",
+      "isin": "CH0012221716",
+      "cusip": "H0010V101",
+      "weight": 0.0831
+    },
+    {
+      "name": "TELEDYNE TECHNOLOGIES INC USD0.01",
+      "isin": "US8793601050",
+      "cusip": "879360105",
+      "weight": 0.083
+    },
+    {
+      "name": "SUN HUNG KAI PROPERTIES NPV",
+      "isin": "HK0016000132",
+      "cusip": "Y82594121",
+      "weight": 0.0829
+    },
+    {
+      "name": "WASHINGTON H. SOUL PATTINSON NPV",
+      "isin": "AU000000SOL3",
+      "cusip": "Q85717108",
+      "weight": 0.0829
+    },
+    {
+      "name": "PEPSICO INC USD0.017",
+      "isin": "US7134481081",
+      "cusip": "713448108",
+      "weight": 0.0829
+    },
+    {
+      "name": "BARCLAYS PLC GBP0.25",
+      "isin": "GB0031348658",
+      "cusip": "G08036124",
+      "weight": 0.0829
+    },
+    {
+      "name": "ALSTOM EUR7",
+      "isin": "FR0010220475",
+      "cusip": "F0259M475",
+      "weight": 0.0829
+    },
+    {
+      "name": "EDP RENOVAVEIS SA EUR5",
+      "isin": "ES0127797019",
+      "cusip": "E3847K101",
+      "weight": 0.0829
+    },
+    {
+      "name": "GENERAL MOTORS CO USD0.01",
+      "isin": "US37045V1008",
+      "cusip": "37045V100",
+      "weight": 0.0829
+    },
+    {
+      "name": "MITSUI FUDOSAN CO LTD NPV",
+      "isin": "JP3893200000",
+      "cusip": "J4509L101",
+      "weight": 0.0828
+    },
+    {
+      "name": "NIDEC CORP NPV",
+      "isin": "JP3734800000",
+      "cusip": "J52968104",
+      "weight": 0.0828
+    },
+    {
+      "name": "IDEMITSU KOSAN CO LTD NPV",
+      "isin": "JP3142500002",
+      "cusip": "J2388K103",
+      "weight": 0.0827
+    },
+    {
+      "name": "HSBC HOLDINGS PLC GBP 0.5000",
+      "isin": "GB0005405286",
+      "cusip": "G4634U169",
+      "weight": 0.0827
+    },
+    {
+      "name": "CHUBU ELECTRIC POWER CO INC NPV",
+      "isin": "JP3526600006",
+      "cusip": "J06510101",
+      "weight": 0.0827
+    },
+    {
+      "name": "WHEATON PRECIOUS METALS CORP NPV",
+      "isin": "CA9628791027",
+      "cusip": "962879102",
+      "weight": 0.0826
+    },
+    {
+      "name": "ARISTOCRAT LEISURE LTD NPV",
+      "isin": "AU000000ALL7",
+      "cusip": "Q0521T108",
+      "weight": 0.0826
+    },
+    {
+      "name": "DBS GROUP HOLDINGS LTD NPV",
+      "isin": "SG1L01001701",
+      "cusip": "Y20246107",
+      "weight": 0.0826
+    },
+    {
+      "name": "OSAKA GAS CO LTD NPV",
+      "isin": "JP3180400008",
+      "cusip": "J62320130",
+      "weight": 0.0826
+    },
+    {
+      "name": "VALERO ENERGY CORP USD0.01",
+      "isin": "US91913Y1001",
+      "cusip": "91913Y100",
+      "weight": 0.0826
+    },
+    {
+      "name": "IPSEN EUR1",
+      "isin": "FR0010259150",
+      "cusip": "F5362H107",
+      "weight": 0.0825
+    },
+    {
+      "name": "LASERTEC CORP NPV",
+      "isin": "JP3979200007",
+      "cusip": "J38702106",
+      "weight": 0.0824
+    },
+    {
+      "name": "SEA LTD-ADR",
+      "isin": "US81141R1005",
+      "cusip": "81141R100",
+      "weight": 0.0824
+    },
+    {
+      "name": "BANK OF IRELAND GROUP PLC EUR1",
+      "isin": "IE00BD1RP616",
+      "cusip": "G0756R109",
+      "weight": 0.0824
+    },
+    {
+      "name": "HELVETIA HOLDING AG-REG CHF0.02",
+      "isin": "CH0466642201",
+      "cusip": "H3701P102",
+      "weight": 0.0824
+    },
+    {
+      "name": "AIRBUS SE EUR1",
+      "isin": "NL0000235190",
+      "cusip": "N0280G100",
+      "weight": 0.0823
+    },
+    {
+      "name": "TELE2 AB-B SHS SEK1.25",
+      "isin": "SE0005190238",
+      "cusip": "W95878166",
+      "weight": 0.0823
+    },
+    {
+      "name": "MTU AERO ENGINES AG NPV",
+      "isin": "DE000A0D9PT0",
+      "cusip": "D5565H104",
+      "weight": 0.0823
+    },
+    {
+      "name": "INTEL CORP USD0.001",
+      "isin": "US4581401001",
+      "cusip": "458140100",
+      "weight": 0.0823
+    },
+    {
+      "name": "MURATA MANUFACTURING CO LTD NPV",
+      "isin": "JP3914400001",
+      "cusip": "J46840104",
+      "weight": 0.0823
+    },
+    {
+      "name": "NASDAQ INC USD0.01",
+      "isin": "US6311031081",
+      "cusip": "631103108",
+      "weight": 0.0823
+    },
+    {
+      "name": "POWER CORP OF CANADA NPV",
+      "isin": "CA7392391016",
+      "cusip": "739239101",
+      "weight": 0.0821
+    },
+    {
+      "name": "VODAFONE GROUP PLC USD0.2095",
+      "isin": "GB00BH4HKS39",
+      "cusip": "G93882192",
+      "weight": 0.0821
+    },
+    {
+      "name": "SUNCOR ENERGY INC NPV",
+      "isin": "CA8672241079",
+      "cusip": "867224107",
+      "weight": 0.0821
+    },
+    {
+      "name": "BEIJER REF AB SEK NPV",
+      "isin": "SE0015949748",
+      "cusip": "W14029123",
+      "weight": 0.082
+    },
+    {
+      "name": "SAFRAN SA EUR0.2",
+      "isin": "FR0000073272",
+      "cusip": "F4035A557",
+      "weight": 0.082
+    },
+    {
+      "name": "EAST JAPAN RAILWAY CO NPV",
+      "isin": "JP3783600004",
+      "cusip": "J1257M109",
+      "weight": 0.0819
+    },
+    {
+      "name": "NN GROUP NV EUR0.12",
+      "isin": "NL0010773842",
+      "cusip": "N64038107",
+      "weight": 0.0819
+    },
+    {
+      "name": "DAI NIPPON PRINTING CO LTD NPV",
+      "isin": "JP3493800001",
+      "cusip": "J10584142",
+      "weight": 0.0818
+    },
+    {
+      "name": "APTIV HOLDINGS LTD USD NPV",
+      "isin": "JE00BTDN8H13",
+      "cusip": "G3265R107",
+      "weight": 0.0818
+    },
+    {
+      "name": "WILLIAMS-SONOMA INC USD0.01",
+      "isin": "US9699041011",
+      "cusip": "969904101",
+      "weight": 0.0818
+    },
+    {
+      "name": "WEST PHARMACEUTICAL SERVICES USD0.25",
+      "isin": "US9553061055",
+      "cusip": "955306105",
+      "weight": 0.0818
+    },
+    {
+      "name": "BALOISE HOLDING AG - REG CHF0.1",
+      "isin": "CH0012410517",
+      "cusip": "H04530202",
+      "weight": 0.0817
+    },
+    {
+      "name": "CAPITALAND INTEGRATED COMMER NPV",
+      "isin": "SG1M51904654",
+      "cusip": "Y0259J109",
+      "weight": 0.0817
+    },
+    {
+      "name": "ACS ACTIVIDADES CONS Y SERV EUR0.5",
+      "isin": "ES0167050915",
+      "cusip": "E7813W163",
+      "weight": 0.0817
+    },
+    {
+      "name": "MITSUI & CO LTD NPV",
+      "isin": "JP3893600001",
+      "cusip": "J44690139",
+      "weight": 0.0817
+    },
+    {
+      "name": "S&P GLOBAL INC USD1",
+      "isin": "US78409V1044",
+      "cusip": "78409V104",
+      "weight": 0.0817
+    },
+    {
+      "name": "TEXAS INSTRUMENTS INC USD1",
+      "isin": "US8825081040",
+      "cusip": "882508104",
+      "weight": 0.0816
+    },
+    {
+      "name": "ING GROEP NV EUR0.01",
+      "isin": "NL0011821202",
+      "cusip": "N4578E595",
+      "weight": 0.0816
+    },
+    {
+      "name": "RTX CORPORATION USD 1",
+      "isin": "US75513E1010",
+      "cusip": "75513E101",
+      "weight": 0.0816
+    },
+    {
+      "name": "NIPPON BUILDING FUND INC NPV",
+      "isin": "JP3027670003",
+      "cusip": "J52088101",
+      "weight": 0.0816
+    },
+    {
+      "name": "TORONTO-DOMINION BANK NPV",
+      "isin": "CA8911605092",
+      "cusip": "891160509",
+      "weight": 0.0816
+    },
+    {
+      "name": "Imperial Brands PLC GBP0.1",
+      "isin": "GB0004544929",
+      "cusip": "G4720C107",
+      "weight": 0.0816
+    },
+    {
+      "name": "QIAGEN NV EUR0.01",
+      "isin": "NL0015002CX3",
+      "cusip": "N72482206",
+      "weight": 0.0816
+    },
+    {
+      "name": "MAKITA CORP NPV",
+      "isin": "JP3862400003",
+      "cusip": "J39584107",
+      "weight": 0.0816
+    },
+    {
+      "name": "OPEN TEXT CORP NPV",
+      "isin": "CA6837151068",
+      "cusip": "683715106",
+      "weight": 0.0815
+    },
+    {
+      "name": "GARMIN LTD CHF0.1",
+      "isin": "CH0114405324",
+      "cusip": "H2906T109",
+      "weight": 0.0815
+    },
+    {
+      "name": "DOLLAR GENERAL CORP USD0.875",
+      "isin": "US2566771059",
+      "cusip": "256677105",
+      "weight": 0.0815
+    },
+    {
+      "name": "REXEL SA EUR5",
+      "isin": "FR0010451203",
+      "cusip": "F7782J366",
+      "weight": 0.0814
+    },
+    {
+      "name": "CK HUTCHISON HOLDINGS LTD HKD1",
+      "isin": "KYG217651051",
+      "cusip": "G21765105",
+      "weight": 0.0814
+    },
+    {
+      "name": "CK ASSET HOLDINGS LTD HKD1",
+      "isin": "KYG2177B1014",
+      "cusip": "G2177B101",
+      "weight": 0.0814
+    },
+    {
+      "name": "SANDVIK AB SEK1.2",
+      "isin": "SE0000667891",
+      "cusip": "W74857165",
+      "weight": 0.0814
+    },
+    {
+      "name": "CAR Group Ltd AUD NPV",
+      "isin": "AU000000CAR3",
+      "cusip": "Q21411121",
+      "weight": 0.0814
+    },
+    {
+      "name": "FIRSTSERVICE CORP NPV",
+      "isin": "CA33767E2024",
+      "cusip": "33767E202",
+      "weight": 0.0813
+    },
+    {
+      "name": "TESCO GBP 0.0633333",
+      "isin": "GB00BLGZ9862",
+      "cusip": "G8T67X102",
+      "weight": 0.0813
+    },
+    {
+      "name": "BE SEMICONDUCTOR INDUSTRIES EUR0.01",
+      "isin": "NL0012866412",
+      "cusip": "N13107144",
+      "weight": 0.0812
+    },
+    {
+      "name": "CADENCE DESIGN SYS INC USD0.01",
+      "isin": "US1273871087",
+      "cusip": "127387108",
+      "weight": 0.0812
+    },
+    {
+      "name": "BROOKFIELD RENEWABLE CORP CAD NPV",
+      "isin": "CA11285B1085",
+      "cusip": "11285B108",
+      "weight": 0.0812
+    },
+    {
+      "name": "MICROCHIP TECHNOLOGY INC USD0.001",
+      "isin": "US5950171042",
+      "cusip": "595017104",
+      "weight": 0.0811
+    },
+    {
+      "name": "FREEPORT-MCMORAN INC USD0.1",
+      "isin": "US35671D8570",
+      "cusip": "35671D857",
+      "weight": 0.0811
+    },
+    {
+      "name": "ENTEGRIS INC USD0.01",
+      "isin": "US29362U1043",
+      "cusip": "29362U104",
+      "weight": 0.0811
+    },
+    {
+      "name": "ILLINOIS TOOL WORKS USD0.01",
+      "isin": "US4523081093",
+      "cusip": "452308109",
+      "weight": 0.081
+    },
+    {
+      "name": "GENERAL DYNAMICS CORP USD1",
+      "isin": "US3695501086",
+      "cusip": "369550108",
+      "weight": 0.081
+    },
+    {
+      "name": "WILLIS TOWERS WATSON PLC USD0.000304635",
+      "isin": "IE00BDB6Q211",
+      "cusip": "G96629103",
+      "weight": 0.0809
+    },
+    {
+      "name": "HEIDELBERG MATERIALS AG NPV",
+      "isin": "DE0006047004",
+      "cusip": "D31709104",
+      "weight": 0.0809
+    },
+    {
+      "name": "DOLLARAMA INC NPV",
+      "isin": "CA25675T1075",
+      "cusip": "25675T107",
+      "weight": 0.0809
+    },
+    {
+      "name": "FIFTH THIRD BANCORP NPV",
+      "isin": "US3167731005",
+      "cusip": "316773100",
+      "weight": 0.0809
+    },
+    {
+      "name": "MITSUBISHI UFJ FINANCIAL GRO NPV",
+      "isin": "JP3902900004",
+      "cusip": "J44497105",
+      "weight": 0.0809
+    },
+    {
+      "name": "BHP Group Ltd NPV",
+      "isin": "AU000000BHP4",
+      "cusip": "Q1498M100",
+      "weight": 0.0809
+    },
+    {
+      "name": "TRUIST FINANCIAL CORP USD5",
+      "isin": "US89832Q1094",
+      "cusip": "89832Q109",
+      "weight": 0.0809
+    },
+    {
+      "name": "LEIDOS HOLDINGS INC USD0.0001",
+      "isin": "US5253271028",
+      "cusip": "525327102",
+      "weight": 0.0809
+    },
+    {
+      "name": "UNIPOL GRUPPO SPA NPV",
+      "isin": "IT0004810054",
+      "cusip": "T9532W106",
+      "weight": 0.0809
+    },
+    {
+      "name": "KOMATSU LTD NPV",
+      "isin": "JP3304200003",
+      "cusip": "J35759125",
+      "weight": 0.0808
+    },
+    {
+      "name": "O'REILLY AUTOMOTIVE INC USD0.01",
+      "isin": "US67103H1077",
+      "cusip": "67103H107",
+      "weight": 0.0808
+    },
+    {
+      "name": "CAPITAL ONE FINANCIAL CORP USD0.01",
+      "isin": "US14040H1059",
+      "cusip": "14040H105",
+      "weight": 0.0808
+    },
+    {
+      "name": "BASF SE NPV",
+      "isin": "DE000BASF111",
+      "cusip": "D06216317",
+      "weight": 0.0808
+    },
+    {
+      "name": "HENDERSON LAND DEVELOPMENT NPV",
+      "isin": "HK0012000102",
+      "cusip": "Y31476107",
+      "weight": 0.0808
+    },
+    {
+      "name": "LIVE NATION ENTERTAINMENT IN USD0.01",
+      "isin": "US5380341090",
+      "cusip": "538034109",
+      "weight": 0.0807
+    },
+    {
+      "name": "ANALOG DEVICES INC USD0.167",
+      "isin": "US0326541051",
+      "cusip": "032654105",
+      "weight": 0.0807
+    },
+    {
+      "name": "SEKISUI CHEMICAL CO LTD NPV",
+      "isin": "JP3419400001",
+      "cusip": "J70703137",
+      "weight": 0.0806
+    },
+    {
+      "name": "BANK OF NOVA SCOTIA NPV",
+      "isin": "CA0641491075",
+      "cusip": "064149107",
+      "weight": 0.0806
+    },
+    {
+      "name": "NATIONAL AUSTRALIA BANK LTD NPV",
+      "isin": "AU000000NAB4",
+      "cusip": "Q65336119",
+      "weight": 0.0806
+    },
+    {
+      "name": "JAPAN POST HOLDINGS CO LTD NPV",
+      "isin": "JP3752900005",
+      "cusip": "J2800D109",
+      "weight": 0.0806
+    },
+    {
+      "name": "RPM INTERNATIONAL INC USD0.01",
+      "isin": "US7496851038",
+      "cusip": "749685103",
+      "weight": 0.0806
+    },
+    {
+      "name": "MASCO CORP USD1",
+      "isin": "US5745991068",
+      "cusip": "574599106",
+      "weight": 0.0806
+    },
+    {
+      "name": "SCREEN HOLDINGS CO LTD NPV",
+      "isin": "JP3494600004",
+      "cusip": "J6988U114",
+      "weight": 0.0805
+    },
+    {
+      "name": "PNC FINANCIAL SERVICES GROUP USD5",
+      "isin": "US6934751057",
+      "cusip": "693475105",
+      "weight": 0.0805
+    },
+    {
+      "name": "AECOM USD0.01",
+      "isin": "US00766T1007",
+      "cusip": "00766T100",
+      "weight": 0.0805
+    },
+    {
+      "name": "RANDSTAD NV EUR0.1",
+      "isin": "NL0000379121",
+      "cusip": "N7291Y137",
+      "weight": 0.0805
+    },
+    {
+      "name": "EOG RESOURCES INC USD0.01",
+      "isin": "US26875P1012",
+      "cusip": "26875P101",
+      "weight": 0.0805
+    },
+    {
+      "name": "SUMITOMO MITSUI FINANCIAL GR NPV",
+      "isin": "JP3890350006",
+      "cusip": "J7771X109",
+      "weight": 0.0805
+    },
+    {
+      "name": "M & T BANK CORP USD0.5",
+      "isin": "US55261F1049",
+      "cusip": "55261F104",
+      "weight": 0.0805
+    },
+    {
+      "name": "POSTE ITALIANE SPA EUR1",
+      "isin": "IT0003796171",
+      "cusip": "T7S697106",
+      "weight": 0.0805
+    },
+    {
+      "name": "PHOENIX GROUP HOLDINGS PLC GBP0.1",
+      "isin": "GB00BGXQNP29",
+      "cusip": "G7S8MZ109",
+      "weight": 0.0805
+    },
+    {
+      "name": "EDP S.A EUR1",
+      "isin": "PTEDP0AM0009",
+      "cusip": "X67925119",
+      "weight": 0.0804
+    },
+    {
+      "name": "CONOCOPHILLIPS USD0.01",
+      "isin": "US20825C1045",
+      "cusip": "20825C104",
+      "weight": 0.0804
+    },
+    {
+      "name": "TALANX AG NPV",
+      "isin": "DE000TLX1005",
+      "cusip": "D82827110",
+      "weight": 0.0804
+    },
+    {
+      "name": "HUBBELL INC USD0.01",
+      "isin": "US4435106079",
+      "cusip": "443510607",
+      "weight": 0.0804
+    },
+    {
+      "name": "AIA GROUP LTD NPV",
+      "isin": "HK0000069689",
+      "cusip": "Y002A1105",
+      "weight": 0.0803
+    },
+    {
+      "name": "NXP SEMICONDUCTORS NV NPV",
+      "isin": "NL0009538784",
+      "cusip": "N6596X109",
+      "weight": 0.0803
+    },
+    {
+      "name": "ELBIT SYSTEMS LTD ILS1",
+      "isin": "IL0010811243",
+      "cusip": "M3760D101",
+      "weight": 0.0803
+    },
+    {
+      "name": "SINGAPORE TELECOMMUNICATIONS SGD NPV",
+      "isin": "SG1T75931496",
+      "cusip": "Y79985209",
+      "weight": 0.0803
+    },
+    {
+      "name": "EMERSON ELECTRIC CO USD0.5",
+      "isin": "US2910111044",
+      "cusip": "291011104",
+      "weight": 0.0803
+    },
+    {
+      "name": "HALMA PLC GBP0.1",
+      "isin": "GB0004052071",
+      "cusip": "G42504103",
+      "weight": 0.0803
+    },
+    {
+      "name": "Trimble INC NPV",
+      "isin": "US8962391004",
+      "cusip": "896239100",
+      "weight": 0.0802
+    },
+    {
+      "name": "AGEAS NPV",
+      "isin": "BE0974264930",
+      "cusip": "B0148L138",
+      "weight": 0.0802
+    },
+    {
+      "name": "BANDAI NAMCO HOLDINGS INC NPV",
+      "isin": "JP3778630008",
+      "cusip": "Y0606D102",
+      "weight": 0.0802
+    },
+    {
+      "name": "ZIMMER BIOMET HOLDINGS INC USD0.01",
+      "isin": "US98956P1021",
+      "cusip": "98956P102",
+      "weight": 0.0802
+    },
+    {
+      "name": "AEGON LIMITED EUR 0.12",
+      "isin": "BMG0112X1056",
+      "cusip": "G0112X105",
+      "weight": 0.0802
+    },
+    {
+      "name": "BROADRIDGE FINANCIAL SOLUTIO USD0.01",
+      "isin": "US11133T1034",
+      "cusip": "11133T103",
+      "weight": 0.0802
+    },
+    {
+      "name": "AIB GROUP PLC EUR0.625",
+      "isin": "IE00BF0L3536",
+      "cusip": "G0R4HJ106",
+      "weight": 0.0802
+    },
+    {
+      "name": "FANUC CORP NPV",
+      "isin": "JP3802400006",
+      "cusip": "J13440102",
+      "weight": 0.0802
+    },
+    {
+      "name": "SCENTRE GROUP NPV",
+      "isin": "AU000000SCG8",
+      "cusip": "Q8351E109",
+      "weight": 0.0801
+    },
+    {
+      "name": "ELIA GROUP NPV",
+      "isin": "BE0003822393",
+      "cusip": "B35656105",
+      "weight": 0.0801
+    },
+    {
+      "name": "ALTAGAS LTD NPV",
+      "isin": "CA0213611001",
+      "cusip": "021361100",
+      "weight": 0.08
+    },
+    {
+      "name": "INFINEON TECHNOLOGIES AG NPV",
+      "isin": "DE0006231004",
+      "cusip": "D35415104",
+      "weight": 0.08
+    },
+    {
+      "name": "Brookfield Corp CAD NPV",
+      "isin": "CA11271J1075",
+      "cusip": "11271J107",
+      "weight": 0.08
+    },
+    {
+      "name": "BENTLEY SYSTEMS INC-CLASS B USD NPV",
+      "isin": "US08265T2087",
+      "cusip": "08265T208",
+      "weight": 0.08
+    },
+    {
+      "name": "XYLEM INC NPV",
+      "isin": "US98419M1009",
+      "cusip": "98419M100",
+      "weight": 0.08
+    },
+    {
+      "name": "Welltower OP Inc USD1",
+      "isin": "US95040Q1040",
+      "cusip": "95040Q104",
+      "weight": 0.0799
+    },
+    {
+      "name": "ALTRIA GROUP INC USD0.333",
+      "isin": "US02209S1033",
+      "cusip": "02209S103",
+      "weight": 0.0798
+    },
+    {
+      "name": "NATWEST GROUP PLC GBP 1.0769",
+      "isin": "GB00BM8PJY71",
+      "cusip": "G6422B147",
+      "weight": 0.0798
+    },
+    {
+      "name": "LOTTERY CORP/THE AUD NPV",
+      "isin": "AU0000219529",
+      "cusip": "Q56337100",
+      "weight": 0.0798
+    },
+    {
+      "name": "WESFARMERS LTD NPV",
+      "isin": "AU000000WES1",
+      "cusip": "Q95870103",
+      "weight": 0.0798
+    },
+    {
+      "name": "GJENSIDIGE FORSIKRING ASA NOK2",
+      "isin": "NO0010582521",
+      "cusip": "R2763X101",
+      "weight": 0.0798
+    },
+    {
+      "name": "EATON CORP PLC USD0.01",
+      "isin": "IE00B8KQN827",
+      "cusip": "G29183103",
+      "weight": 0.0798
+    },
+    {
+      "name": "TECHTRONIC INDUSTRIES CO LTD NPV",
+      "isin": "HK0669013440",
+      "cusip": "Y8563B159",
+      "weight": 0.0797
+    },
+    {
+      "name": "AVIVA GBP 0.33",
+      "isin": "GB00BPQY8M80",
+      "cusip": "G0683Q158",
+      "weight": 0.0797
+    },
+    {
+      "name": "AMAZON.COM INC USD0.01",
+      "isin": "US0231351067",
+      "cusip": "023135106",
+      "weight": 0.0797
+    },
+    {
+      "name": "KKR & CO INC NPV",
+      "isin": "US48251W1045",
+      "cusip": "48251W104",
+      "weight": 0.0797
+    },
+    {
+      "name": "CVS HEALTH CORP USD0.01",
+      "isin": "US1266501006",
+      "cusip": "126650100",
+      "weight": 0.0797
+    },
+    {
+      "name": "KLA CORP USD0.001",
+      "isin": "US4824801009",
+      "cusip": "482480100",
+      "weight": 0.0797
+    },
+    {
+      "name": "ALAMOS GOLD INC-CLASS A NPV",
+      "isin": "CA0115321089",
+      "cusip": "011532108",
+      "weight": 0.0797
+    },
+    {
+      "name": "DUPONT DE NEMOURS INC USD0.01",
+      "isin": "US26614N1028",
+      "cusip": "26614N102",
+      "weight": 0.0796
+    },
+    {
+      "name": "LOWE'S COS INC USD0.5",
+      "isin": "US5486611073",
+      "cusip": "548661107",
+      "weight": 0.0796
+    },
+    {
+      "name": "FRANCO-NEVADA CORP CAD NPV",
+      "isin": "CA3518581051",
+      "cusip": "351858105",
+      "weight": 0.0796
+    },
+    {
+      "name": "NORDSON CORP NPV",
+      "isin": "US6556631025",
+      "cusip": "655663102",
+      "weight": 0.0796
+    },
+    {
+      "name": "TOKIO MARINE HOLDINGS INC NPV",
+      "isin": "JP3910660004",
+      "cusip": "J86298106",
+      "weight": 0.0796
+    },
+    {
+      "name": "HANKYU HANSHIN HOLDINGS INC NPV",
+      "isin": "JP3774200004",
+      "cusip": "J18439109",
+      "weight": 0.0796
+    },
+    {
+      "name": "ASR NEDERLAND NV EUR0.16",
+      "isin": "NL0011872643",
+      "cusip": "N0709G103",
+      "weight": 0.0796
+    },
+    {
+      "name": "APA GROUP NPV",
+      "isin": "AU000000APA1",
+      "cusip": "Q0437B100",
+      "weight": 0.0796
+    },
+    {
+      "name": "INFORMA PLC GBP0.001",
+      "isin": "GB00BMJ6DW54",
+      "cusip": "G4770L106",
+      "weight": 0.0796
+    },
+    {
+      "name": "HEXAGON AB SEK NPV",
+      "isin": "SE0015961909",
+      "cusip": "W4R431112",
+      "weight": 0.0795
+    },
+    {
+      "name": "FUJIFILM HOLDINGS CORP NPV",
+      "isin": "JP3814000000",
+      "cusip": "J14208102",
+      "weight": 0.0795
+    },
+    {
+      "name": "Sumitomo Mitsui Trust Group Inc JPY NPV",
+      "isin": "JP3892100003",
+      "cusip": "J7772M102",
+      "weight": 0.0795
+    },
+    {
+      "name": "WHITBREAD PLC GBP0.767974",
+      "isin": "GB00B1KJJ408",
+      "cusip": "G9606P197",
+      "weight": 0.0795
+    },
+    {
+      "name": "FRESENIUS SE & CO KGAA NPV",
+      "isin": "DE0005785604",
+      "cusip": "D27348263",
+      "weight": 0.0795
+    },
+    {
+      "name": "ITOCHU CORP NPV",
+      "isin": "JP3143600009",
+      "cusip": "J2501P104",
+      "weight": 0.0795
+    },
+    {
+      "name": "FORD MOTOR CO USD0.01",
+      "isin": "US3453708600",
+      "cusip": "345370860",
+      "weight": 0.0795
+    },
+    {
+      "name": "RAYMOND JAMES FINANCIAL INC USD0.01",
+      "isin": "US7547301090",
+      "cusip": "754730109",
+      "weight": 0.0794
+    },
+    {
+      "name": "SHELL PLC GBP 0.0700",
+      "isin": "GB00BP6MXD84",
+      "cusip": "G80827101",
+      "weight": 0.0794
+    },
+    {
+      "name": "NEXI SPA NPV",
+      "isin": "IT0005366767",
+      "cusip": "T6S18J104",
+      "weight": 0.0794
+    },
+    {
+      "name": "BANK OF MONTREAL NPV",
+      "isin": "CA0636711016",
+      "cusip": "063671101",
+      "weight": 0.0794
+    },
+    {
+      "name": "ALEXANDRIA REAL ESTATE EQUIT USD0.01",
+      "isin": "US0152711091",
+      "cusip": "015271109",
+      "weight": 0.0794
+    },
+    {
+      "name": "ADMIRAL GROUP PLC GBP0.001",
+      "isin": "GB00B02J6398",
+      "cusip": "G0110T106",
+      "weight": 0.0794
+    },
+    {
+      "name": "GLOBAL PAYMENTS INC NPV",
+      "isin": "US37940X1028",
+      "cusip": "37940X102",
+      "weight": 0.0793
+    },
+    {
+      "name": "DEVON ENERGY CORP USD0.1",
+      "isin": "US25179M1036",
+      "cusip": "25179M103",
+      "weight": 0.0793
+    },
+    {
+      "name": "JPMORGAN CHASE & CO USD1",
+      "isin": "US46625H1005",
+      "cusip": "46625H100",
+      "weight": 0.0793
+    },
+    {
+      "name": "MITSUBISHI CORP NPV",
+      "isin": "JP3898400001",
+      "cusip": "J43830116",
+      "weight": 0.0793
+    },
+    {
+      "name": "SHIONOGI & CO LTD NPV",
+      "isin": "JP3347200002",
+      "cusip": "J74229105",
+      "weight": 0.0792
+    },
+    {
+      "name": "DANSKE BANK A/S DKK10",
+      "isin": "DK0010274414",
+      "cusip": "K22272114",
+      "weight": 0.0792
+    },
+    {
+      "name": "SKANDINAVISKA ENSKILDA BAN-A SEK10",
+      "isin": "SE0000148884",
+      "cusip": "W25381141",
+      "weight": 0.0792
+    },
+    {
+      "name": "BOC HONG KONG HOLDINGS LTD NPV",
+      "isin": "HK2388011192",
+      "cusip": "Y0920U103",
+      "weight": 0.0792
+    },
+    {
+      "name": "PENTAIR PLC USD0.01",
+      "isin": "IE00BLS09M33",
+      "cusip": "G7S00T104",
+      "weight": 0.0791
+    },
+    {
+      "name": "NVR INC USD0.01",
+      "isin": "US62944T1051",
+      "cusip": "62944T105",
+      "weight": 0.0791
+    },
+    {
+      "name": "PARKER HANNIFIN CORP USD0.5",
+      "isin": "US7010941042",
+      "cusip": "701094104",
+      "weight": 0.0791
+    },
+    {
+      "name": "CAPITALAND INVESTMENT LTD/SI SGD NPV",
+      "isin": "SGXE62145532",
+      "cusip": "Y1091P105",
+      "weight": 0.0791
+    },
+    {
+      "name": "SMITHS GROUP PLC GBP0.375",
+      "isin": "GB00B1WY2338",
+      "cusip": "G82401111",
+      "weight": 0.0791
+    },
+    {
+      "name": "ALLIANZ SE-REG NPV",
+      "isin": "DE0008404005",
+      "cusip": "D03080112",
+      "weight": 0.079
+    },
+    {
+      "name": "VICINITY CENTRES NPV",
+      "isin": "AU000000VCX7",
+      "cusip": "Q9395F102",
+      "weight": 0.079
+    },
+    {
+      "name": "OCCIDENTAL PETROLEUM CORP USD0.2",
+      "isin": "US6745991058",
+      "cusip": "674599105",
+      "weight": 0.079
+    },
+    {
+      "name": "HOYA CORP NPV",
+      "isin": "JP3837800006",
+      "cusip": "J22848105",
+      "weight": 0.0789
+    },
+    {
+      "name": "Metso Corporation EUR NPV",
+      "isin": "FI0009014575",
+      "cusip": "X5404W104",
+      "weight": 0.0789
+    },
+    {
+      "name": "BANK OF AMERICA CORP USD0.01",
+      "isin": "US0605051046",
+      "cusip": "060505104",
+      "weight": 0.0789
+    },
+    {
+      "name": "Subaru Corp NPV",
+      "isin": "JP3814800003",
+      "cusip": "J7676H100",
+      "weight": 0.0789
+    },
+    {
+      "name": "HYATT HOTELS CORP - CL A USD0.01",
+      "isin": "US4485791028",
+      "cusip": "448579102",
+      "weight": 0.0789
+    },
+    {
+      "name": "ORANGE EUR4",
+      "isin": "FR0000133308",
+      "cusip": "F6866T100",
+      "weight": 0.0789
+    },
+    {
+      "name": "T ROWE PRICE GROUP INC USD0.2",
+      "isin": "US74144T1088",
+      "cusip": "74144T108",
+      "weight": 0.0788
+    },
+    {
+      "name": "MOWI ASA NOK7.5",
+      "isin": "NO0003054108",
+      "cusip": "R4S04H101",
+      "weight": 0.0788
+    },
+    {
+      "name": "SNOWFLAKE INC-CLASS A NPV",
+      "isin": "US8334451098",
+      "cusip": "833445109",
+      "weight": 0.0788
+    },
+    {
+      "name": "DATADOG INC - CLASS A USD0.00001",
+      "isin": "US23804L1035",
+      "cusip": "23804L103",
+      "weight": 0.0788
+    },
+    {
+      "name": "HKT TRUST AND HKT LTD-SS HKD0.0005",
+      "isin": "HK0000093390",
+      "cusip": "Y3R29Z107",
+      "weight": 0.0788
+    },
+    {
+      "name": "LLOYDS BANKING GROUP PLC GBP 10.0000",
+      "isin": "GB0008706128",
+      "cusip": "G5533W248",
+      "weight": 0.0787
+    },
+    {
+      "name": "LABCORP HOLDINGS INC USD NPV",
+      "isin": "US5049221055",
+      "cusip": "504922105",
+      "weight": 0.0787
+    },
+    {
+      "name": "SCHWAB (CHARLES) CORP USD0.01",
+      "isin": "US8085131055",
+      "cusip": "808513105",
+      "weight": 0.0787
+    },
+    {
+      "name": "SOFINA NPV",
+      "isin": "BE0003717312",
+      "cusip": "B80925124",
+      "weight": 0.0787
+    },
+    {
+      "name": "DENSO CORP NPV",
+      "isin": "JP3551500006",
+      "cusip": "J12075107",
+      "weight": 0.0786
+    },
+    {
+      "name": "M3 INC NPV",
+      "isin": "JP3435750009",
+      "cusip": "J4697J108",
+      "weight": 0.0786
+    },
+    {
+      "name": "SIEMENS AG-REG NPV",
+      "isin": "DE0007236101",
+      "cusip": "D69671218",
+      "weight": 0.0786
+    },
+    {
+      "name": "ELEMENT FLEET MANAGEMENT COR NPV",
+      "isin": "CA2861812014",
+      "cusip": "286181201",
+      "weight": 0.0786
+    },
+    {
+      "name": "MEDIOBANCA SPA EUR0.5",
+      "isin": "IT0000062957",
+      "cusip": "T10584117",
+      "weight": 0.0785
+    },
+    {
+      "name": "WISETECH GLOBAL LTD AUD NPV",
+      "isin": "AU000000WTC3",
+      "cusip": "Q98056106",
+      "weight": 0.0785
+    },
+    {
+      "name": "FAIRFAX FINANCIAL HLDGS LTD NPV",
+      "isin": "CA3039011026",
+      "cusip": "303901102",
+      "weight": 0.0785
+    },
+    {
+      "name": "PINTEREST INC- CLASS A USD0.00001",
+      "isin": "US72352L1061",
+      "cusip": "72352L106",
+      "weight": 0.0785
+    },
+    {
+      "name": "QUEBECOR INC -CL B NPV",
+      "isin": "CA7481932084",
+      "cusip": "748193208",
+      "weight": 0.0785
+    },
+    {
+      "name": "PRO MEDICUS LTD NPV",
+      "isin": "AU000000PME8",
+      "cusip": "Q77301101",
+      "weight": 0.0785
+    },
+    {
+      "name": "BECTON DICKINSON AND CO USD1",
+      "isin": "US0758871091",
+      "cusip": "075887109",
+      "weight": 0.0785
+    },
+    {
+      "name": "Mitsubishi Chemical Group Corp NPV",
+      "isin": "JP3897700005",
+      "cusip": "J44046100",
+      "weight": 0.0785
+    },
+    {
+      "name": "MACQUARIE GROUP LTD NPV",
+      "isin": "AU000000MQG1",
+      "cusip": "Q57085286",
+      "weight": 0.0784
+    },
+    {
+      "name": "CBOE GLOBAL MARKETS INC NPV",
+      "isin": "US12503M1080",
+      "cusip": "12503M108",
+      "weight": 0.0784
+    },
+    {
+      "name": "MEDIBANK PRIVATE LTD NPV",
+      "isin": "AU000000MPL3",
+      "cusip": "Q5921Q109",
+      "weight": 0.0784
+    },
+    {
+      "name": "MICROSOFT CORP USD0.00000625",
+      "isin": "US5949181045",
+      "cusip": "594918104",
+      "weight": 0.0784
+    },
+    {
+      "name": "F5 INC USD NPV",
+      "isin": "US3156161024",
+      "cusip": "315616102",
+      "weight": 0.0784
+    },
+    {
+      "name": "NETAPP INC USD0.001",
+      "isin": "US64110D1046",
+      "cusip": "64110D104",
+      "weight": 0.0784
+    },
+    {
+      "name": "T-MOBILE US INC USD0.0001",
+      "isin": "US8725901040",
+      "cusip": "872590104",
+      "weight": 0.0784
+    },
+    {
+      "name": "Gen Digital Inc USD0.01",
+      "isin": "US6687711084",
+      "cusip": "668771108",
+      "weight": 0.0784
+    },
+    {
+      "name": "APPLE INC USD0.00001",
+      "isin": "US0378331005",
+      "cusip": "037833100",
+      "weight": 0.0783
+    },
+    {
+      "name": "PACKAGING CORP OF AMERICA USD0.01",
+      "isin": "US6951561090",
+      "cusip": "695156109",
+      "weight": 0.0783
+    },
+    {
+      "name": "BRIDGESTONE CORP NPV",
+      "isin": "JP3830800003",
+      "cusip": "J04578126",
+      "weight": 0.0783
+    },
+    {
+      "name": "METTLER-TOLEDO INTERNATIONAL USD0.01",
+      "isin": "US5926881054",
+      "cusip": "592688105",
+      "weight": 0.0783
+    },
+    {
+      "name": "IGM FINANCIAL INC NPV",
+      "isin": "CA4495861060",
+      "cusip": "449586106",
+      "weight": 0.0783
+    },
+    {
+      "name": "TESLA INC USD0.001",
+      "isin": "US88160R1014",
+      "cusip": "88160R101",
+      "weight": 0.0783
+    },
+    {
+      "name": "AERCAP HOLDINGS NV EUR0.01",
+      "isin": "NL0000687663",
+      "cusip": "N00985106",
+      "weight": 0.0783
+    },
+    {
+      "name": "QANTAS AIRWAYS LTD NPV",
+      "isin": "AU000000QAN2",
+      "cusip": "Q77974550",
+      "weight": 0.0783
+    },
+    {
+      "name": "ARCELORMITTAL EUR NPV",
+      "isin": "LU1598757687",
+      "cusip": "L0302D210",
+      "weight": 0.0783
+    },
+    {
+      "name": "GILDAN ACTIVEWEAR INC CAD NPV",
+      "isin": "CA3759161035",
+      "cusip": "375916103",
+      "weight": 0.0783
+    },
+    {
+      "name": "AMERICAN ELECTRIC POWER USD6.5",
+      "isin": "US0255371017",
+      "cusip": "025537101",
+      "weight": 0.0782
+    },
+    {
+      "name": "ASSOCIATED BRITISH FOODS PLC GBP0.0568",
+      "isin": "GB0006731235",
+      "cusip": "G05600138",
+      "weight": 0.0782
+    },
+    {
+      "name": "GLENCORE PLC GBP 0.0100",
+      "isin": "JE00B4T3BW64",
+      "cusip": "G39420107",
+      "weight": 0.0782
+    },
+    {
+      "name": "SYSCO CORP USD1",
+      "isin": "US8718291078",
+      "cusip": "871829107",
+      "weight": 0.0782
+    },
+    {
+      "name": "BIOMERIEUX NPV",
+      "isin": "FR0013280286",
+      "cusip": "F1149Y232",
+      "weight": 0.0781
+    },
+    {
+      "name": "AKER BP ASA NOK 1.0000",
+      "isin": "NO0010345853",
+      "cusip": "R0139K100",
+      "weight": 0.0781
+    },
+    {
+      "name": "GEA GROUP AG NPV",
+      "isin": "DE0006602006",
+      "cusip": "D28304109",
+      "weight": 0.078
+    },
+    {
+      "name": "NATERA INC USD0.0001",
+      "isin": "US6323071042",
+      "cusip": "632307104",
+      "weight": 0.078
+    },
+    {
+      "name": "Rakuten Group Inc NPV",
+      "isin": "JP3967200001",
+      "cusip": "J64264104",
+      "weight": 0.078
+    },
+    {
+      "name": "MERCK & CO. INC. USD0.5",
+      "isin": "US58933Y1055",
+      "cusip": "58933Y105",
+      "weight": 0.078
+    },
+    {
+      "name": "MOODY'S CORP USD0.01",
+      "isin": "US6153691059",
+      "cusip": "615369105",
+      "weight": 0.078
+    },
+    {
+      "name": "LEGAL & GENERAL GROUP PLC GBP 2.5000",
+      "isin": "GB0005603997",
+      "cusip": "G54404127",
+      "weight": 0.0779
+    },
+    {
+      "name": "BOEING CO/THE USD5",
+      "isin": "US0970231058",
+      "cusip": "097023105",
+      "weight": 0.0779
+    },
+    {
+      "name": "CAN IMPERIAL BK OF COMMERCE NPV",
+      "isin": "CA1360691010",
+      "cusip": "136069101",
+      "weight": 0.0779
+    },
+    {
+      "name": "PERNOD RICARD SA EUR1.55",
+      "isin": "FR0000120693",
+      "cusip": "F72027109",
+      "weight": 0.0779
+    },
+    {
+      "name": "ASSA ABLOY AB-B SEK1",
+      "isin": "SE0007100581",
+      "cusip": "W0817X204",
+      "weight": 0.0779
+    },
+    {
+      "name": "EVOLUTION MINING LTD NPV",
+      "isin": "AU000000EVN4",
+      "cusip": "Q3647R147",
+      "weight": 0.0779
+    },
+    {
+      "name": "TELSTRA CORP LTD NPV",
+      "isin": "AU000000TLS2",
+      "cusip": "Q8975N105",
+      "weight": 0.0778
+    },
+    {
+      "name": "NISOURCE INC USD0.01",
+      "isin": "US65473P1057",
+      "cusip": "65473P105",
+      "weight": 0.0778
+    },
+    {
+      "name": "HALLIBURTON CO USD2.5",
+      "isin": "US4062161017",
+      "cusip": "406216101",
+      "weight": 0.0778
+    },
+    {
+      "name": "TAKEDA PHARMACEUTICAL CO LTD NPV",
+      "isin": "JP3463000004",
+      "cusip": "J8129E108",
+      "weight": 0.0778
+    },
+    {
+      "name": "EMERA INC NPV",
+      "isin": "CA2908761018",
+      "cusip": "290876101",
+      "weight": 0.0778
+    },
+    {
+      "name": "TENARIS SA EUR 1.0000",
+      "isin": "LU2598331598",
+      "cusip": "L90272136",
+      "weight": 0.0777
+    },
+    {
+      "name": "MOTOROLA SOLUTIONS INC USD0.01",
+      "isin": "US6200763075",
+      "cusip": "620076307",
+      "weight": 0.0777
+    },
+    {
+      "name": "EMS-CHEMIE HOLDING AG-REG CHF0.01",
+      "isin": "CH0016440353",
+      "cusip": "H22206199",
+      "weight": 0.0777
+    },
+    {
+      "name": "OBAYASHI CORP NPV",
+      "isin": "JP3190000004",
+      "cusip": "J59826107",
+      "weight": 0.0777
+    },
+    {
+      "name": "QUANTA SERVICES INC USD0.00001",
+      "isin": "US74762E1029",
+      "cusip": "74762E102",
+      "weight": 0.0777
+    },
+    {
+      "name": "NEUROCRINE BIOSCIENCES INC USD0.001",
+      "isin": "US64125C1099",
+      "cusip": "64125C109",
+      "weight": 0.0777
+    },
+    {
+      "name": "SS&C TECHNOLOGIES HOLDINGS USD0.01",
+      "isin": "US78467J1007",
+      "cusip": "78467J100",
+      "weight": 0.0776
+    },
+    {
+      "name": "JOHNSON CONTROLS INTERNATION USD0.01",
+      "isin": "IE00BY7QL619",
+      "cusip": "G51502105",
+      "weight": 0.0776
+    },
+    {
+      "name": "OWENS CORNING USD0.001",
+      "isin": "US6907421019",
+      "cusip": "690742101",
+      "weight": 0.0775
+    },
+    {
+      "name": "SUMITOMO CORP NPV",
+      "isin": "JP3404600003",
+      "cusip": "J77282119",
+      "weight": 0.0775
+    },
+    {
+      "name": "RWE AG NPV",
+      "isin": "DE0007037129",
+      "cusip": "D6629K109",
+      "weight": 0.0775
+    },
+    {
+      "name": "HOME DEPOT INC USD0.05",
+      "isin": "US4370761029",
+      "cusip": "437076102",
+      "weight": 0.0775
+    },
+    {
+      "name": "ONO PHARMACEUTICAL CO LTD NPV",
+      "isin": "JP3197600004",
+      "cusip": "J61546115",
+      "weight": 0.0775
+    },
+    {
+      "name": "AGC INC NPV",
+      "isin": "JP3112000009",
+      "cusip": "J0025W100",
+      "weight": 0.0775
+    },
+    {
+      "name": "CVC CAPIEUR NPV",
+      "isin": "JE00BRX98089",
+      "cusip": "G2716N103",
+      "weight": 0.0775
+    },
+    {
+      "name": "KYOCERA CORP NPV",
+      "isin": "JP3249600002",
+      "cusip": "J37479110",
+      "weight": 0.0775
+    },
+    {
+      "name": "SWISSCOM AG-REG CHF1",
+      "isin": "CH0008742519",
+      "cusip": "H8398N104",
+      "weight": 0.0774
+    },
+    {
+      "name": "GENUINE PARTS CO USD1",
+      "isin": "US3724601055",
+      "cusip": "372460105",
+      "weight": 0.0774
+    },
+    {
+      "name": "ROYALTY PHARMA PLC- CL A NPV",
+      "isin": "GB00BMVP7Y09",
+      "cusip": "G7709Q104",
+      "weight": 0.0773
+    },
+    {
+      "name": "HUNTINGTON BANCSHARES INC USD0.01",
+      "isin": "US4461501045",
+      "cusip": "446150104",
+      "weight": 0.0773
+    },
+    {
+      "name": "HILTON WORLDWIDE HOLDINGS IN USD0.01",
+      "isin": "US43300A2033",
+      "cusip": "43300A203",
+      "weight": 0.0773
+    },
+    {
+      "name": "TEVA PHARMACEUTICAL-SP ADR",
+      "isin": "US8816242098",
+      "cusip": "881624209",
+      "weight": 0.0773
+    },
+    {
+      "name": "POOL CORP USD0.001",
+      "isin": "US73278L1052",
+      "cusip": "73278L105",
+      "weight": 0.0773
+    },
+    {
+      "name": "US BANCORP USD0.01",
+      "isin": "US9029733048",
+      "cusip": "902973304",
+      "weight": 0.0773
+    },
+    {
+      "name": "AENA SME SA EUR 10",
+      "isin": "ES0105046017",
+      "weight": 0.0773
+    },
+    {
+      "name": "EMPIRE CO LTD 'A' NPV",
+      "isin": "CA2918434077",
+      "cusip": "291843407",
+      "weight": 0.0773
+    },
+    {
+      "name": "SIMON PROPERTY GROUP INC USD0.0001",
+      "isin": "US8288061091",
+      "cusip": "828806109",
+      "weight": 0.0773
+    },
+    {
+      "name": "PFIZER INC USD0.05",
+      "isin": "US7170811035",
+      "cusip": "717081103",
+      "weight": 0.0772
+    },
+    {
+      "name": "HOSHIZAKI CORP NPV",
+      "isin": "JP3845770001",
+      "cusip": "J23254105",
+      "weight": 0.0772
+    },
+    {
+      "name": "GROUPE BRUXELLES LAMBERT SA NPV",
+      "isin": "BE0003797140",
+      "cusip": "B4746J115",
+      "weight": 0.0772
+    },
+    {
+      "name": "ROYAL BANK OF CANADA NPV",
+      "isin": "CA7800871021",
+      "cusip": "780087102",
+      "weight": 0.0772
+    },
+    {
+      "name": "TFI INTERNATIONAL INC CAD NPV",
+      "isin": "CA87241L1094",
+      "cusip": "87241L109",
+      "weight": 0.0772
+    },
+    {
+      "name": "JAPAN AIRLINES CO LTD NPV",
+      "isin": "JP3705200008",
+      "cusip": "J25979121",
+      "weight": 0.0771
+    },
+    {
+      "name": "TOKYU CORP NPV",
+      "isin": "JP3574200006",
+      "cusip": "J88720149",
+      "weight": 0.0771
+    },
+    {
+      "name": "FUJITSU LTD NPV",
+      "isin": "JP3818000006",
+      "cusip": "J15708159",
+      "weight": 0.0771
+    },
+    {
+      "name": "GOODMAN GROUP NPV",
+      "isin": "AU000000GMG2",
+      "cusip": "Q4229W132",
+      "weight": 0.0771
+    },
+    {
+      "name": "AGILENT TECHNOLOGIES INC USD0.01",
+      "isin": "US00846U1016",
+      "cusip": "00846U101",
+      "weight": 0.0771
+    },
+    {
+      "name": "L'OREAL EUR0.2",
+      "isin": "FR0000120321",
+      "cusip": "F58149133",
+      "weight": 0.0771
+    },
+    {
+      "name": "SONY GROUP CORP NPV",
+      "isin": "JP3435000009",
+      "cusip": "J76379106",
+      "weight": 0.077
+    },
+    {
+      "name": "Biogen Inc USD0.0005",
+      "isin": "US09062X1037",
+      "cusip": "09062X103",
+      "weight": 0.077
+    },
+    {
+      "name": "PHILLIPS 66 NPV",
+      "isin": "US7185461040",
+      "cusip": "718546104",
+      "weight": 0.077
+    },
+    {
+      "name": "JULIUS BAER GROUP LTD CHF0.02",
+      "isin": "CH0102484968",
+      "cusip": "H4414N103",
+      "weight": 0.077
+    },
+    {
+      "name": "ORIENTAL LAND CO LTD NPV",
+      "isin": "JP3198900007",
+      "cusip": "J6174U100",
+      "weight": 0.077
+    },
+    {
+      "name": "SAMPO PLC EUR NPV",
+      "isin": "FI4000552500",
+      "cusip": "X75653232",
+      "weight": 0.0769
+    },
+    {
+      "name": "BUNGE GLOBAL SA USD NPV",
+      "isin": "CH1300646267",
+      "cusip": "H11356104",
+      "weight": 0.0769
+    },
+    {
+      "name": "ASSICURAZIONI GENERALI EUR1",
+      "isin": "IT0000062072",
+      "cusip": "T05040109",
+      "weight": 0.0769
+    },
+    {
+      "name": "WALT DISNEY CO/THE USD0.01",
+      "isin": "US2546871060",
+      "cusip": "254687106",
+      "weight": 0.0769
+    },
+    {
+      "name": "WP CAREY INC USD0.001",
+      "isin": "US92936U1097",
+      "cusip": "92936U109",
+      "weight": 0.0769
+    },
+    {
+      "name": "VOLVO AB-B SHS SEK1.2",
+      "isin": "SE0000115446",
+      "cusip": "928856301",
+      "weight": 0.0768
+    },
+    {
+      "name": "JFE HOLDINGS INC NPV",
+      "isin": "JP3386030005",
+      "cusip": "J2817M100",
+      "weight": 0.0768
+    },
+    {
+      "name": "KUBOTA CORP NPV",
+      "isin": "JP3266400005",
+      "cusip": "J36662138",
+      "weight": 0.0768
+    },
+    {
+      "name": "TOYOTA MOTOR CORP NPV",
+      "isin": "JP3633400001",
+      "cusip": "J92676113",
+      "weight": 0.0767
+    },
+    {
+      "name": "KNORR-BREMSE AG NPV",
+      "isin": "DE000KBX1006",
+      "cusip": "D4S43E114",
+      "weight": 0.0766
+    },
+    {
+      "name": "SHISEIDO CO LTD NPV",
+      "isin": "JP3351600006",
+      "cusip": "J74358144",
+      "weight": 0.0766
+    },
+    {
+      "name": "ZEBRA TECHNOLOGIES CORP-CL A USD0.01",
+      "isin": "US9892071054",
+      "cusip": "989207105",
+      "weight": 0.0766
+    },
+    {
+      "name": "EXOR NV EUR 0.0100",
+      "isin": "NL0012059018",
+      "cusip": "N3140A107",
+      "weight": 0.0766
+    },
+    {
+      "name": "BNP PARIBAS EUR2",
+      "isin": "FR0000131104",
+      "cusip": "F1058Q238",
+      "weight": 0.0766
+    },
+    {
+      "name": "ARES MANAGEMENT CORP - A NPV",
+      "isin": "US03990B1017",
+      "cusip": "03990B101",
+      "weight": 0.0765
+    },
+    {
+      "name": "GENTING SINGAPORE LTD USD0.1",
+      "isin": "SGXE21576413",
+      "cusip": "Y2692C139",
+      "weight": 0.0765
+    },
+    {
+      "name": "EXXON MOBIL CORP NPV",
+      "isin": "US30231G1022",
+      "cusip": "30231G102",
+      "weight": 0.0765
+    },
+    {
+      "name": "CapitaLand Ascendas REIT SGD NPV",
+      "isin": "SG1M77906915",
+      "cusip": "Y0205X103",
+      "weight": 0.0765
+    },
+    {
+      "name": "VOLKSWAGEN AG-PREF EUR NPV PFD",
+      "isin": "DE0007664039",
+      "cusip": "D94523103",
+      "weight": 0.0765
+    },
+    {
+      "name": "SALMAR ASA NOK0.25",
+      "isin": "NO0010310956",
+      "cusip": "R7445C102",
+      "weight": 0.0764
+    },
+    {
+      "name": "MARATHON PETROLEUM CORP USD0.01",
+      "isin": "US56585A1025",
+      "cusip": "56585A102",
+      "weight": 0.0764
+    },
+    {
+      "name": "GREAT-WEST LIFECO INC NPV",
+      "isin": "CA39138C1068",
+      "cusip": "39138C106",
+      "weight": 0.0764
+    },
+    {
+      "name": "FIDELITY NATIONAL FINANCIAL USD0.0001",
+      "isin": "US31620R3030",
+      "cusip": "31620R303",
+      "weight": 0.0763
+    },
+    {
+      "name": "EVEREST GROUP LTD USD0.01",
+      "isin": "BMG3223R1088",
+      "cusip": "G3223R108",
+      "weight": 0.0763
+    },
+    {
+      "name": "ZSCALER INC USD0.001",
+      "isin": "US98980G1022",
+      "cusip": "98980G102",
+      "weight": 0.0763
+    },
+    {
+      "name": "HULIC CO LTD NPV",
+      "isin": "JP3360800001",
+      "cusip": "J23594112",
+      "weight": 0.0763
+    },
+    {
+      "name": "STANTEC INC NPV",
+      "isin": "CA85472N1096",
+      "cusip": "85472N109",
+      "weight": 0.0762
+    },
+    {
+      "name": "BOOKING HOLDINGS INC USD0.008",
+      "isin": "US09857L1089",
+      "cusip": "09857L108",
+      "weight": 0.0762
+    },
+    {
+      "name": "NORDEA BANK ABP EUR1",
+      "isin": "FI4000297767",
+      "cusip": "X5S8VL105",
+      "weight": 0.0762
+    },
+    {
+      "name": "SWEDBANK AB - A SHARES SEK22",
+      "isin": "SE0000242455",
+      "cusip": "W94232100",
+      "weight": 0.0762
+    },
+    {
+      "name": "ANNALY CAPITAL MANAGEMENT INC USD 0.01",
+      "isin": "US0357108390",
+      "cusip": "035710839",
+      "weight": 0.0762
+    },
+    {
+      "name": "TELENOR ASA NOK6",
+      "isin": "NO0010063308",
+      "cusip": "R21882106",
+      "weight": 0.0762
+    },
+    {
+      "name": "IA FINANCIAL CORP INC NPV",
+      "isin": "CA45075E1043",
+      "cusip": "45075E104",
+      "weight": 0.0762
+    },
+    {
+      "name": "SHIMADZU CORP NPV",
+      "isin": "JP3357200009",
+      "cusip": "J72165129",
+      "weight": 0.0762
+    },
+    {
+      "name": "SUZUKI MOTOR CORP NPV",
+      "isin": "JP3397200001",
+      "cusip": "J78529138",
+      "weight": 0.0762
+    },
+    {
+      "name": "IBERDROLA SA EUR0.75",
+      "isin": "ES0144580Y14",
+      "cusip": "E6165F166",
+      "weight": 0.0762
+    },
+    {
+      "name": "ZURICH INSURANCE GROUP AG CHF0.1",
+      "isin": "CH0011075394",
+      "cusip": "H9870Y105",
+      "weight": 0.0761
+    },
+    {
+      "name": "AIR PRODUCTS & CHEMICALS INC USD1",
+      "isin": "US0091581068",
+      "cusip": "009158106",
+      "weight": 0.0761
+    },
+    {
+      "name": "FINECOBANK SPA EUR0.33",
+      "isin": "IT0000072170",
+      "cusip": "T4R999104",
+      "weight": 0.0761
+    },
+    {
+      "name": "WELLS FARGO & CO USD1.666",
+      "isin": "US9497461015",
+      "cusip": "949746101",
+      "weight": 0.0761
+    },
+    {
+      "name": "NIPPON STEEL CORP NPV",
+      "isin": "JP3381000003",
+      "cusip": "J55678106",
+      "weight": 0.0761
+    },
+    {
+      "name": "TIS INC NPV",
+      "isin": "JP3104890003",
+      "cusip": "J8T622102",
+      "weight": 0.0761
+    },
+    {
+      "name": "SNAP-ON INC USD1",
+      "isin": "US8330341012",
+      "cusip": "833034101",
+      "weight": 0.0761
+    },
+    {
+      "name": "Avolta AG CHF 5",
+      "isin": "CH0023405456",
+      "cusip": "H2082J107",
+      "weight": 0.0761
+    },
+    {
+      "name": "ESSILORLUXOTTICA EUR0.18",
+      "isin": "FR0000121667",
+      "cusip": "F31665106",
+      "weight": 0.0761
+    },
+    {
+      "name": "GSK PLC GBP 25.0000",
+      "isin": "GB00BN7SWP63",
+      "cusip": "G3910J179",
+      "weight": 0.0761
+    },
+    {
+      "name": "DAIWA HOUSE INDUSTRY CO LTD NPV",
+      "isin": "JP3505000004",
+      "cusip": "J11508124",
+      "weight": 0.076
+    },
+    {
+      "name": "KLEPIERRE EUR1.4",
+      "isin": "FR0000121964",
+      "cusip": "F5396X102",
+      "weight": 0.0759
+    },
+    {
+      "name": "D'IETEREN GROUP EUR NPV",
+      "isin": "BE0974259880",
+      "cusip": "B49343187",
+      "weight": 0.0759
+    },
+    {
+      "name": "AMERICAN EXPRESS CO USD0.2",
+      "isin": "US0258161092",
+      "cusip": "025816109",
+      "weight": 0.0759
+    },
+    {
+      "name": "MEDTRONIC PLC USD0.1",
+      "isin": "IE00BTN1Y115",
+      "cusip": "G5960L103",
+      "weight": 0.0759
+    },
+    {
+      "name": "ALLIANT ENERGY CORP USD0.01",
+      "isin": "US0188021085",
+      "cusip": "018802108",
+      "weight": 0.0759
+    },
+    {
+      "name": "VULCAN MATERIALS CO USD1",
+      "isin": "US9291601097",
+      "cusip": "929160109",
+      "weight": 0.0759
+    },
+    {
+      "name": "CORTEVA INC USD0.01",
+      "isin": "US22052L1044",
+      "cusip": "22052L104",
+      "weight": 0.0759
+    },
+    {
+      "name": "Mercedes-Benz Group AG EUR NPV",
+      "isin": "DE0007100000",
+      "cusip": "D1668R123",
+      "weight": 0.0759
+    },
+    {
+      "name": "DAIMLER TRUCK HOLDING AG EUR NPV",
+      "isin": "DE000DTR0CK8",
+      "cusip": "D1T3RZ100",
+      "weight": 0.0758
+    },
+    {
+      "name": "NEWS CORP - CLASS A USD0.01",
+      "isin": "US65249B1098",
+      "cusip": "65249B109",
+      "weight": 0.0758
+    },
+    {
+      "name": "ENTERGY CORP USD0.01",
+      "isin": "US29364G1031",
+      "cusip": "29364G103",
+      "weight": 0.0758
+    },
+    {
+      "name": "EQUINOR ASA NOK 2.5000",
+      "isin": "NO0010096985",
+      "cusip": "R2R90P103",
+      "weight": 0.0758
+    },
+    {
+      "name": "ECOLAB INC USD1",
+      "isin": "US2788651006",
+      "cusip": "278865100",
+      "weight": 0.0758
+    },
+    {
+      "name": "SCHNEIDER ELECTRIC SE EUR4",
+      "isin": "FR0000121972",
+      "cusip": "F86921107",
+      "weight": 0.0758
+    },
+    {
+      "name": "COCA-COLA EUROPEAN PARTNERS USD 0.0100",
+      "isin": "GB00BDCPN049",
+      "cusip": "G25839104",
+      "weight": 0.0758
+    },
+    {
+      "name": "HIKARI TSUSHIN INC NPV",
+      "isin": "JP3783420007",
+      "cusip": "J1949F108",
+      "weight": 0.0758
+    },
+    {
+      "name": "CENTRICA PLC GBP0.061728",
+      "isin": "GB00B033F229",
+      "cusip": "G2018Z143",
+      "weight": 0.0758
+    },
+    {
+      "name": "STMICROELECTRONICS NV EUR1.04",
+      "isin": "NL0000226223",
+      "cusip": "N83574108",
+      "weight": 0.0758
+    },
+    {
+      "name": "CONSTELLATION ENERGY - W/I USD NPV",
+      "isin": "US21037T1097",
+      "cusip": "21037T109",
+      "weight": 0.0758
+    },
+    {
+      "name": "SAINSBURY (J) PLC GBP0.285714",
+      "isin": "GB00B019KW72",
+      "cusip": "G77732173",
+      "weight": 0.0757
+    },
+    {
+      "name": "TEXTRON INC USD0.125",
+      "isin": "US8832031012",
+      "cusip": "883203101",
+      "weight": 0.0757
+    },
+    {
+      "name": "FORTIS INC NPV",
+      "isin": "CA3495531079",
+      "cusip": "349553107",
+      "weight": 0.0757
+    },
+    {
+      "name": "WEST JAPAN RAILWAY CO NPV",
+      "isin": "JP3659000008",
+      "cusip": "J95094108",
+      "weight": 0.0757
+    },
+    {
+      "name": "AMERICAN FINANCIAL GROUP INC NPV",
+      "isin": "US0259321042",
+      "cusip": "025932104",
+      "weight": 0.0757
+    },
+    {
+      "name": "SPOTIFY TECHNOLOGY SA EUR0.000625",
+      "isin": "LU1778762911",
+      "cusip": "L8681T102",
+      "weight": 0.0757
+    },
+    {
+      "name": "MS&AD INSURANCE GROUP HOLDIN NPV",
+      "isin": "JP3890310000",
+      "cusip": "J4687C105",
+      "weight": 0.0757
+    },
+    {
+      "name": "KAO CORP NPV",
+      "isin": "JP3205800000",
+      "cusip": "J30642169",
+      "weight": 0.0756
+    },
+    {
+      "name": "NIPPON SANSO HOLDINGS CORP NPV",
+      "isin": "JP3711600001",
+      "cusip": "J5545N100",
+      "weight": 0.0756
+    },
+    {
+      "name": "SOFTBANK CORP NPV",
+      "isin": "JP3732000009",
+      "cusip": "J75963132",
+      "weight": 0.0756
+    },
+    {
+      "name": "JAPAN TOBACCO INC NPV",
+      "isin": "JP3726800000",
+      "cusip": "J27869106",
+      "weight": 0.0756
+    },
+    {
+      "name": "INFRASTRUTTURE WIRELESS ITAL NPV",
+      "isin": "IT0005090300",
+      "cusip": "T6032P102",
+      "weight": 0.0755
+    },
+    {
+      "name": "CISCO SYSTEMS INC USD0.001",
+      "isin": "US17275R1023",
+      "cusip": "17275R102",
+      "weight": 0.0755
+    },
+    {
+      "name": "RB GLOBAL INC CAD 0.0000",
+      "isin": "CA74935Q1072",
+      "cusip": "74935Q107",
+      "weight": 0.0755
+    },
+    {
+      "name": "TOTAL ENERGIES SE EUR2.5",
+      "isin": "FR0000120271",
+      "cusip": "F92124100",
+      "weight": 0.0755
+    },
+    {
+      "name": "BOLIDEN AB SEK 2.1100",
+      "isin": "SE0020050417",
+      "cusip": "W17218210",
+      "weight": 0.0755
+    },
+    {
+      "name": "INSULET CORP USD0.001",
+      "isin": "US45784P1012",
+      "cusip": "45784P101",
+      "weight": 0.0755
+    },
+    {
+      "name": "SUNCORP GROUP LTD NPV",
+      "isin": "AU000000SUN6",
+      "cusip": "Q88040334",
+      "weight": 0.0755
+    },
+    {
+      "name": "KEYERA CORP NPV",
+      "isin": "CA4932711001",
+      "cusip": "493271100",
+      "weight": 0.0754
+    },
+    {
+      "name": "DUKE ENERGY CORP USD0.001",
+      "isin": "US26441C2044",
+      "cusip": "26441C204",
+      "weight": 0.0754
+    },
+    {
+      "name": "AKZO NOBEL N.V. EUR0.5",
+      "isin": "NL0013267909",
+      "cusip": "N01803308",
+      "weight": 0.0754
+    },
+    {
+      "name": "SINGAPORE TECH ENGINEERING NPV",
+      "isin": "SG1F60858221",
+      "cusip": "Y7996W103",
+      "weight": 0.0754
+    },
+    {
+      "name": "AMGEN INC USD0.0001",
+      "isin": "US0311621009",
+      "cusip": "031162100",
+      "weight": 0.0754
+    },
+    {
+      "name": "LIBERTY MEDIA CORP-LIB-NEW-C USD NPV",
+      "isin": "US5312297550",
+      "cusip": "531229755",
+      "weight": 0.0754
+    },
+    {
+      "name": "LONZA GROUP AG-REG CHF1",
+      "isin": "CH0013841017",
+      "cusip": "H50524133",
+      "weight": 0.0753
+    },
+    {
+      "name": "3M CO USD0.01",
+      "isin": "US88579Y1010",
+      "cusip": "88579Y101",
+      "weight": 0.0753
+    },
+    {
+      "name": "SCOUT24 AG NPV",
+      "isin": "DE000A12DM80",
+      "cusip": "D345XT105",
+      "weight": 0.0752
+    },
+    {
+      "name": "REA GROUP LTD NPV",
+      "isin": "AU000000REA9",
+      "cusip": "Q8051B108",
+      "weight": 0.0752
+    },
+    {
+      "name": "KAWASAKI KISEN KAISHA LTD NPV",
+      "isin": "JP3223800008",
+      "cusip": "J31588148",
+      "weight": 0.0752
+    },
+    {
+      "name": "TELEFONICA SA EUR1",
+      "isin": "ES0178430E18",
+      "cusip": "879382109",
+      "weight": 0.0752
+    },
+    {
+      "name": "FERROVIAL SE EUR NPV",
+      "isin": "NL0015001FS8",
+      "cusip": "N3168P101",
+      "weight": 0.0751
+    },
+    {
+      "name": "AUTOZONE INC USD0.01",
+      "isin": "US0533321024",
+      "cusip": "053332102",
+      "weight": 0.0751
+    },
+    {
+      "name": "KIRIN HOLDINGS CO LTD NPV",
+      "isin": "JP3258000003",
+      "cusip": "497350108",
+      "weight": 0.0751
+    },
+    {
+      "name": "DHL Group-REG NPV",
+      "isin": "DE0005552004",
+      "cusip": "D19225107",
+      "weight": 0.0751
+    },
+    {
+      "name": "RECRUIT HOLDINGS CO LTD NPV",
+      "isin": "JP3970300004",
+      "cusip": "J6433A101",
+      "weight": 0.075
+    },
+    {
+      "name": "STRYKER CORP USD0.1",
+      "isin": "US8636671013",
+      "cusip": "863667101",
+      "weight": 0.075
+    },
+    {
+      "name": "FEDEX CORP USD0.1",
+      "isin": "US31428X1063",
+      "cusip": "31428X106",
+      "weight": 0.075
+    },
+    {
+      "name": "NORTHERN STAR RESOURCES LTD NPV",
+      "isin": "AU000000NST8",
+      "cusip": "Q6951U101",
+      "weight": 0.075
+    },
+    {
+      "name": "DANAHER CORP USD0.01",
+      "isin": "US2358511028",
+      "cusip": "235851102",
+      "weight": 0.075
+    },
+    {
+      "name": "TRANSURBAN GROUP NPV",
+      "isin": "AU000000TCL6",
+      "cusip": "Q9194A106",
+      "weight": 0.075
+    },
+    {
+      "name": "COREBRIDGE FIN USD 0.010000000",
+      "isin": "US21871X1090",
+      "cusip": "21871X109",
+      "weight": 0.075
+    },
+    {
+      "name": "EVERGY INC NPV",
+      "isin": "US30034W1062",
+      "cusip": "30034W106",
+      "weight": 0.075
+    },
+    {
+      "name": "VERALTO CORP-W/I USD NPV",
+      "isin": "US92338C1036",
+      "cusip": "92338C103",
+      "weight": 0.075
+    },
+    {
+      "name": "LOEWS CORP USD0.01",
+      "isin": "US5404241086",
+      "cusip": "540424108",
+      "weight": 0.0749
+    },
+    {
+      "name": "CSX CORP USD1",
+      "isin": "US1264081035",
+      "cusip": "126408103",
+      "weight": 0.0749
+    },
+    {
+      "name": "DIAMONDBACK ENERGY INC USD0.01",
+      "isin": "US25278X1090",
+      "cusip": "25278X109",
+      "weight": 0.0749
+    },
+    {
+      "name": "OVERSEA-CHINESE BANKING CORP NPV",
+      "isin": "SG1S04926220",
+      "cusip": "Y64248209",
+      "weight": 0.0749
+    },
+    {
+      "name": "WESTON (GEORGE) LTD NPV",
+      "isin": "CA9611485090",
+      "cusip": "961148509",
+      "weight": 0.0749
+    },
+    {
+      "name": "OTSUKA CORP NPV",
+      "isin": "JP3188200004",
+      "cusip": "J6243L115",
+      "weight": 0.0748
+    },
+    {
+      "name": "UNITED OVERSEAS BANK LTD NPV",
+      "isin": "SG1M31001969",
+      "cusip": "Y9T10P105",
+      "weight": 0.0748
+    },
+    {
+      "name": "RENTOKIL INITIAL PLC GBP0.01",
+      "isin": "GB00B082RF11",
+      "cusip": "G7494G105",
+      "weight": 0.0748
+    },
+    {
+      "name": "SECURITAS AB-B SHS SEK1",
+      "isin": "SE0000163594",
+      "cusip": "W7912C118",
+      "weight": 0.0748
+    },
+    {
+      "name": "FISHER & PAYKEL HEALTHCARE C NPV",
+      "isin": "NZFAPE0001S2",
+      "cusip": "Q38992105",
+      "weight": 0.0747
+    },
+    {
+      "name": "CCL INDUSTRIES INC - CL B NPV",
+      "isin": "CA1249003098",
+      "cusip": "124900309",
+      "weight": 0.0747
+    },
+    {
+      "name": "ALFA LAVAL AB SEK2.84",
+      "isin": "SE0000695876",
+      "cusip": "W04008152",
+      "weight": 0.0747
+    },
+    {
+      "name": "BURLINGTON STORES INC USD0.0001",
+      "isin": "US1220171060",
+      "cusip": "122017106",
+      "weight": 0.0747
+    },
+    {
+      "name": "ENBRIDGE INC NPV",
+      "isin": "CA29250N1050",
+      "cusip": "29250N105",
+      "weight": 0.0747
+    },
+    {
+      "name": "PPL CORP USD0.01",
+      "isin": "US69351T1060",
+      "cusip": "69351T106",
+      "weight": 0.0746
+    },
+    {
+      "name": "QUALCOMM INC USD0.0001",
+      "isin": "US7475251036",
+      "cusip": "747525103",
+      "weight": 0.0746
+    },
+    {
+      "name": "E.ON SE NPV",
+      "isin": "DE000ENAG999",
+      "cusip": "D24914133",
+      "weight": 0.0746
+    },
+    {
+      "name": "MatsukiyoCocokara & Co NPV",
+      "isin": "JP3869010003",
+      "cusip": "J41208109",
+      "weight": 0.0746
+    },
+    {
+      "name": "ATMOS ENERGY CORP NPV",
+      "isin": "US0495601058",
+      "cusip": "049560105",
+      "weight": 0.0746
+    },
+    {
+      "name": "HCA HEALTHCARE INC USD0.01",
+      "isin": "US40412C1018",
+      "cusip": "40412C101",
+      "weight": 0.0746
+    },
+    {
+      "name": "OMV AG NPV",
+      "isin": "AT0000743059",
+      "cusip": "A51460110",
+      "weight": 0.0746
+    },
+    {
+      "name": "Hartford Insurance Group Inc/The USD 0.01",
+      "isin": "US4165151048",
+      "cusip": "416515104",
+      "weight": 0.0745
+    },
+    {
+      "name": "GILEAD SCIENCES INC USD0.001",
+      "isin": "US3755581036",
+      "cusip": "375558103",
+      "weight": 0.0745
+    },
+    {
+      "name": "BKW AG CHF2.5",
+      "isin": "CH0130293662",
+      "cusip": "H10053108",
+      "weight": 0.0745
+    },
+    {
+      "name": "PURE STORAGE INC - CLASS A USD0.0001",
+      "isin": "US74624M1027",
+      "cusip": "74624M102",
+      "weight": 0.0745
+    },
+    {
+      "name": "BEST BUY CO INC USD0.1",
+      "isin": "US0865161014",
+      "cusip": "086516101",
+      "weight": 0.0745
+    },
+    {
+      "name": "DR ING HEUR NPV",
+      "isin": "DE000PAG9113",
+      "cusip": "D2R3HA114",
+      "weight": 0.0744
+    },
+    {
+      "name": "HITACHI LTD NPV",
+      "isin": "JP3788600009",
+      "cusip": "J20454112",
+      "weight": 0.0744
+    },
+    {
+      "name": "PACCAR INC USD1",
+      "isin": "US6937181088",
+      "cusip": "693718108",
+      "weight": 0.0744
+    },
+    {
+      "name": "SEMPRA ENERGY NPV",
+      "isin": "US8168511090",
+      "cusip": "816851109",
+      "weight": 0.0744
+    },
+    {
+      "name": "UPM-KYMMENE OYJ NPV",
+      "isin": "FI0009005987",
+      "cusip": "X9518S108",
+      "weight": 0.0744
+    },
+    {
+      "name": "VENTAS INC USD0.25",
+      "isin": "US92276F1003",
+      "cusip": "92276F100",
+      "weight": 0.0743
+    },
+    {
+      "name": "BROOKFIELD ASSET MGMT-A CAD NPV",
+      "isin": "CA1130041058",
+      "cusip": "113004105",
+      "weight": 0.0743
+    },
+    {
+      "name": "KIMCO REALTY CORP USD0.01",
+      "isin": "US49446R1095",
+      "cusip": "49446R109",
+      "weight": 0.0743
+    },
+    {
+      "name": "AT&T INC USD1",
+      "isin": "US00206R1023",
+      "cusip": "00206R102",
+      "weight": 0.0743
+    },
+    {
+      "name": "HANG SENG BANK LTD NPV",
+      "isin": "HK0011000095",
+      "cusip": "Y30327103",
+      "weight": 0.0743
+    },
+    {
+      "name": "TELUS CORP NPV",
+      "isin": "CA87971M1032",
+      "cusip": "87971M103",
+      "weight": 0.0743
+    },
+    {
+      "name": "PRUDENTIAL FINANCIAL INC USD0.01",
+      "isin": "US7443201022",
+      "cusip": "744320102",
+      "weight": 0.0743
+    },
+    {
+      "name": "SNAM SPA NPV",
+      "isin": "IT0003153415",
+      "cusip": "T8578N103",
+      "weight": 0.0742
+    },
+    {
+      "name": "ADP EUR3",
+      "isin": "FR0010340141",
+      "cusip": "F00882104",
+      "weight": 0.0742
+    },
+    {
+      "name": "VICI PROPERTIES INC USD0.01",
+      "isin": "US9256521090",
+      "cusip": "925652109",
+      "weight": 0.0742
+    },
+    {
+      "name": "UNITED UTILITIES GROUP PLC GBP0.05",
+      "isin": "GB00B39J2M42",
+      "cusip": "G92755100",
+      "weight": 0.0742
+    },
+    {
+      "name": "OMNICOM GROUP USD0.15",
+      "isin": "US6819191064",
+      "cusip": "681919106",
+      "weight": 0.0742
+    },
+    {
+      "name": "PUBLIC SERVICE ENTERPRISE GP NPV",
+      "isin": "US7445731067",
+      "cusip": "744573106",
+      "weight": 0.0741
+    },
+    {
+      "name": "ROCHE HOLDING AG-GENUSSCHEIN NPV",
+      "isin": "CH0012032048",
+      "cusip": "H69293217",
+      "weight": 0.0741
+    },
+    {
+      "name": "MCDONALD'S CORP USD0.01",
+      "isin": "US5801351017",
+      "cusip": "580135101",
+      "weight": 0.0741
+    },
+    {
+      "name": "LINDE PLC USD NPV",
+      "isin": "IE000S9YS762",
+      "cusip": "G54950103",
+      "weight": 0.074
+    },
+    {
+      "name": "EDWARDS LIFESCIENCES CORP USD1",
+      "isin": "US28176E1082",
+      "cusip": "28176E108",
+      "weight": 0.074
+    },
+    {
+      "name": "LINK REIT NPV",
+      "isin": "HK0823032773",
+      "cusip": "Y5281M111",
+      "weight": 0.074
+    },
+    {
+      "name": "HOWMET AEROSPACE INC NPV",
+      "isin": "US4432011082",
+      "cusip": "443201108",
+      "weight": 0.074
+    },
+    {
+      "name": "RECORDATI INDUSTRIA CHIMICA EUR0.125",
+      "isin": "IT0003828271",
+      "cusip": "T78458139",
+      "weight": 0.074
+    },
+    {
+      "name": "GE HEALTHCARE TECHNOLOG-W/I USD NPV",
+      "isin": "US36266G1076",
+      "cusip": "36266G107",
+      "weight": 0.074
+    },
+    {
+      "name": "YARA INTERNATIONAL ASA NOK1.7",
+      "isin": "NO0010208051",
+      "cusip": "R9900C106",
+      "weight": 0.074
+    },
+    {
+      "name": "COVESTRO AG-TEND EUR NPV",
+      "isin": "DE000A40KY26",
+      "cusip": "D15349117",
+      "weight": 0.0739
+    },
+    {
+      "name": "UBER TECHNOLOGIES INC USD0.00001",
+      "isin": "US90353T1007",
+      "cusip": "90353T100",
+      "weight": 0.0739
+    },
+    {
+      "name": "TRYG A/S DKK5",
+      "isin": "DK0060636678",
+      "cusip": "K9640A110",
+      "weight": 0.0739
+    },
+    {
+      "name": "CAE INC NPV",
+      "isin": "CA1247651088",
+      "cusip": "124765108",
+      "weight": 0.0739
+    },
+    {
+      "name": "REALTY INCOME CORP USD1",
+      "isin": "US7561091049",
+      "cusip": "756109104",
+      "weight": 0.0738
+    },
+    {
+      "name": "EXPEDITORS INTL WASH INC USD0.01",
+      "isin": "US3021301094",
+      "cusip": "302130109",
+      "weight": 0.0738
+    },
+    {
+      "name": "ENEL SPA EUR1",
+      "isin": "IT0003128367",
+      "cusip": "T3679P115",
+      "weight": 0.0737
+    },
+    {
+      "name": "SOUTHERN CO/THE USD5",
+      "isin": "US8425871071",
+      "cusip": "842587107",
+      "weight": 0.0737
+    },
+    {
+      "name": "WOOLWORTHS GROUP LTD NPV",
+      "isin": "AU000000WOW2",
+      "cusip": "Q98418108",
+      "weight": 0.0737
+    },
+    {
+      "name": "WEST FRASER TIMBER CO LTD CAD NPV",
+      "isin": "CA9528451052",
+      "cusip": "952845105",
+      "weight": 0.0736
+    },
+    {
+      "name": "AXON ENTERPRISE INC USD0.00001",
+      "isin": "US05464C1018",
+      "cusip": "05464C101",
+      "weight": 0.0736
+    },
+    {
+      "name": "NEMETSCHEK SE NPV",
+      "isin": "DE0006452907",
+      "cusip": "D56134105",
+      "weight": 0.0736
+    },
+    {
+      "name": "Sompo Holdings Inc NPV",
+      "isin": "JP3165000005",
+      "cusip": "J7621A101",
+      "weight": 0.0735
+    },
+    {
+      "name": "BERKSHIRE HATHAWAY INC-CL B USD0.0033",
+      "isin": "US0846707026",
+      "cusip": "084670702",
+      "weight": 0.0735
+    },
+    {
+      "name": "CANADIAN UTILITIES LTD-A NPV",
+      "isin": "CA1367178326",
+      "cusip": "136717832",
+      "weight": 0.0735
+    },
+    {
+      "name": "SSE PLC GBP0.5",
+      "isin": "GB0007908733",
+      "cusip": "G8842P102",
+      "weight": 0.0735
+    },
+    {
+      "name": "Corpay Inc USD 0.001",
+      "isin": "US2199481068",
+      "cusip": "219948106",
+      "weight": 0.0734
+    },
+    {
+      "name": "SUPER MICRO COMPUTER INC USD0.001",
+      "isin": "US86800U3023",
+      "cusip": "86800U302",
+      "weight": 0.0734
+    },
+    {
+      "name": "FIRSTENERGY CORP USD0.1",
+      "isin": "US3379321074",
+      "cusip": "337932107",
+      "weight": 0.0734
+    },
+    {
+      "name": "3I GROUP PLC GBP0.738636",
+      "isin": "GB00B1YW4409",
+      "cusip": "G88473148",
+      "weight": 0.0734
+    },
+    {
+      "name": "LOBLAW COMPANIES LTD NPV",
+      "isin": "CA5394811015",
+      "cusip": "539481101",
+      "weight": 0.0734
+    },
+    {
+      "name": "WSP GLOBAL INC NPV",
+      "isin": "CA92938W2022",
+      "cusip": "92938W202",
+      "weight": 0.0733
+    },
+    {
+      "name": "ISUZU MOTORS LTD NPV",
+      "isin": "JP3137200006",
+      "cusip": "J24994113",
+      "weight": 0.0733
+    },
+    {
+      "name": "SHERWIN-WILLIAMS CO/THE USD1",
+      "isin": "US8243481061",
+      "cusip": "824348106",
+      "weight": 0.0733
+    },
+    {
+      "name": "AON PLC-CLASS A NPV",
+      "isin": "IE00BLP1HW54",
+      "cusip": "G0403H108",
+      "weight": 0.0733
+    },
+    {
+      "name": "NTT Inc NPV",
+      "isin": "JP3735400008",
+      "cusip": "J59396101",
+      "weight": 0.0732
+    },
+    {
+      "name": "MASTERCARD INC - A USD0.0001",
+      "isin": "US57636Q1040",
+      "cusip": "57636Q104",
+      "weight": 0.0732
+    },
+    {
+      "name": "CONTINENTAL AG NPV",
+      "isin": "DE0005439004",
+      "cusip": "D16212140",
+      "weight": 0.0732
+    },
+    {
+      "name": "TAKE-TWO INTERACTIVE SOFTWRE USD0.01",
+      "isin": "US8740541094",
+      "cusip": "874054109",
+      "weight": 0.0732
+    },
+    {
+      "name": "SCSK CORP NPV",
+      "isin": "JP3400400002",
+      "cusip": "J70081104",
+      "weight": 0.0732
+    },
+    {
+      "name": "NETFLIX INC USD0.001",
+      "isin": "US64110L1061",
+      "cusip": "64110L106",
+      "weight": 0.0732
+    },
+    {
+      "name": "PROLOGIS INC USD0.01",
+      "isin": "US74340W1036",
+      "cusip": "74340W103",
+      "weight": 0.0731
+    },
+    {
+      "name": "PORSCHE AUTOMOBIL HLDG-PRF EUR NPV PFD",
+      "isin": "DE000PAH0038",
+      "cusip": "D6240C122",
+      "weight": 0.0731
+    },
+    {
+      "name": "CANADIAN TIRE CORP-CLASS A NPV",
+      "isin": "CA1366812024",
+      "cusip": "136681202",
+      "weight": 0.0731
+    },
+    {
+      "name": "AMERIPRISE FINANCIAL INC USD0.01",
+      "isin": "US03076C1062",
+      "cusip": "03076C106",
+      "weight": 0.0731
+    },
+    {
+      "name": "FIRST CITIZENS BCSHS -CL A USD1",
+      "isin": "US31946M1036",
+      "cusip": "31946M103",
+      "weight": 0.0731
+    },
+    {
+      "name": "CHENIERE ENERGY INC USD0.003",
+      "isin": "US16411R2085",
+      "cusip": "16411R208",
+      "weight": 0.0731
+    },
+    {
+      "name": "WW GRAINGER INC USD0.5",
+      "isin": "US3848021040",
+      "cusip": "384802104",
+      "weight": 0.0731
+    },
+    {
+      "name": "AMETEK INC USD0.01",
+      "isin": "US0311001004",
+      "cusip": "031100100",
+      "weight": 0.073
+    },
+    {
+      "name": "PARTNERS GROUP HOLDING AG CHF0.01",
+      "isin": "CH0024608827",
+      "cusip": "H6120A101",
+      "weight": 0.073
+    },
+    {
+      "name": "DOVER CORP USD1",
+      "isin": "US2600031080",
+      "cusip": "260003108",
+      "weight": 0.073
+    },
+    {
+      "name": "INSURANCE AUSTRALIA GROUP NPV",
+      "isin": "AU000000IAG3",
+      "cusip": "Q49361100",
+      "weight": 0.073
+    },
+    {
+      "name": "EVERSOURCE ENERGY USD5",
+      "isin": "US30040W1080",
+      "cusip": "30040W108",
+      "weight": 0.073
+    },
+    {
+      "name": "FORTUM OYJ EUR3.4",
+      "isin": "FI0009007132",
+      "cusip": "X2978Z118",
+      "weight": 0.0729
+    },
+    {
+      "name": "TC ENERGY CORP NPV",
+      "isin": "CA87807B1076",
+      "cusip": "87807B107",
+      "weight": 0.0729
+    },
+    {
+      "name": "UNILEVER PLC GBP0.0311",
+      "isin": "GB00B10RZP78",
+      "cusip": "G92087165",
+      "weight": 0.0729
+    },
+    {
+      "name": "AMADEUS IT GROUP SA EUR0.01",
+      "isin": "ES0109067019",
+      "cusip": "E04648114",
+      "weight": 0.0729
+    },
+    {
+      "name": "EURONEXT NV EUR1.6",
+      "isin": "NL0006294274",
+      "cusip": "N3113K397",
+      "weight": 0.0729
+    },
+    {
+      "name": "Dominion Energy Inc NPV",
+      "isin": "US25746U1097",
+      "cusip": "25746U109",
+      "weight": 0.0729
+    },
+    {
+      "name": "SLB USD 0.01",
+      "isin": "AN8068571086",
+      "cusip": "806857108",
+      "weight": 0.0729
+    },
+    {
+      "name": "AFLAC INC USD0.1",
+      "isin": "US0010551028",
+      "cusip": "001055102",
+      "weight": 0.0728
+    },
+    {
+      "name": "AXA SA EUR2.29",
+      "isin": "FR0000120628",
+      "cusip": "F06106102",
+      "weight": 0.0728
+    },
+    {
+      "name": "MARKEL CORP NPV",
+      "isin": "US5705351048",
+      "cusip": "570535104",
+      "weight": 0.0728
+    },
+    {
+      "name": "SMURFIT WESTROCK PLC USD NPV",
+      "isin": "IE00028FXN24",
+      "cusip": "G8267P108",
+      "weight": 0.0728
+    },
+    {
+      "name": "ASML HOLDING NV EUR0.09",
+      "isin": "NL0010273215",
+      "cusip": "N07059202",
+      "weight": 0.0727
+    },
+    {
+      "name": "CME GROUP INC USD0.01",
+      "isin": "US12572Q1058",
+      "cusip": "12572Q105",
+      "weight": 0.0727
+    },
+    {
+      "name": "PPG INDUSTRIES INC USD1.67",
+      "isin": "US6935061076",
+      "cusip": "693506107",
+      "weight": 0.0727
+    },
+    {
+      "name": "CK INFRASTRUCTURE HOLDINGS L HKD1",
+      "isin": "BMG2178K1009",
+      "cusip": "G2178K100",
+      "weight": 0.0727
+    },
+    {
+      "name": "GEBERIT AG-REG CHF0.1",
+      "isin": "CH0030170408",
+      "cusip": "H2942E124",
+      "weight": 0.0727
+    },
+    {
+      "name": "DSV A/S DKK 1",
+      "isin": "DK0060079531",
+      "cusip": "K31864117",
+      "weight": 0.0727
+    },
+    {
+      "name": "NIBE INDUSTRIER AB SEK NPV",
+      "isin": "SE0015988019",
+      "cusip": "W6S38Z126",
+      "weight": 0.0727
+    },
+    {
+      "name": "CINCINNATI FINANCIAL CORP USD2",
+      "isin": "US1720621010",
+      "cusip": "172062101",
+      "weight": 0.0727
+    },
+    {
+      "name": "ARCH CAPITAL GROUP LTD USD0.01",
+      "isin": "BMG0450A1053",
+      "cusip": "G0450A105",
+      "weight": 0.0726
+    },
+    {
+      "name": "ORKLA ASA NOK1.25",
+      "isin": "NO0003733800",
+      "cusip": "R67787102",
+      "weight": 0.0726
+    },
+    {
+      "name": "HEALTHPEAK PROPERTIES INC USD1",
+      "isin": "US42250P1030",
+      "cusip": "42250P103",
+      "weight": 0.0726
+    },
+    {
+      "name": "SKANSKA AB-B SHS NPV",
+      "isin": "SE0000113250",
+      "cusip": "W83567110",
+      "weight": 0.0726
+    },
+    {
+      "name": "DNB BANK ASA NOK NPV",
+      "isin": "NO0010161896",
+      "cusip": "R1R15X100",
+      "weight": 0.0726
+    },
+    {
+      "name": "FASTIGHETS AB BALD SEK NPV",
+      "isin": "SE0017832488",
+      "cusip": "W2951M127",
+      "weight": 0.0726
+    },
+    {
+      "name": "FAST RETAILING CO LTD NPV",
+      "isin": "JP3802300008",
+      "cusip": "J1346E100",
+      "weight": 0.0726
+    },
+    {
+      "name": "INFRATIL LTD NPV",
+      "isin": "NZIFTE0003S3",
+      "cusip": "Q4933Q124",
+      "weight": 0.0725
+    },
+    {
+      "name": "SWISS RE AG CHF 0.1000",
+      "isin": "CH0126881561",
+      "cusip": "H8431B109",
+      "weight": 0.0725
+    },
+    {
+      "name": "KEYSIGHT TECHNOLOGIES IN NPV",
+      "isin": "US49338L1035",
+      "cusip": "49338L103",
+      "weight": 0.0725
+    },
+    {
+      "name": "BANQUE CANTONALE VAUDOIS-REG CHF10",
+      "isin": "CH0531751755",
+      "cusip": "H04825354",
+      "weight": 0.0725
+    },
+    {
+      "name": "SUN COMMUNITIES INC USD0.01",
+      "isin": "US8666741041",
+      "cusip": "866674104",
+      "weight": 0.0724
+    },
+    {
+      "name": "EXELON CORP NPV",
+      "isin": "US30161N1019",
+      "cusip": "30161N101",
+      "weight": 0.0724
+    },
+    {
+      "name": "INTERCONTINENTAL HOTELS GROU GBP 20.8521",
+      "isin": "GB00BHJYC057",
+      "cusip": "G4804L163",
+      "weight": 0.0724
+    },
+    {
+      "name": "GRAB HOLDINGS LTD - CL A USD 0.0001",
+      "isin": "KYG4124C1096",
+      "cusip": "G4124C109",
+      "weight": 0.0724
+    },
+    {
+      "name": "CANADIAN NATURAL RESOURCES NPV",
+      "isin": "CA1363851017",
+      "cusip": "136385101",
+      "weight": 0.0724
+    },
+    {
+      "name": "INTERCONTINENTAL EXCHANGE IN USD0.01",
+      "isin": "US45866F1049",
+      "cusip": "45866F104",
+      "weight": 0.0724
+    },
+    {
+      "name": "SAGAX AB-B SEK1.75",
+      "isin": "SE0005127818",
+      "cusip": "W7519A200",
+      "weight": 0.0723
+    },
+    {
+      "name": "COMMONWEALTH BANK OF AUSTRAL NPV",
+      "isin": "AU000000CBA7",
+      "cusip": "Q26915100",
+      "weight": 0.0723
+    },
+    {
+      "name": "LVMH MOET HENNESSY LOUIS VUI EUR0.3",
+      "isin": "FR0000121014",
+      "cusip": "F58485115",
+      "weight": 0.0723
+    },
+    {
+      "name": "TERNA SPA EUR0.22",
+      "isin": "IT0003242622",
+      "cusip": "T9471R100",
+      "weight": 0.0723
+    },
+    {
+      "name": "KONINKLIJKE KPN NV EUR0.04",
+      "isin": "NL0000009082",
+      "cusip": "N4297B146",
+      "weight": 0.0723
+    },
+    {
+      "name": "ELISA OYJ NPV",
+      "isin": "FI0009007884",
+      "cusip": "X1949T102",
+      "weight": 0.0723
+    },
+    {
+      "name": "KROGER CO USD1",
+      "isin": "US5010441013",
+      "cusip": "501044101",
+      "weight": 0.0723
+    },
+    {
+      "name": "Reliance Inc USD 0.001",
+      "isin": "US7595091023",
+      "cusip": "759509102",
+      "weight": 0.0723
+    },
+    {
+      "name": "ENDESA SA EUR1.2",
+      "isin": "ES0130670112",
+      "cusip": "E41222113",
+      "weight": 0.0723
+    },
+    {
+      "name": "NIPPON YUSEN KK NPV",
+      "isin": "JP3753000003",
+      "cusip": "J56515232",
+      "weight": 0.0723
+    },
+    {
+      "name": "JD SPORTS FASHION GBP 0.0005",
+      "isin": "GB00BM8Q5M07",
+      "cusip": "G5144Y120",
+      "weight": 0.0722
+    },
+    {
+      "name": "SEKISUI HOUSE LTD NPV",
+      "isin": "JP3420600003",
+      "cusip": "J70746136",
+      "weight": 0.0722
+    },
+    {
+      "name": "NEXTERA ENERGY INC USD0.01",
+      "isin": "US65339F1012",
+      "cusip": "65339F101",
+      "weight": 0.0722
+    },
+    {
+      "name": "NUTRIEN LTD CAD NPV",
+      "isin": "CA67077M1086",
+      "cusip": "67077M108",
+      "weight": 0.0722
+    },
+    {
+      "name": "ANA HOLDINGS INC NPV",
+      "isin": "JP3429800000",
+      "cusip": "J0156Q112",
+      "weight": 0.0722
+    },
+    {
+      "name": "BXP Inc USD0.01",
+      "isin": "US1011211018",
+      "cusip": "101121101",
+      "weight": 0.0722
+    },
+    {
+      "name": "TYSON FOODS INC-CL A USD0.1",
+      "isin": "US9024941034",
+      "cusip": "902494103",
+      "weight": 0.0722
+    },
+    {
+      "name": "GAMING AND LEISURE PROPERTIE NPV",
+      "isin": "US36467J1088",
+      "cusip": "36467J108",
+      "weight": 0.0721
+    },
+    {
+      "name": "DCC PLC EUR0.25",
+      "isin": "IE0002424939",
+      "cusip": "G2689P101",
+      "weight": 0.0721
+    },
+    {
+      "name": "NIPPON PAINT HOLDINGS CO LTD NPV",
+      "isin": "JP3749400002",
+      "cusip": "J55053128",
+      "weight": 0.0721
+    },
+    {
+      "name": "WEYERHAEUSER CO USD1.25",
+      "isin": "US9621661043",
+      "cusip": "962166104",
+      "weight": 0.0721
+    },
+    {
+      "name": "CENTERPOINT ENERGY INC USD0.01",
+      "isin": "US15189T1079",
+      "cusip": "15189T107",
+      "weight": 0.0721
+    },
+    {
+      "name": "KDDI CORP NPV",
+      "isin": "JP3496400007",
+      "cusip": "J31843105",
+      "weight": 0.0721
+    },
+    {
+      "name": "Engie EUR1",
+      "isin": "FR0010208488",
+      "cusip": "F7629A107",
+      "weight": 0.072
+    },
+    {
+      "name": "LYONDELLBASELL INDU-CL A EUR0.04",
+      "isin": "NL0009434992",
+      "cusip": "N53745100",
+      "weight": 0.072
+    },
+    {
+      "name": "HENNES & MAURITZ AB-B SHS NPV",
+      "isin": "SE0000106270",
+      "cusip": "W41422101",
+      "weight": 0.072
+    },
+    {
+      "name": "CMS ENERGY CORP USD0.01",
+      "isin": "US1258961002",
+      "cusip": "125896100",
+      "weight": 0.0719
+    },
+    {
+      "name": "XCEL ENERGY INC USD2.5",
+      "isin": "US98389B1008",
+      "cusip": "98389B100",
+      "weight": 0.0719
+    },
+    {
+      "name": "AIR LIQUIDE SA EUR5.5",
+      "isin": "FR0000120073",
+      "cusip": "F01764103",
+      "weight": 0.0719
+    },
+    {
+      "name": "STARBUCKS CORP USD0.001",
+      "isin": "US8552441094",
+      "cusip": "855244109",
+      "weight": 0.0719
+    },
+    {
+      "name": "AMERICAN WATER WORKS CO INC USD0.01",
+      "isin": "US0304201033",
+      "cusip": "030420103",
+      "weight": 0.0719
+    },
+    {
+      "name": "TJX COMPANIES INC USD1",
+      "isin": "US8725401090",
+      "cusip": "872540109",
+      "weight": 0.0719
+    },
+    {
+      "name": "MARRIOTT INTERNATIONAL -CL A USD0.01",
+      "isin": "US5719032022",
+      "cusip": "571903202",
+      "weight": 0.0719
+    },
+    {
+      "name": "MSCI INC USD0.01",
+      "isin": "US55354G1004",
+      "cusip": "55354G100",
+      "weight": 0.0719
+    },
+    {
+      "name": "FERRARI NV EUR0.01",
+      "isin": "NL0011585146",
+      "cusip": "N3167Y103",
+      "weight": 0.0718
+    },
+    {
+      "name": "HYDRO ONE LTD NPV",
+      "isin": "CA4488112083",
+      "cusip": "448811208",
+      "weight": 0.0718
+    },
+    {
+      "name": "Alimentation Couche-Tard Inc CAD NPV",
+      "isin": "CA01626P1484",
+      "cusip": "01626P148",
+      "weight": 0.0718
+    },
+    {
+      "name": "TRELLEBORG AB-B SHS SEK25",
+      "isin": "SE0000114837",
+      "cusip": "W96297101",
+      "weight": 0.0718
+    },
+    {
+      "name": "MERCK KGAA NPV",
+      "isin": "DE0006599905",
+      "cusip": "D5357W103",
+      "weight": 0.0718
+    },
+    {
+      "name": "INVESTOR AB SEK NPV",
+      "isin": "SE0015811963",
+      "cusip": "W5R777115",
+      "weight": 0.0717
+    },
+    {
+      "name": "YAMAHA MOTOR CO LTD NPV",
+      "isin": "JP3942800008",
+      "cusip": "J95776126",
+      "weight": 0.0717
+    },
+    {
+      "name": "SWATCH GROUP AG/THE-BR CHF2.25",
+      "isin": "CH0012255151",
+      "cusip": "H83949141",
+      "weight": 0.0717
+    },
+    {
+      "name": "BAYERISCHE MOTOREN WERKE AG EUR1",
+      "isin": "DE0005190003",
+      "cusip": "D12096109",
+      "weight": 0.0717
+    },
+    {
+      "name": "AUTODESK INC USD0.01",
+      "isin": "US0527691069",
+      "cusip": "052769106",
+      "weight": 0.0717
+    },
+    {
+      "name": "SIEMENS HEALTHINEERS AG NPV",
+      "isin": "DE000SHL1006",
+      "cusip": "D6T479107",
+      "weight": 0.0717
+    },
+    {
+      "name": "MONSTER BEVERAGE CORP NPV",
+      "isin": "US61174X1090",
+      "cusip": "61174X109",
+      "weight": 0.0717
+    },
+    {
+      "name": "LOCKHEED MARTIN CORP USD1",
+      "isin": "US5398301094",
+      "cusip": "539830109",
+      "weight": 0.0717
+    },
+    {
+      "name": "LEG Immobilien SE EUR NPV",
+      "isin": "DE000LEG1110",
+      "cusip": "D4960A103",
+      "weight": 0.0716
+    },
+    {
+      "name": "SUNTORY BEVERAGE & FOOD LTD NPV",
+      "isin": "JP3336560002",
+      "cusip": "J78186103",
+      "weight": 0.0716
+    },
+    {
+      "name": "HONG KONG & CHINA GAS NPV",
+      "isin": "HK0003000038",
+      "cusip": "Y33370100",
+      "weight": 0.0716
+    },
+    {
+      "name": "TRANSDIGM GROUP INC USD0.01",
+      "isin": "US8936411003",
+      "cusip": "893641100",
+      "weight": 0.0716
+    },
+    {
+      "name": "EDENRED EUR2",
+      "isin": "FR0010908533",
+      "cusip": "F3192L109",
+      "weight": 0.0715
+    },
+    {
+      "name": "AIRBNB INC-CLASS A USD 0.0001",
+      "isin": "US0090661010",
+      "cusip": "009066101",
+      "weight": 0.0715
+    },
+    {
+      "name": "TORAY INDUSTRIES INC NPV",
+      "isin": "JP3621000003",
+      "cusip": "J89494116",
+      "weight": 0.0714
+    },
+    {
+      "name": "DIAGEO PLC GBp 28.9352",
+      "isin": "GB0002374006",
+      "cusip": "G42089113",
+      "weight": 0.0714
+    },
+    {
+      "name": "SVENSKA CELLULOSA AB SCA-B SEK3.33",
+      "isin": "SE0000112724",
+      "cusip": "W90152120",
+      "weight": 0.0714
+    },
+    {
+      "name": "DANONE EUR0.25",
+      "isin": "FR0000120644",
+      "cusip": "F12033134",
+      "weight": 0.0714
+    },
+    {
+      "name": "RIO TINTO PLC GBP 10.0000",
+      "isin": "GB0007188757",
+      "cusip": "G75754104",
+      "weight": 0.0714
+    },
+    {
+      "name": "SHIN-ETSU CHEMICAL CO LTD JPY NPV",
+      "isin": "JP3371200001",
+      "cusip": "J72810120",
+      "weight": 0.0714
+    },
+    {
+      "name": "UNITEDHEALTH GROUP INC USD0.01",
+      "isin": "US91324P1021",
+      "cusip": "91324P102",
+      "weight": 0.0714
+    },
+    {
+      "name": "CROWN CASTLE INC USD 0.01",
+      "isin": "US22822V1017",
+      "cusip": "22822V101",
+      "weight": 0.0714
+    },
+    {
+      "name": "WEC ENERGY GROUP INC USD0.01",
+      "isin": "US92939U1060",
+      "cusip": "92939U106",
+      "weight": 0.0714
+    },
+    {
+      "name": "SINGAPORE AIRLINES LTD NPV",
+      "isin": "SG1V61937297",
+      "cusip": "Y7992P128",
+      "weight": 0.0714
+    },
+    {
+      "name": "DTE ENERGY COMPANY NPV",
+      "isin": "US2333311072",
+      "cusip": "233331107",
+      "weight": 0.0714
+    },
+    {
+      "name": "PEMBINA PIPELINE CORP NPV",
+      "isin": "CA7063271034",
+      "cusip": "706327103",
+      "weight": 0.0714
+    },
+    {
+      "name": "QUEST DIAGNOSTICS INC USD0.01",
+      "isin": "US74834L1008",
+      "cusip": "74834L100",
+      "weight": 0.0713
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS INC USD0.1",
+      "isin": "US92343V1044",
+      "cusip": "92343V104",
+      "weight": 0.0713
+    },
+    {
+      "name": "GRACO INC USD1",
+      "isin": "US3841091040",
+      "cusip": "384109104",
+      "weight": 0.0713
+    },
+    {
+      "name": "EXPERIAN PLC USD0.1",
+      "isin": "GB00B19NLV48",
+      "cusip": "G32655105",
+      "weight": 0.0713
+    },
+    {
+      "name": "RIO TINTO LTD AUD NPV",
+      "isin": "AU000000RIO1",
+      "cusip": "Q81437107",
+      "weight": 0.0713
+    },
+    {
+      "name": "COMPAGNIE DE SAINT GOBAIN EUR4",
+      "isin": "FR0000125007",
+      "cusip": "F80343100",
+      "weight": 0.0713
+    },
+    {
+      "name": "TARGET CORP USD0.0833",
+      "isin": "US87612E1064",
+      "cusip": "87612E106",
+      "weight": 0.0712
+    },
+    {
+      "name": "CONTACT ENERGY LTD NPV",
+      "isin": "NZCENE0001S6",
+      "cusip": "Q2818G104",
+      "weight": 0.0712
+    },
+    {
+      "name": "JAPAN EXCHANGE GROUP INC NPV",
+      "isin": "JP3183200009",
+      "cusip": "J2740B106",
+      "weight": 0.0712
+    },
+    {
+      "name": "CLP HOLDINGS LTD NPV",
+      "isin": "HK0002007356",
+      "cusip": "Y1660Q104",
+      "weight": 0.0711
+    },
+    {
+      "name": "GFL ENVIRONMENTAL INC-SUB VT CAD NPV",
+      "isin": "CA36168Q1046",
+      "cusip": "36168Q104",
+      "weight": 0.0711
+    },
+    {
+      "name": "VONOVIA SE NPV",
+      "isin": "DE000A1ML7J1",
+      "cusip": "D9581T100",
+      "weight": 0.0711
+    },
+    {
+      "name": "JERONIMO MARTINS EUR1",
+      "isin": "PTJMT0AE0001",
+      "cusip": "X40338109",
+      "weight": 0.0711
+    },
+    {
+      "name": "NOMURA RESEARCH INSTITUTE LT NPV",
+      "isin": "JP3762800005",
+      "cusip": "J5900F106",
+      "weight": 0.0711
+    },
+    {
+      "name": "TMX GROUP LTD NPV",
+      "isin": "CA87262K1057",
+      "cusip": "87262K105",
+      "weight": 0.0711
+    },
+    {
+      "name": "DAITO TRUST CONSTRUCT CO LTD NPV",
+      "isin": "JP3486800000",
+      "cusip": "J11151107",
+      "weight": 0.0711
+    },
+    {
+      "name": "BLUESCOPE STEEL LTD NPV",
+      "isin": "AU000000BSL0",
+      "cusip": "Q1415L177",
+      "weight": 0.0711
+    },
+    {
+      "name": "TARGA RESOURCES CORP USD0.001",
+      "isin": "US87612G1013",
+      "cusip": "87612G101",
+      "weight": 0.071
+    },
+    {
+      "name": "TRAVELERS COS INC/THE NPV",
+      "isin": "US89417E1091",
+      "cusip": "89417E109",
+      "weight": 0.071
+    },
+    {
+      "name": "AUTOMATIC DATA PROCESSING USD0.1",
+      "isin": "US0530151036",
+      "cusip": "053015103",
+      "weight": 0.071
+    },
+    {
+      "name": "AMEREN CORPORATION USD0.01",
+      "isin": "US0236081024",
+      "cusip": "023608102",
+      "weight": 0.071
+    },
+    {
+      "name": "INTERNATIONAL PAPER CO USD1",
+      "isin": "US4601461035",
+      "cusip": "460146103",
+      "weight": 0.071
+    },
+    {
+      "name": "STERIS PLC USD75",
+      "isin": "IE00BFY8C754",
+      "cusip": "G8473T100",
+      "weight": 0.0709
+    },
+    {
+      "name": "ROSS STORES INC USD0.01",
+      "isin": "US7782961038",
+      "cusip": "778296103",
+      "weight": 0.0709
+    },
+    {
+      "name": "SWISS PRIME SITE-REG CHF15.3",
+      "isin": "CH0008038389",
+      "cusip": "H8403W107",
+      "weight": 0.0708
+    },
+    {
+      "name": "KONE OYJ-B NPV",
+      "isin": "FI0009013403",
+      "cusip": "X4551T105",
+      "weight": 0.0708
+    },
+    {
+      "name": "KRAFT HEINZ CO/THE USD0.01",
+      "isin": "US5007541064",
+      "cusip": "500754106",
+      "weight": 0.0708
+    },
+    {
+      "name": "SECOM CO LTD NPV",
+      "isin": "JP3421800008",
+      "cusip": "J69972107",
+      "weight": 0.0708
+    },
+    {
+      "name": "WISE PLC - A GBP 1.0000",
+      "isin": "GB00BL9YR756",
+      "cusip": "G97229101",
+      "weight": 0.0707
+    },
+    {
+      "name": "DARDEN RESTAURANTS INC NPV",
+      "isin": "US2371941053",
+      "cusip": "237194105",
+      "weight": 0.0707
+    },
+    {
+      "name": "TRANSUNION USD0.01",
+      "isin": "US89400J1079",
+      "cusip": "89400J107",
+      "weight": 0.0707
+    },
+    {
+      "name": "BAE SYSTEMS PLC GBP0.025",
+      "isin": "GB0002634946",
+      "cusip": "G06940103",
+      "weight": 0.0707
+    },
+    {
+      "name": "ESSENTIAL UTILITIES INC USD0.5",
+      "isin": "US29670G1022",
+      "cusip": "29670G102",
+      "weight": 0.0707
+    },
+    {
+      "name": "COCA-COLA HBC AG-DI GBP 6.7000",
+      "isin": "CH0198251305",
+      "cusip": "H1512E100",
+      "weight": 0.0707
+    },
+    {
+      "name": "METLIFE INC USD0.01",
+      "isin": "US59156R1086",
+      "cusip": "59156R108",
+      "weight": 0.0707
+    },
+    {
+      "name": "DEMANT A/S DKK0.2",
+      "isin": "DK0060738599",
+      "cusip": "K3008M105",
+      "weight": 0.0707
+    },
+    {
+      "name": "ASAHI GROUP HOLDINGS LTD NPV",
+      "isin": "JP3116000005",
+      "cusip": "J02100113",
+      "weight": 0.0706
+    },
+    {
+      "name": "SEGRO PLC GBP0.1",
+      "isin": "GB00B5ZN1N88",
+      "cusip": "G80277141",
+      "weight": 0.0706
+    },
+    {
+      "name": "ROLLINS INC USD1",
+      "isin": "US7757111049",
+      "cusip": "775711104",
+      "weight": 0.0706
+    },
+    {
+      "name": "MUENCHENER RUECKVER AG-REG NPV",
+      "isin": "DE0008430026",
+      "cusip": "D55535104",
+      "weight": 0.0706
+    },
+    {
+      "name": "NISSAN MOTOR CO LTD NPV",
+      "isin": "JP3672400003",
+      "cusip": "J57160129",
+      "weight": 0.0706
+    },
+    {
+      "name": "DAIICHI SANKYO CO LTD NPV",
+      "isin": "JP3475350009",
+      "cusip": "J11257102",
+      "weight": 0.0706
+    },
+    {
+      "name": "COMPASS GROUP PLC GBP 11.0500",
+      "isin": "GB00BD6K4575",
+      "cusip": "G23296208",
+      "weight": 0.0705
+    },
+    {
+      "name": "DOMINO'S PIZZA INC USD0.01",
+      "isin": "US25754A2015",
+      "cusip": "25754A201",
+      "weight": 0.0705
+    },
+    {
+      "name": "ACCOR SA EUR3",
+      "isin": "FR0000120404",
+      "cusip": "F00189120",
+      "weight": 0.0705
+    },
+    {
+      "name": "LOTUS BAKERIES NPV",
+      "isin": "BE0003604155",
+      "cusip": "B5783H102",
+      "weight": 0.0705
+    },
+    {
+      "name": "GETLINK SE EUR0.4",
+      "isin": "FR0010533075",
+      "cusip": "F4R053105",
+      "weight": 0.0705
+    },
+    {
+      "name": "HANNOVER RUECK SE NPV",
+      "isin": "DE0008402215",
+      "cusip": "D3015J135",
+      "weight": 0.0705
+    },
+    {
+      "name": "ERIE INDEMNITY COMPANY-CL A NPV",
+      "isin": "US29530P1021",
+      "cusip": "29530P102",
+      "weight": 0.0704
+    },
+    {
+      "name": "ADDTECH AB-B SHARES SEK0.75",
+      "isin": "SE0014781795",
+      "cusip": "W4260L147",
+      "weight": 0.0704
+    },
+    {
+      "name": "AKAMAI TECHNOLOGIES INC USD0.01",
+      "isin": "US00971T1016",
+      "cusip": "00971T101",
+      "weight": 0.0704
+    },
+    {
+      "name": "BOSTON SCIENTIFIC CORP USD0.01",
+      "isin": "US1011371077",
+      "cusip": "101137107",
+      "weight": 0.0703
+    },
+    {
+      "name": "SWIRE PACIFIC LTD - CL A NPV",
+      "isin": "HK0019000162",
+      "cusip": "Y83310105",
+      "weight": 0.0703
+    },
+    {
+      "name": "AUCKLAND INTL AIRPORT LTD NPV",
+      "isin": "NZAIAE0002S6",
+      "cusip": "Q06213146",
+      "weight": 0.0703
+    },
+    {
+      "name": "CROWN HOLDINGS INC USD5",
+      "isin": "US2283681060",
+      "cusip": "228368106",
+      "weight": 0.0703
+    },
+    {
+      "name": "STEEL DYNAMICS INC USD0.005",
+      "isin": "US8581191009",
+      "cusip": "858119100",
+      "weight": 0.0703
+    },
+    {
+      "name": "MARKS & SPENCER GROUP PLC GBP0.25",
+      "isin": "GB0031274896",
+      "cusip": "G5824M107",
+      "weight": 0.0702
+    },
+    {
+      "name": "AMERICAN INTERNATIONAL GROUP USD2.5",
+      "isin": "US0268747849",
+      "cusip": "026874784",
+      "weight": 0.0702
+    },
+    {
+      "name": "Revvity Inc USD 1",
+      "isin": "US7140461093",
+      "cusip": "714046109",
+      "weight": 0.0702
+    },
+    {
+      "name": "DEUTSCHE BOERSE AG NPV",
+      "isin": "DE0005810055",
+      "cusip": "D1882G119",
+      "weight": 0.0702
+    },
+    {
+      "name": "Cencora Inc USD0.01",
+      "isin": "US03073E1055",
+      "cusip": "03073E105",
+      "weight": 0.0702
+    },
+    {
+      "name": "ICL GROUP LTD ILS 1.0000",
+      "isin": "IL0002810146",
+      "cusip": "M53213100",
+      "weight": 0.0702
+    },
+    {
+      "name": "BRISTOL-MYERS SQUIBB CO USD0.1",
+      "isin": "US1101221083",
+      "cusip": "110122108",
+      "weight": 0.0702
+    },
+    {
+      "name": "YUM! BRANDS INC NPV",
+      "isin": "US9884981013",
+      "cusip": "988498101",
+      "weight": 0.0702
+    },
+    {
+      "name": "LEONARDO SPA EUR4.4",
+      "isin": "IT0003856405",
+      "cusip": "T6S996112",
+      "weight": 0.0702
+    },
+    {
+      "name": "EQUITABLE HOLDINGS INC USD0.01",
+      "isin": "US29452E1010",
+      "cusip": "29452E101",
+      "weight": 0.0702
+    },
+    {
+      "name": "OMRON CORP NPV",
+      "isin": "JP3197800000",
+      "cusip": "J61374120",
+      "weight": 0.0702
+    },
+    {
+      "name": "CF INDUSTRIES HOLDINGS INC USD0.01",
+      "isin": "US1252691001",
+      "cusip": "125269100",
+      "weight": 0.0701
+    },
+    {
+      "name": "UNITED THERAPEUTICS CORP USD0.01",
+      "isin": "US91307C1027",
+      "cusip": "91307C102",
+      "weight": 0.0701
+    },
+    {
+      "name": "INTUIT INC USD0.01",
+      "isin": "US4612021034",
+      "cusip": "461202103",
+      "weight": 0.0701
+    },
+    {
+      "name": "COLOPLAST-B DKK1",
+      "isin": "DK0060448595",
+      "cusip": "K16018192",
+      "weight": 0.0701
+    },
+    {
+      "name": "HUNT (JB) TRANSPRT SVCS INC USD0.01",
+      "isin": "US4456581077",
+      "cusip": "445658107",
+      "weight": 0.0701
+    },
+    {
+      "name": "WALMART INC USD0.1",
+      "isin": "US9311421039",
+      "cusip": "931142103",
+      "weight": 0.0701
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL INC USD1",
+      "isin": "US4385161066",
+      "cusip": "438516106",
+      "weight": 0.0701
+    },
+    {
+      "name": "TOAST INC-CLASS A USD 0.0000",
+      "isin": "US8887871080",
+      "cusip": "888787108",
+      "weight": 0.07
+    },
+    {
+      "name": "WILLIAMS COS INC USD1",
+      "isin": "US9694571004",
+      "cusip": "969457100",
+      "weight": 0.07
+    },
+    {
+      "name": "CARDINAL HEALTH INC NPV",
+      "isin": "US14149Y1082",
+      "cusip": "14149Y108",
+      "weight": 0.07
+    },
+    {
+      "name": "NTT DATA CORP NPV",
+      "isin": "JP3165700000",
+      "cusip": "J59031104",
+      "weight": 0.07
+    },
+    {
+      "name": "OBIC CO LTD NPV",
+      "isin": "JP3173400007",
+      "cusip": "J5946V107",
+      "weight": 0.07
+    },
+    {
+      "name": "AVERY DENNISON CORP USD1",
+      "isin": "US0536111091",
+      "cusip": "053611109",
+      "weight": 0.0699
+    },
+    {
+      "name": "AVANTOR INC USD0.01",
+      "isin": "US05352A1007",
+      "cusip": "05352A100",
+      "weight": 0.0699
+    },
+    {
+      "name": "APPLIED MATERIALS INC USD0.01",
+      "isin": "US0382221051",
+      "cusip": "038222105",
+      "weight": 0.0699
+    },
+    {
+      "name": "JM SMUCKER CO/THE NPV",
+      "isin": "US8326964058",
+      "cusip": "832696405",
+      "weight": 0.0699
+    },
+    {
+      "name": "AMERICAN TOWER CORP USD0.01",
+      "isin": "US03027X1000",
+      "cusip": "03027X100",
+      "weight": 0.0699
+    },
+    {
+      "name": "DELIVERY HERO SE NPV",
+      "isin": "DE000A2E4K43",
+      "cusip": "D1T0KZ103",
+      "weight": 0.0699
+    },
+    {
+      "name": "Zoom Communications Inc USD 0.001",
+      "isin": "US98980L1017",
+      "cusip": "98980L101",
+      "weight": 0.0698
+    },
+    {
+      "name": "MTR CORP NPV",
+      "isin": "HK0066009694",
+      "cusip": "Y6146T101",
+      "weight": 0.0698
+    },
+    {
+      "name": "COSTCO WHOLESALE CORP USD0.005",
+      "isin": "US22160K1051",
+      "cusip": "22160K105",
+      "weight": 0.0698
+    },
+    {
+      "name": "SGS SA CHF 0.04",
+      "isin": "CH1256740924",
+      "cusip": "H63838116",
+      "weight": 0.0697
+    },
+    {
+      "name": "VINCI SA EUR2.5",
+      "isin": "FR0000125486",
+      "cusip": "F5879X108",
+      "weight": 0.0697
+    },
+    {
+      "name": "CARLISLE COS INC USD1",
+      "isin": "US1423391002",
+      "cusip": "142339100",
+      "weight": 0.0697
+    },
+    {
+      "name": "ELI LILLY & CO NPV",
+      "isin": "US5324571083",
+      "cusip": "532457108",
+      "weight": 0.0697
+    },
+    {
+      "name": "ABBOTT LABORATORIES NPV",
+      "isin": "US0028241000",
+      "cusip": "002824100",
+      "weight": 0.0696
+    },
+    {
+      "name": "BIOMARIN PHARMACEUTICAL INC USD0.001",
+      "isin": "US09061G1013",
+      "cusip": "09061G101",
+      "weight": 0.0696
+    },
+    {
+      "name": "TRANE TECHNOLOGIES PLC USD1",
+      "isin": "IE00BK9ZQ967",
+      "cusip": "G8994E103",
+      "weight": 0.0696
+    },
+    {
+      "name": "PRINCIPAL FINANCIAL GROUP USD0.01",
+      "isin": "US74251V1026",
+      "cusip": "74251V102",
+      "weight": 0.0696
+    },
+    {
+      "name": "UNION PACIFIC CORP USD2.5",
+      "isin": "US9078181081",
+      "cusip": "907818108",
+      "weight": 0.0696
+    },
+    {
+      "name": "SEVERN TRENT PLC GBP0.9789",
+      "isin": "GB00B1FH8J72",
+      "cusip": "G8056D159",
+      "weight": 0.0696
+    },
+    {
+      "name": "BUNZL PLC GBP0.3214286",
+      "isin": "GB00B0744B38",
+      "cusip": "G16968110",
+      "weight": 0.0695
+    },
+    {
+      "name": "DIGITAL REALTY TRUST INC USD0.01",
+      "isin": "US2538681030",
+      "cusip": "253868103",
+      "weight": 0.0695
+    },
+    {
+      "name": "SOLVENTUM CORP-W/I USD NPV",
+      "isin": "US83444M1018",
+      "cusip": "83444M101",
+      "weight": 0.0695
+    },
+    {
+      "name": "NATIONAL GRID PLC GBP0.1243129",
+      "isin": "GB00BDR05C01",
+      "cusip": "G6S9A7120",
+      "weight": 0.0695
+    },
+    {
+      "name": "SVENSKA HANDELSBANKEN-A SHS SEK1.55",
+      "isin": "SE0007100599",
+      "cusip": "W9112U104",
+      "weight": 0.0694
+    },
+    {
+      "name": "VERBUND AG NPV",
+      "isin": "AT0000746409",
+      "cusip": "A91460104",
+      "weight": 0.0694
+    },
+    {
+      "name": "POWER ASSETS HOLDINGS LTD NPV",
+      "isin": "HK0006000050",
+      "cusip": "Y7092Q109",
+      "weight": 0.0694
+    },
+    {
+      "name": "BOUYGUES SA EUR1",
+      "isin": "FR0000120503",
+      "cusip": "F11487125",
+      "weight": 0.0694
+    },
+    {
+      "name": "KESKO OYJ-B SHS NPV",
+      "isin": "FI0009000202",
+      "cusip": "X44874109",
+      "weight": 0.0694
+    },
+    {
+      "name": "Cigna Group/The USD0.01",
+      "isin": "US1255231003",
+      "cusip": "125523100",
+      "weight": 0.0693
+    },
+    {
+      "name": "SOUTH32 LTD AUD NPV",
+      "isin": "AU000000S320",
+      "cusip": "Q86668102",
+      "weight": 0.0693
+    },
+    {
+      "name": "ADYEN NV EUR0.01",
+      "isin": "NL0012969182",
+      "cusip": "N3501V104",
+      "weight": 0.0693
+    },
+    {
+      "name": "ALLSTATE CORP USD0.01",
+      "isin": "US0200021014",
+      "cusip": "020002101",
+      "weight": 0.0693
+    },
+    {
+      "name": "WILMAR INTERNATIONAL LTD NPV",
+      "isin": "SG1T56930848",
+      "cusip": "Y9586L109",
+      "weight": 0.0692
+    },
+    {
+      "name": "VEOLIA ENVIRONNEMENT EUR5",
+      "isin": "FR0000124141",
+      "cusip": "F9686M107",
+      "weight": 0.0692
+    },
+    {
+      "name": "TYLER TECHNOLOGIES INC USD0.01",
+      "isin": "US9022521051",
+      "cusip": "902252105",
+      "weight": 0.0691
+    },
+    {
+      "name": "Kellanova USD 0.25",
+      "isin": "US4878361082",
+      "cusip": "487836108",
+      "weight": 0.0691
+    },
+    {
+      "name": "INTERTEK GROUP PLC GBP0.01",
+      "isin": "GB0031638363",
+      "cusip": "G4911B108",
+      "weight": 0.0691
+    },
+    {
+      "name": "MCCORMICK & CO-NON VTG SHRS NPV",
+      "isin": "US5797802064",
+      "cusip": "579780206",
+      "weight": 0.0691
+    },
+    {
+      "name": "DEUTSCHE TELEKOM AG-REG NPV",
+      "isin": "DE0005557508",
+      "cusip": "D2035M136",
+      "weight": 0.0691
+    },
+    {
+      "name": "EIFFAGE EUR4",
+      "isin": "FR0000130452",
+      "cusip": "F2924U106",
+      "weight": 0.0691
+    },
+    {
+      "name": "DASSAULT AVIATION EUR 0.8",
+      "isin": "FR0014004L86",
+      "cusip": "F24539169",
+      "weight": 0.0691
+    },
+    {
+      "name": "CREDIT AGRICOLE SA EUR3",
+      "isin": "FR0000045072",
+      "cusip": "F22797108",
+      "weight": 0.069
+    },
+    {
+      "name": "COLES GROUP LTD NPV",
+      "isin": "AU0000030678",
+      "cusip": "Q26203408",
+      "weight": 0.069
+    },
+    {
+      "name": "MEIJI HOLDINGS CO LTD NPV",
+      "isin": "JP3918000005",
+      "cusip": "J41729104",
+      "weight": 0.069
+    },
+    {
+      "name": "KONINKLIJKE AHOLD DELHAIZE N EUR0.01",
+      "isin": "NL0011794037",
+      "cusip": "N0074E105",
+      "weight": 0.0689
+    },
+    {
+      "name": "Coterra Energy Inc USD0.1",
+      "isin": "US1270971039",
+      "cusip": "127097103",
+      "weight": 0.0689
+    },
+    {
+      "name": "ARKEMA EUR10",
+      "isin": "FR0010313833",
+      "cusip": "F0392W125",
+      "weight": 0.0689
+    },
+    {
+      "name": "TELIA CO AB SEK3.2",
+      "isin": "SE0000667925",
+      "cusip": "W95890104",
+      "weight": 0.0688
+    },
+    {
+      "name": "SIGMA HEAUD NPV",
+      "isin": "AU000000SIG5",
+      "cusip": "Q8T84B108",
+      "weight": 0.0688
+    },
+    {
+      "name": "REGENCY CENTERS CORP USD0.01",
+      "isin": "US7588491032",
+      "cusip": "758849103",
+      "weight": 0.0688
+    },
+    {
+      "name": "TANGO HOLDINGS INC USD NPV",
+      "isin": "US03769M1062",
+      "cusip": "03769M106",
+      "weight": 0.0688
+    },
+    {
+      "name": "DEERE & CO USD1",
+      "isin": "US2441991054",
+      "cusip": "244199105",
+      "weight": 0.0688
+    },
+    {
+      "name": "MERCADOLIBRE INC USD0.001",
+      "isin": "US58733R1023",
+      "cusip": "58733R102",
+      "weight": 0.0687
+    },
+    {
+      "name": "NEXT PLC GBP0.1",
+      "isin": "GB0032089863",
+      "cusip": "G6500M106",
+      "weight": 0.0687
+    },
+    {
+      "name": "CANON INC NPV",
+      "isin": "JP3242800005",
+      "cusip": "J05124144",
+      "weight": 0.0686
+    },
+    {
+      "name": "BALL CORP NPV",
+      "isin": "US0584981064",
+      "cusip": "058498106",
+      "weight": 0.0686
+    },
+    {
+      "name": "INGERSOLL-RAND INC USD0.01",
+      "isin": "US45687V1061",
+      "cusip": "45687V106",
+      "weight": 0.0686
+    },
+    {
+      "name": "COCA-COLA CO/THE USD0.25",
+      "isin": "US1912161007",
+      "cusip": "191216100",
+      "weight": 0.0685
+    },
+    {
+      "name": "PHILIP MORRIS INTERNATIONAL NPV",
+      "isin": "US7181721090",
+      "cusip": "718172109",
+      "weight": 0.0685
+    },
+    {
+      "name": "CHURCH & DWIGHT CO INC USD1",
+      "isin": "US1713401024",
+      "cusip": "171340102",
+      "weight": 0.0684
+    },
+    {
+      "name": "SEMBCORP INDUSTRIES LTD NPV",
+      "isin": "SG1R50925390",
+      "cusip": "Y79711159",
+      "weight": 0.0684
+    },
+    {
+      "name": "HORMEL FOODS CORP USD0.01465",
+      "isin": "US4404521001",
+      "cusip": "440452100",
+      "weight": 0.0683
+    },
+    {
+      "name": "TERUMO CORP NPV",
+      "isin": "JP3546800008",
+      "cusip": "J83173104",
+      "weight": 0.0683
+    },
+    {
+      "name": "DiaSorin Italia SpA EUR1",
+      "isin": "IT0003492391",
+      "cusip": "T3475Y104",
+      "weight": 0.0683
+    },
+    {
+      "name": "CELLNEX TELECOM SA EUR0.25",
+      "isin": "ES0105066007",
+      "cusip": "E2R41M104",
+      "weight": 0.0682
+    },
+    {
+      "name": "SANOFI EUR2",
+      "isin": "FR0000120578",
+      "cusip": "F5548N101",
+      "weight": 0.0682
+    },
+    {
+      "name": "MANULIFE FINANCIAL CORP NPV",
+      "isin": "CA56501R1064",
+      "cusip": "56501R106",
+      "weight": 0.0682
+    },
+    {
+      "name": "PAYPAL HOLDINGS INC USD0.0001",
+      "isin": "US70450Y1038",
+      "cusip": "70450Y103",
+      "weight": 0.0682
+    },
+    {
+      "name": "VISA INC-CLASS A SHARES USD0.0001",
+      "isin": "US92826C8394",
+      "cusip": "92826C839",
+      "weight": 0.0681
+    },
+    {
+      "name": "RENESAS ELECTRONICS CORP NPV",
+      "isin": "JP3164720009",
+      "cusip": "J4881V107",
+      "weight": 0.0681
+    },
+    {
+      "name": "COMCAST CORP-CLASS A USD0.01",
+      "isin": "US20030N1019",
+      "cusip": "20030N101",
+      "weight": 0.0681
+    },
+    {
+      "name": "ARTHUR J GALLAGHER & CO USD1",
+      "isin": "US3635761097",
+      "cusip": "363576109",
+      "weight": 0.0681
+    },
+    {
+      "name": "WASTE MANAGEMENT INC USD0.01",
+      "isin": "US94106L1098",
+      "cusip": "94106L109",
+      "weight": 0.0681
+    },
+    {
+      "name": "LAND SECURITIES GROUP PLC GBP0.1066667",
+      "isin": "GB00BYW0PQ60",
+      "cusip": "G5375M142",
+      "weight": 0.0681
+    },
+    {
+      "name": "METRO INC/CN NPV",
+      "isin": "CA59162N1096",
+      "cusip": "59162N109",
+      "weight": 0.0681
+    },
+    {
+      "name": "LUNDBERGS AB-B SHS NPV",
+      "isin": "SE0000108847",
+      "cusip": "W54114108",
+      "weight": 0.0681
+    },
+    {
+      "name": "LENNOX INTERNATIONAL INC USD0.01",
+      "isin": "US5261071071",
+      "cusip": "526107107",
+      "weight": 0.0681
+    },
+    {
+      "name": "QBE INSURANCE GROUP LTD NPV",
+      "isin": "AU000000QBE9",
+      "cusip": "Q78063114",
+      "weight": 0.068
+    },
+    {
+      "name": "GECINA SA EUR7.5",
+      "isin": "FR0010040865",
+      "cusip": "F4268U171",
+      "weight": 0.068
+    },
+    {
+      "name": "CONSOLIDATED EDISON INC USD0.1",
+      "isin": "US2091151041",
+      "cusip": "209115104",
+      "weight": 0.0679
+    },
+    {
+      "name": "ZOETIS INC USD0.01",
+      "isin": "US98978V1035",
+      "cusip": "98978V103",
+      "weight": 0.0678
+    },
+    {
+      "name": "VERISIGN INC USD0.001",
+      "isin": "US92343E1029",
+      "cusip": "92343E102",
+      "weight": 0.0678
+    },
+    {
+      "name": "UNIVERSAL MUSIC GROUP EUR 10.0000",
+      "isin": "NL0015000IY2",
+      "cusip": "N90313102",
+      "weight": 0.0678
+    },
+    {
+      "name": "CINTAS CORP NPV",
+      "isin": "US1729081059",
+      "cusip": "172908105",
+      "weight": 0.0678
+    },
+    {
+      "name": "EXTRA SPACE STORAGE INC USD0.01",
+      "isin": "US30225T1025",
+      "cusip": "30225T102",
+      "weight": 0.0678
+    },
+    {
+      "name": "PALO ALTO NETWORKS INC USD0.0001",
+      "isin": "US6974351057",
+      "cusip": "697435105",
+      "weight": 0.0678
+    },
+    {
+      "name": "SBA COMMUNICATIONS CORP USD0.01",
+      "isin": "US78410G1040",
+      "cusip": "78410G104",
+      "weight": 0.0677
+    },
+    {
+      "name": "HP INC USD0.01",
+      "isin": "US40434L1052",
+      "cusip": "40434L105",
+      "weight": 0.0677
+    },
+    {
+      "name": "MERIDIAN ENERGY LTD NPV",
+      "isin": "NZMELE0002S7",
+      "cusip": "Q5997E121",
+      "weight": 0.0677
+    },
+    {
+      "name": "WR BERKLEY CORP USD0.2",
+      "isin": "US0844231029",
+      "cusip": "084423102",
+      "weight": 0.0676
+    },
+    {
+      "name": "MCKESSON CORP USD0.01",
+      "isin": "US58155Q1031",
+      "cusip": "58155Q103",
+      "weight": 0.0676
+    },
+    {
+      "name": "SGH LTD AUD NPV",
+      "isin": "AU0000364754",
+      "cusip": "Q84384124",
+      "weight": 0.0675
+    },
+    {
+      "name": "SWEDISH ORPHAN BIOVITRUM AB SEK0.55",
+      "isin": "SE0000872095",
+      "cusip": "W95637117",
+      "weight": 0.0675
+    },
+    {
+      "name": "TOPPAN Holdings Inc JPY NPV",
+      "isin": "JP3629000005",
+      "cusip": "890747108",
+      "weight": 0.0675
+    },
+    {
+      "name": "THALES SA EUR3",
+      "isin": "FR0000121329",
+      "cusip": "F9156M108",
+      "weight": 0.0675
+    },
+    {
+      "name": "KINDER MORGAN INC USD0.01",
+      "isin": "US49456B1017",
+      "cusip": "49456B101",
+      "weight": 0.0675
+    },
+    {
+      "name": "RHEINMETALL AG NPV",
+      "isin": "DE0007030009",
+      "cusip": "D65111102",
+      "weight": 0.0675
+    },
+    {
+      "name": "CROWDSTRIKE HOLDINGS INC - A NPV",
+      "isin": "US22788C1053",
+      "cusip": "22788C105",
+      "weight": 0.0675
+    },
+    {
+      "name": "WABTEC CORP USD0.01",
+      "isin": "US9297401088",
+      "cusip": "929740108",
+      "weight": 0.0674
+    },
+    {
+      "name": "PANASONIC CORP NPV",
+      "isin": "JP3866800000",
+      "cusip": "J6354Y104",
+      "weight": 0.0674
+    },
+    {
+      "name": "PROCTER & GAMBLE CO/THE NPV",
+      "isin": "US7427181091",
+      "cusip": "742718109",
+      "weight": 0.0673
+    },
+    {
+      "name": "CAPCOM CO LTD NPV",
+      "isin": "JP3218900003",
+      "cusip": "J05187109",
+      "weight": 0.0672
+    },
+    {
+      "name": "UNIVERSAL HEALTH SERVICES-B USD0.01",
+      "isin": "US9139031002",
+      "cusip": "913903100",
+      "weight": 0.0671
+    },
+    {
+      "name": "DaVita Inc USD0.001",
+      "isin": "US23918K1088",
+      "cusip": "23918K108",
+      "weight": 0.0671
+    },
+    {
+      "name": "LPL FINANCIAL HOLDINGS INC NPV",
+      "isin": "US50212V1008",
+      "cusip": "50212V100",
+      "weight": 0.0671
+    },
+    {
+      "name": "MONDELEZ INTERNATIONAL INC-A NPV",
+      "isin": "US6092071058",
+      "cusip": "609207105",
+      "weight": 0.067
+    },
+    {
+      "name": "MITSUI OSK LINES LTD NPV",
+      "isin": "JP3362700001",
+      "cusip": "J45013133",
+      "weight": 0.067
+    },
+    {
+      "name": "PUBLIC STORAGE USD0.1",
+      "isin": "US74460D1090",
+      "cusip": "74460D109",
+      "weight": 0.067
+    },
+    {
+      "name": "REGENERON PHARMACEUTICALS USD0.001",
+      "isin": "US75886F1075",
+      "cusip": "75886F107",
+      "weight": 0.067
+    },
+    {
+      "name": "CHUBB LTD CHF24.15",
+      "isin": "CH0044328745",
+      "cusip": "H1467J104",
+      "weight": 0.0669
+    },
+    {
+      "name": "MICHELIN (CGDE) EUR 0.5",
+      "isin": "FR001400AJ45",
+      "cusip": "F61824870",
+      "weight": 0.0669
+    },
+    {
+      "name": "KOBE BUSSAN CO LTD NPV",
+      "isin": "JP3291200008",
+      "cusip": "J3478K102",
+      "weight": 0.0668
+    },
+    {
+      "name": "TOKYO MEJPY NPV",
+      "isin": "JP3583900000",
+      "cusip": "J8T324105",
+      "weight": 0.0668
+    },
+    {
+      "name": "IRON MOUNTAIN INC USD0.01",
+      "isin": "US46284V1017",
+      "cusip": "46284V101",
+      "weight": 0.0668
+    },
+    {
+      "name": "CSL LTD AUD NPV",
+      "isin": "AU000000CSL8",
+      "cusip": "Q3018U109",
+      "weight": 0.0668
+    },
+    {
+      "name": "CDW CORP/DE USD0.01",
+      "isin": "US12514G1085",
+      "cusip": "12514G108",
+      "weight": 0.0668
+    },
+    {
+      "name": "HEINEKEN HOLDING NV EUR1.6",
+      "isin": "NL0000008977",
+      "cusip": "N39338194",
+      "weight": 0.0666
+    },
+    {
+      "name": "TOYOTA INDUSTRIES CORP NPV",
+      "isin": "JP3634600005",
+      "cusip": "J92628106",
+      "weight": 0.0666
+    },
+    {
+      "name": "ORACLE CORP JAPAN NPV",
+      "isin": "JP3689500001",
+      "cusip": "J6165M109",
+      "weight": 0.0666
+    },
+    {
+      "name": "SODEXO SA EUR4",
+      "isin": "FR0000121220",
+      "cusip": "F84941123",
+      "weight": 0.0666
+    },
+    {
+      "name": "AUTO TRADER GROUP PLC GBP0.01",
+      "isin": "GB00BVYVFW23",
+      "cusip": "G06708104",
+      "weight": 0.0666
+    },
+    {
+      "name": "KINGSPAN GROUP PLC EUR0.13",
+      "isin": "IE0004927939",
+      "cusip": "G52654103",
+      "weight": 0.0665
+    },
+    {
+      "name": "HOLMEN AB-B SHARES SEK25",
+      "isin": "SE0011090018",
+      "cusip": "W4R00P201",
+      "weight": 0.0665
+    },
+    {
+      "name": "INVESTMENT AB LATOUR-B SHS NPV",
+      "isin": "SE0010100958",
+      "cusip": "W5R10B108",
+      "weight": 0.0664
+    },
+    {
+      "name": "KIKKOMAN CORP NPV",
+      "isin": "JP3240400006",
+      "cusip": "J32620106",
+      "weight": 0.0664
+    },
+    {
+      "name": "DECKERS OUTDOOR CORP USD0.01",
+      "isin": "US2435371073",
+      "cusip": "243537107",
+      "weight": 0.0664
+    },
+    {
+      "name": "WASTE CONNECTIONS INC NPV",
+      "isin": "CA94106B1013",
+      "cusip": "94106B101",
+      "weight": 0.0664
+    },
+    {
+      "name": "IDEX CORP USD0.01",
+      "isin": "US45167R1041",
+      "cusip": "45167R104",
+      "weight": 0.0663
+    },
+    {
+      "name": "UDR INC USD0.01",
+      "isin": "US9026531049",
+      "cusip": "902653104",
+      "weight": 0.0661
+    },
+    {
+      "name": "ANGLO AMERICAN PLC NPV",
+      "isin": "GB00BTK05J60",
+      "weight": 0.0661
+    },
+    {
+      "name": "COMPUTERSHARE LTD NPV",
+      "isin": "AU000000CPU5",
+      "cusip": "Q2721E105",
+      "weight": 0.0661
+    },
+    {
+      "name": "INTUITIVE SURGICAL INC USD0.001",
+      "isin": "US46120E6023",
+      "cusip": "46120E602",
+      "weight": 0.0661
+    },
+    {
+      "name": "KUEHNE + NAGEL INTL AG-REG CHF1",
+      "isin": "CH0025238863",
+      "cusip": "H4673L145",
+      "weight": 0.0661
+    },
+    {
+      "name": "STELLANTIS NV EUR 0.0100",
+      "isin": "NL00150001Q9",
+      "cusip": "N82405106",
+      "weight": 0.066
+    },
+    {
+      "name": "REDEIA CORPORACION SA EUR 0.5",
+      "isin": "ES0173093024",
+      "cusip": "E42807110",
+      "weight": 0.066
+    },
+    {
+      "name": "ANHEUSER-BUSCH INBEV SA/NV NPV",
+      "isin": "BE0974293251",
+      "cusip": "B639CJ108",
+      "weight": 0.066
+    },
+    {
+      "name": "EQT CORP NPV",
+      "isin": "US26884L1098",
+      "cusip": "26884L109",
+      "weight": 0.066
+    },
+    {
+      "name": "XERO LTD NPV",
+      "isin": "NZXROE0001S2",
+      "cusip": "Q98665104",
+      "weight": 0.0659
+    },
+    {
+      "name": "BRENNTAG SE NPV",
+      "isin": "DE000A1DAHH0",
+      "cusip": "D12459117",
+      "weight": 0.0659
+    },
+    {
+      "name": "ASM INTERNATIONAL NV EUR0.04",
+      "isin": "NL0000334118",
+      "cusip": "N07045201",
+      "weight": 0.0659
+    },
+    {
+      "name": "ESSITY AKTIEBOLAG-B SEK3.35",
+      "isin": "SE0009922164",
+      "cusip": "W3R06F100",
+      "weight": 0.0659
+    },
+    {
+      "name": "REPUBLIC SERVICES INC USD0.01",
+      "isin": "US7607591002",
+      "cusip": "760759100",
+      "weight": 0.0658
+    },
+    {
+      "name": "KIMBERLY-CLARK CORP USD1.25",
+      "isin": "US4943681035",
+      "cusip": "494368103",
+      "weight": 0.0658
+    },
+    {
+      "name": "ESSEX PROPERTY TRUST INC USD0.0001",
+      "isin": "US2971781057",
+      "cusip": "297178105",
+      "weight": 0.0658
+    },
+    {
+      "name": "OLYMPUS CORP NPV",
+      "isin": "JP3201200007",
+      "cusip": "J61240107",
+      "weight": 0.0658
+    },
+    {
+      "name": "SONOVA HOLDING AG-REG CHF0.05",
+      "isin": "CH0012549785",
+      "cusip": "H8024W106",
+      "weight": 0.0658
+    },
+    {
+      "name": "AVALONBAY COMMUNITIES INC USD0.01",
+      "isin": "US0534841012",
+      "cusip": "053484101",
+      "weight": 0.0657
+    },
+    {
+      "name": "TECK RESOURCES LTD-CLS B NPV",
+      "isin": "CA8787422044",
+      "cusip": "878742204",
+      "weight": 0.0657
+    },
+    {
+      "name": "Roper Technologies Inc USD0.01",
+      "isin": "US7766961061",
+      "cusip": "776696106",
+      "weight": 0.0657
+    },
+    {
+      "name": "INDUSTRIA DE DISENO TEXTIL EUR0.03",
+      "isin": "ES0148396007",
+      "cusip": "E6282J125",
+      "weight": 0.0656
+    },
+    {
+      "name": "COOPER COS INC/THE USD 0.1000",
+      "isin": "US2166485019",
+      "cusip": "216648501",
+      "weight": 0.0656
+    },
+    {
+      "name": "EDISON INTERNATIONAL NPV",
+      "isin": "US2810201077",
+      "cusip": "281020107",
+      "weight": 0.0656
+    },
+    {
+      "name": "U-Haul Holding Co USD 0.25",
+      "isin": "US0235865062",
+      "cusip": "023586506",
+      "weight": 0.0656
+    },
+    {
+      "name": "SONIC HEALTHCARE LTD NPV",
+      "isin": "AU000000SHL7",
+      "cusip": "Q8563C107",
+      "weight": 0.0656
+    },
+    {
+      "name": "SUN LIFE FINANCIAL INC NPV",
+      "isin": "CA8667961053",
+      "cusip": "866796105",
+      "weight": 0.0656
+    },
+    {
+      "name": "PEARSON PLC GBP0.25",
+      "isin": "GB0006776081",
+      "cusip": "G69651100",
+      "weight": 0.0656
+    },
+    {
+      "name": "KEURIG DR PEPPER INC USD0.01",
+      "isin": "US49271V1008",
+      "cusip": "49271V100",
+      "weight": 0.0655
+    },
+    {
+      "name": "AMUNDI SA EUR2.5",
+      "isin": "FR0004125920",
+      "cusip": "F0300Q103",
+      "weight": 0.0654
+    },
+    {
+      "name": "AMCOR PLC USD0.01",
+      "isin": "JE00BJ1F3079",
+      "cusip": "G0250X107",
+      "weight": 0.0654
+    },
+    {
+      "name": "CAMDEN PROPERTY TRUST USD0.01",
+      "isin": "US1331311027",
+      "cusip": "133131102",
+      "weight": 0.0654
+    },
+    {
+      "name": "OLD DOMINION FREIGHT LINE USD0.1",
+      "isin": "US6795801009",
+      "cusip": "679580100",
+      "weight": 0.0653
+    },
+    {
+      "name": "EQUITY LIFESTYLE PROPERTIES USD0.01",
+      "isin": "US29472R1086",
+      "cusip": "29472R108",
+      "weight": 0.0653
+    },
+    {
+      "name": "KEYENCE CORP NPV",
+      "isin": "JP3236200006",
+      "cusip": "J32491102",
+      "weight": 0.0652
+    },
+    {
+      "name": "COLGATE-PALMOLIVE CO USD1",
+      "isin": "US1941621039",
+      "cusip": "194162103",
+      "weight": 0.0652
+    },
+    {
+      "name": "ZOZO INC NPV",
+      "isin": "JP3399310006",
+      "cusip": "J9893A108",
+      "weight": 0.0652
+    },
+    {
+      "name": "CARREFOUR SA EUR2.5",
+      "isin": "FR0000120172",
+      "cusip": "F13923119",
+      "weight": 0.0651
+    },
+    {
+      "name": "CONSTELLATION SOFTWARE INC NPV",
+      "isin": "CA21037X1006",
+      "cusip": "21037X100",
+      "weight": 0.0651
+    },
+    {
+      "name": "GENERAL MILLS INC USD0.1",
+      "isin": "US3703341046",
+      "cusip": "370334104",
+      "weight": 0.0651
+    },
+    {
+      "name": "JACK HENRY & ASSOCIATES INC USD0.01",
+      "isin": "US4262811015",
+      "cusip": "426281101",
+      "weight": 0.0651
+    },
+    {
+      "name": "COGNIZANT TECH SOLUTIONS-A USD0.01",
+      "isin": "US1924461023",
+      "cusip": "192446102",
+      "weight": 0.0651
+    },
+    {
+      "name": "UNITED PARCEL SERVICE-CL B USD0.01",
+      "isin": "US9113121068",
+      "cusip": "911312106",
+      "weight": 0.0651
+    },
+    {
+      "name": "AMERICAN HOMES 4 RENT- A USD0.01",
+      "isin": "US02665T3068",
+      "cusip": "02665T306",
+      "weight": 0.0651
+    },
+    {
+      "name": "EQUITY RESIDENTIAL USD0.01",
+      "isin": "US29476L1070",
+      "cusip": "29476L107",
+      "weight": 0.0649
+    },
+    {
+      "name": "THE CAMPBELL'S COMPANY USD 0.0375",
+      "isin": "US1344291091",
+      "cusip": "134429109",
+      "weight": 0.0649
+    },
+    {
+      "name": "VAT GROUP AG CHF0.1",
+      "isin": "CH0311864901",
+      "cusip": "H90508104",
+      "weight": 0.0649
+    },
+    {
+      "name": "BOLLORE SE EUR0.16",
+      "isin": "FR0000039299",
+      "cusip": "F10659260",
+      "weight": 0.0649
+    },
+    {
+      "name": "SAP SE NPV",
+      "isin": "DE0007164600",
+      "cusip": "D66992104",
+      "weight": 0.0649
+    },
+    {
+      "name": "INTACT FINANCIAL CORP NPV",
+      "isin": "CA45823T1066",
+      "cusip": "45823T106",
+      "weight": 0.0649
+    },
+    {
+      "name": "THOMSON REUTERS CORP CAD NPV",
+      "isin": "CA8849038085",
+      "cusip": "884903808",
+      "weight": 0.0649
+    },
+    {
+      "name": "INPOST SA EUR 0.0100",
+      "isin": "LU2290522684",
+      "cusip": "L5125Z108",
+      "weight": 0.0648
+    },
+    {
+      "name": "DYNATRACE INC USD0.001",
+      "isin": "US2681501092",
+      "cusip": "268150109",
+      "weight": 0.0648
+    },
+    {
+      "name": "NRG ENERGY INC USD0.01",
+      "isin": "US6293775085",
+      "cusip": "629377508",
+      "weight": 0.0647
+    },
+    {
+      "name": "BUREAU VERITAS SA EUR0.12",
+      "isin": "FR0006174348",
+      "cusip": "F96888114",
+      "weight": 0.0647
+    },
+    {
+      "name": "CONSTELLATION BRANDS INC-A USD0.01",
+      "isin": "US21036P1084",
+      "cusip": "21036P108",
+      "weight": 0.0647
+    },
+    {
+      "name": "IVANHOE MINES LTD-CL A NPV",
+      "isin": "CA46579R1047",
+      "cusip": "46579R104",
+      "weight": 0.0646
+    },
+    {
+      "name": "HEINEKEN NV EUR1.6",
+      "isin": "NL0000009165",
+      "cusip": "N39427211",
+      "weight": 0.0646
+    },
+    {
+      "name": "MOLSON COORS BEVERAGE CO - B USD0.01",
+      "isin": "US60871R2094",
+      "cusip": "60871R209",
+      "weight": 0.0646
+    },
+    {
+      "name": "ARC RESOURCES LTD NPV",
+      "isin": "CA00208D4084",
+      "cusip": "00208D408",
+      "weight": 0.0646
+    },
+    {
+      "name": "SARTORIUS STEDIM BIOTECH EUR0.2",
+      "isin": "FR0013154002",
+      "cusip": "F8005V210",
+      "weight": 0.0646
+    },
+    {
+      "name": "HALEON PLC GBP NPV",
+      "isin": "GB00BMX86B70",
+      "cusip": "G4232K100",
+      "weight": 0.0646
+    },
+    {
+      "name": "EQUIFAX INC USD1.25",
+      "isin": "US2944291051",
+      "cusip": "294429105",
+      "weight": 0.0646
+    },
+    {
+      "name": "Novonesis ( Novozymes ) B DKK 2",
+      "isin": "DK0060336014",
+      "cusip": "K7317J133",
+      "weight": 0.0645
+    },
+    {
+      "name": "KINGFISHER PLC GBP0.157143",
+      "isin": "GB0033195214",
+      "cusip": "G5256E441",
+      "weight": 0.0645
+    },
+    {
+      "name": "MONDI PLC ORD EUR 0.22",
+      "isin": "GB00BMWC6P49",
+      "cusip": "G6258S115",
+      "weight": 0.0644
+    },
+    {
+      "name": "INTL BUSINESS MACHINES CORP USD0.2",
+      "isin": "US4592001014",
+      "cusip": "459200101",
+      "weight": 0.0644
+    },
+    {
+      "name": "ERICSSON LM-B SHS SEK5",
+      "isin": "SE0000108656",
+      "cusip": "W26049119",
+      "weight": 0.0644
+    },
+    {
+      "name": "BOOZ ALLEN HAMILTON HOLDINGS USD0.01",
+      "isin": "US0995021062",
+      "cusip": "099502106",
+      "weight": 0.0643
+    },
+    {
+      "name": "THE SAGE GROUP PLC GBP0.01051948",
+      "isin": "GB00B8C3BL03",
+      "cusip": "G7771K142",
+      "weight": 0.0643
+    },
+    {
+      "name": "Canadian Pacific Kansas City Ltd CAD NPV",
+      "isin": "CA13646K1084",
+      "cusip": "13646K108",
+      "weight": 0.0642
+    },
+    {
+      "name": "RATIONAL AG NPV",
+      "isin": "DE0007010803",
+      "cusip": "D6349P107",
+      "weight": 0.0642
+    },
+    {
+      "name": "RELX PLC GBP0.144397",
+      "isin": "GB00B2B0DG97",
+      "cusip": "G7493L105",
+      "weight": 0.0642
+    },
+    {
+      "name": "HIKMA PHARMACEUTICALS PLC GBP0.1",
+      "isin": "GB00B0LCW083",
+      "cusip": "G4576K104",
+      "weight": 0.0642
+    },
+    {
+      "name": "DESCARTES SYSTEMS GRP/THE NPV",
+      "isin": "CA2499061083",
+      "cusip": "249906108",
+      "weight": 0.0642
+    },
+    {
+      "name": "ASX LTD NPV",
+      "isin": "AU000000ASX7",
+      "cusip": "Q0604U105",
+      "weight": 0.0641
+    },
+    {
+      "name": "CNH INDUSTRIAL NV USD 0.0100",
+      "isin": "NL0010545661",
+      "cusip": "N20944109",
+      "weight": 0.0641
+    },
+    {
+      "name": "TOURMALINE OIL CORP NPV",
+      "isin": "CA89156V1067",
+      "cusip": "89156V106",
+      "weight": 0.0641
+    },
+    {
+      "name": "EQUINIX INC USD0.001",
+      "isin": "US29444U7000",
+      "cusip": "29444U700",
+      "weight": 0.064
+    },
+    {
+      "name": "INVITATION HOMES INC USD0.01",
+      "isin": "US46187W1071",
+      "cusip": "46187W107",
+      "weight": 0.064
+    },
+    {
+      "name": "KONGSBERG GRUPPEN NOK 0.25",
+      "isin": "NO0013536151",
+      "weight": 0.0639
+    },
+    {
+      "name": "DENTSU GROUP INC NPV",
+      "isin": "JP3551520004",
+      "cusip": "J1207N108",
+      "weight": 0.0639
+    },
+    {
+      "name": "SERVICENOW INC USD0.001",
+      "isin": "US81762P1021",
+      "cusip": "81762P102",
+      "weight": 0.0639
+    },
+    {
+      "name": "MARSH & MCLENNAN COS USD1",
+      "isin": "US5717481023",
+      "cusip": "571748102",
+      "weight": 0.0638
+    },
+    {
+      "name": "ALCON INC CHF0.04",
+      "isin": "CH0432492467",
+      "cusip": "H01301128",
+      "weight": 0.0637
+    },
+    {
+      "name": "NISSIN FOODS HOLDINGS CO LTD NPV",
+      "isin": "JP3675600005",
+      "cusip": "J58063124",
+      "weight": 0.0637
+    },
+    {
+      "name": "DSM-FIRMENICH AG EUR 0.0100",
+      "isin": "CH1216478797",
+      "cusip": "H0245V108",
+      "weight": 0.0636
+    },
+    {
+      "name": "RESTAURANT BRANDS INTERN CAD NPV",
+      "isin": "CA76131D1033",
+      "cusip": "76131D103",
+      "weight": 0.0635
+    },
+    {
+      "name": "TWILIO INC - A USD0.001",
+      "isin": "US90138F1021",
+      "cusip": "90138F102",
+      "weight": 0.0635
+    },
+    {
+      "name": "STRAUMANN HOLDING AG CHF 0.01",
+      "isin": "CH1175448666",
+      "cusip": "H8300N127",
+      "weight": 0.0635
+    },
+    {
+      "name": "ALBERTSONS COS INC - CLASS A USD0.01",
+      "isin": "US0130911037",
+      "cusip": "013091103",
+      "weight": 0.0635
+    },
+    {
+      "name": "CLOROX COMPANY USD1",
+      "isin": "US1890541097",
+      "cusip": "189054109",
+      "weight": 0.0634
+    },
+    {
+      "name": "ONEOK INC USD0.01",
+      "isin": "US6826801036",
+      "cusip": "682680103",
+      "weight": 0.0634
+    },
+    {
+      "name": "CGI INC NPV",
+      "isin": "CA12532H1047",
+      "cusip": "12532H104",
+      "weight": 0.0634
+    },
+    {
+      "name": "PAYCOM SOFTWARE INC USD0.01",
+      "isin": "US70432V1026",
+      "cusip": "70432V102",
+      "weight": 0.0633
+    },
+    {
+      "name": "CANADIAN NATL RAILWAY CO NPV",
+      "isin": "CA1363751027",
+      "cusip": "136375102",
+      "weight": 0.0633
+    },
+    {
+      "name": "OTIS WORLDWIDE CORP USD0.01",
+      "isin": "US68902V1070",
+      "cusip": "68902V107",
+      "weight": 0.0632
+    },
+    {
+      "name": "MID-AMERICA APARTMENT COMM USD0.01",
+      "isin": "US59522J1034",
+      "cusip": "59522J103",
+      "weight": 0.0632
+    },
+    {
+      "name": "FDJ UNITED EUR NPV",
+      "isin": "FR0013451333",
+      "cusip": "F55896108",
+      "weight": 0.0632
+    },
+    {
+      "name": "KENVUE INCUSD NPV",
+      "isin": "US49177J1025",
+      "cusip": "49177J102",
+      "weight": 0.0631
+    },
+    {
+      "name": "PAYCHEX INC USD0.01",
+      "isin": "US7043261079",
+      "cusip": "704326107",
+      "weight": 0.0631
+    },
+    {
+      "name": "GIVAUDAN-REG CHF10",
+      "isin": "CH0010645932",
+      "cusip": "H3238Q102",
+      "weight": 0.063
+    },
+    {
+      "name": "SHIMANO INC NPV",
+      "isin": "JP3358000002",
+      "cusip": "J72262108",
+      "weight": 0.0628
+    },
+    {
+      "name": "NESTLE SA-REG CHF0.1",
+      "isin": "CH0038863350",
+      "cusip": "H57312649",
+      "weight": 0.0628
+    },
+    {
+      "name": "CARRIER GLOBAL CORP USD0.01",
+      "isin": "US14448C1045",
+      "cusip": "14448C104",
+      "weight": 0.0628
+    },
+    {
+      "name": "LIFCO AB SEK NPV",
+      "isin": "SE0015949201",
+      "cusip": "W5321L166",
+      "weight": 0.0627
+    },
+    {
+      "name": "TOKYO ELECTRON LTD NPV",
+      "isin": "JP3571400005",
+      "cusip": "J86957115",
+      "weight": 0.0626
+    },
+    {
+      "name": "LY Corp JPY NPV",
+      "isin": "JP3933800009",
+      "cusip": "J9894K105",
+      "weight": 0.0626
+    },
+    {
+      "name": "BROWN-FORMAN CORP-CLASS B USD0.15",
+      "isin": "US1156372096",
+      "cusip": "115637209",
+      "weight": 0.0625
+    },
+    {
+      "name": "SIKA AG-REG CHF0.01",
+      "isin": "CH0418792922",
+      "cusip": "H7631K273",
+      "weight": 0.0625
+    },
+    {
+      "name": "SEVEN & I HOLDINGS CO LTD NPV",
+      "isin": "JP3422950000",
+      "cusip": "J7165H108",
+      "weight": 0.0625
+    },
+    {
+      "name": "SARTORIUS AG-VORZUG EUR NPV PFD",
+      "isin": "DE0007165631",
+      "cusip": "D6705R119",
+      "weight": 0.0624
+    },
+    {
+      "name": "HERMES INTERNATIONAL NPV",
+      "isin": "FR0000052292",
+      "cusip": "F48051100",
+      "weight": 0.0622
+    },
+    {
+      "name": "KERRY GROUP PLC-A EUR0.125",
+      "isin": "IE0004906560",
+      "cusip": "G52416107",
+      "weight": 0.0621
+    },
+    {
+      "name": "ADOBE INC USD0.0001",
+      "isin": "US00724F1012",
+      "cusip": "00724F101",
+      "weight": 0.062
+    },
+    {
+      "name": "NITORI HOLDINGS CO LTD NPV",
+      "isin": "JP3756100008",
+      "cusip": "J58214131",
+      "weight": 0.062
+    },
+    {
+      "name": "EVONIK INDUSTRIES AG NPV",
+      "isin": "DE000EVNK013",
+      "cusip": "D2R90Y117",
+      "weight": 0.0619
+    },
+    {
+      "name": "DEXCOM INC USD0.001",
+      "isin": "US2521311074",
+      "cusip": "252131107",
+      "weight": 0.0619
+    },
+    {
+      "name": "VERTEX PHARMACEUTICALS INC USD0.01",
+      "isin": "US92532F1003",
+      "cusip": "92532F100",
+      "weight": 0.0619
+    },
+    {
+      "name": "INDUTRADE AB SEK1",
+      "isin": "SE0001515552",
+      "cusip": "W4939U106",
+      "weight": 0.0618
+    },
+    {
+      "name": "LONDON STOCK EXCHANGE GROUP GBP0.06918605",
+      "isin": "GB00B0SWJX34",
+      "cusip": "G5689U103",
+      "weight": 0.0618
+    },
+    {
+      "name": "MONCLER SPA NPV",
+      "isin": "IT0004965148",
+      "cusip": "T6730E110",
+      "weight": 0.0618
+    },
+    {
+      "name": "WATSCO INC USD0.5",
+      "isin": "US9426222009",
+      "cusip": "942622200",
+      "weight": 0.0617
+    },
+    {
+      "name": "CAPGEMINI SE EUR8",
+      "isin": "FR0000125338",
+      "cusip": "F4973Q101",
+      "weight": 0.0617
+    },
+    {
+      "name": "NICE LTD ILS 1.0000",
+      "isin": "IL0002730112",
+      "cusip": "M7494X101",
+      "weight": 0.0616
+    },
+    {
+      "name": "FIDELITY NATIONAL INFO SERV USD0.01",
+      "isin": "US31620M1062",
+      "cusip": "31620M106",
+      "weight": 0.0615
+    },
+    {
+      "name": "UNICHARM CORP NPV",
+      "isin": "JP3951600000",
+      "cusip": "J94104114",
+      "weight": 0.0615
+    },
+    {
+      "name": "INTL FLAVORS & FRAGRANCES USD0.125",
+      "isin": "US4595061015",
+      "cusip": "459506101",
+      "weight": 0.0614
+    },
+    {
+      "name": "FACTSET RESEARCH SYSTEMS INC USD0.01",
+      "isin": "US3030751057",
+      "cusip": "303075105",
+      "weight": 0.0614
+    },
+    {
+      "name": "SALESFORCE INC USD 0.001",
+      "isin": "US79466L3024",
+      "cusip": "79466L302",
+      "weight": 0.0613
+    },
+    {
+      "name": "TRADEWEB MARKETS INC-CLASS A USD0.01",
+      "isin": "US8926721064",
+      "cusip": "892672106",
+      "weight": 0.0612
+    },
+    {
+      "name": "CARLSBERG AS-B DKK20",
+      "isin": "DK0010181759",
+      "cusip": "K36628137",
+      "weight": 0.061
+    },
+    {
+      "name": "PROGRESSIVE CORP USD1",
+      "isin": "US7433151039",
+      "cusip": "743315103",
+      "weight": 0.0609
+    },
+    {
+      "name": "MONOTARO CO LTD NPV",
+      "isin": "JP3922950005",
+      "cusip": "J46583100",
+      "weight": 0.0609
+    },
+    {
+      "name": "NUTANIX INC - A USD0.000025",
+      "isin": "US67059N1081",
+      "cusip": "67059N108",
+      "weight": 0.0608
+    },
+    {
+      "name": "RICOH CO LTD NPV",
+      "isin": "JP3973400009",
+      "cusip": "J64683105",
+      "weight": 0.0608
+    },
+    {
+      "name": "PUBLICIS GROUPE EUR0.4",
+      "isin": "FR0000130577",
+      "cusip": "F7607Z165",
+      "weight": 0.0607
+    },
+    {
+      "name": "VERISK ANALYTICS INC USD0.001",
+      "isin": "US92345Y1064",
+      "cusip": "92345Y106",
+      "weight": 0.0606
+    },
+    {
+      "name": "CIE FINANCIERE RICHEMO-A REG CHF1",
+      "isin": "CH0210483332",
+      "cusip": "H25662182",
+      "weight": 0.0605
+    },
+    {
+      "name": "CHECK POINT SOFTWARE TECH USD0.01",
+      "isin": "IL0010824113",
+      "cusip": "M22465104",
+      "weight": 0.0605
+    },
+    {
+      "name": "BEIERSDORF AG NPV",
+      "isin": "DE0005200000",
+      "cusip": "D08792109",
+      "weight": 0.0604
+    },
+    {
+      "name": "ACCENTURE PLC-CL A USD0.0000225",
+      "isin": "IE00B4BNMY34",
+      "cusip": "G1151C101",
+      "weight": 0.0604
+    },
+    {
+      "name": "SMC CORP NPV",
+      "isin": "JP3162600005",
+      "cusip": "J75734103",
+      "weight": 0.0603
+    },
+    {
+      "name": "ADIDAS AG NPV",
+      "isin": "DE000A1EWWW0",
+      "cusip": "D0066B185",
+      "weight": 0.0603
+    },
+    {
+      "name": "EURAZEO SE NPV",
+      "isin": "FR0000121121",
+      "cusip": "F3296A108",
+      "weight": 0.0602
+    },
+    {
+      "name": "FRESENIUS MEDICAL Care AG EUR NPV",
+      "isin": "DE0005785802",
+      "cusip": "D2734Z107",
+      "weight": 0.0601
+    },
+    {
+      "name": "DOCUSIGN INC USD0.0001",
+      "isin": "US2561631068",
+      "cusip": "256163106",
+      "weight": 0.0601
+    },
+    {
+      "name": "DOW INC USD0.01",
+      "isin": "US2605571031",
+      "cusip": "260557103",
+      "weight": 0.0601
+    },
+    {
+      "name": "CONAGRA BRANDS INC USD5",
+      "isin": "US2058871029",
+      "cusip": "205887102",
+      "weight": 0.0601
+    },
+    {
+      "name": "CHIPOTLE MEXICAN GRILL INC USD0.01",
+      "isin": "US1696561059",
+      "cusip": "169656105",
+      "weight": 0.06
+    },
+    {
+      "name": "P G & E CORP NPV",
+      "isin": "US69331C1080",
+      "cusip": "69331C108",
+      "weight": 0.0599
+    },
+    {
+      "name": "CHUGAI PHARMACEUTICAL CO LTD NPV",
+      "isin": "JP3519400000",
+      "cusip": "J06930101",
+      "weight": 0.0598
+    },
+    {
+      "name": "JAMES HARDIE INDUSTRIES-CDI EUR0.59",
+      "isin": "AU000000JHX1",
+      "cusip": "G4253H119",
+      "weight": 0.0598
+    },
+    {
+      "name": "NOVO NORDISK A/S DKK 0.1",
+      "isin": "DK0062498333",
+      "cusip": "K72807140",
+      "weight": 0.0597
+    },
+    {
+      "name": "Expand Energy Corporation USD 0.01",
+      "isin": "US1651677353",
+      "cusip": "165167735",
+      "weight": 0.0596
+    },
+    {
+      "name": "BROWN & BROWN INC USD0.1",
+      "isin": "US1152361010",
+      "cusip": "115236101",
+      "weight": 0.0595
+    },
+    {
+      "name": "ZALANDO SE NPV",
+      "isin": "DE000ZAL1111",
+      "cusip": "D98423102",
+      "weight": 0.0591
+    },
+    {
+      "name": "YAKULT HONSHA CO LTD NPV",
+      "isin": "JP3931600005",
+      "cusip": "J95468120",
+      "weight": 0.0591
+    },
+    {
+      "name": "WATERS CORP USD0.01",
+      "isin": "US9418481035",
+      "cusip": "941848103",
+      "weight": 0.0591
+    },
+    {
+      "name": "FISERV INC USD0.01",
+      "isin": "US3377381088",
+      "cusip": "337738108",
+      "weight": 0.059
+    },
+    {
+      "name": "CRODA INTERNATIONAL PLC GBP0.1060976",
+      "isin": "GB00BJFFLV09",
+      "cusip": "G25536155",
+      "weight": 0.059
+    },
+    {
+      "name": "SYMRISE AG NPV",
+      "isin": "DE000SYM9999",
+      "cusip": "D827A1108",
+      "weight": 0.0589
+    },
+    {
+      "name": "NOKIA OYJ NPV",
+      "isin": "FI0009000681",
+      "cusip": "X61873133",
+      "weight": 0.0588
+    },
+    {
+      "name": "Strategy Inc USD 0.001",
+      "isin": "US5949724083",
+      "cusip": "594972408",
+      "weight": 0.0587
+    },
+    {
+      "name": "ROCKWOOL A/S DKK 2",
+      "isin": "DK0063855168",
+      "weight": 0.0586
+    },
+    {
+      "name": "SNAP INC - A USD0.00001",
+      "isin": "US83304A1060",
+      "cusip": "83304A106",
+      "weight": 0.0585
+    },
+    {
+      "name": "GODADDY INC - CLASS A USD0.001",
+      "isin": "US3802371076",
+      "cusip": "380237107",
+      "weight": 0.0584
+    },
+    {
+      "name": "DASSAULT SYSTEMES EUR 0.1",
+      "isin": "FR0014003TT8",
+      "cusip": "F24571451",
+      "weight": 0.0583
+    },
+    {
+      "name": "WORKDAY INC-CLASS A USD0.001",
+      "isin": "US98138H1014",
+      "cusip": "98138H101",
+      "weight": 0.0582
+    },
+    {
+      "name": "SIG GROUP AG CHF 0.01",
+      "isin": "CH0435377954",
+      "cusip": "H76406117",
+      "weight": 0.0577
+    },
+    {
+      "name": "Barratt Redrow PLC GBP 0.1",
+      "isin": "GB0000811801",
+      "cusip": "G08288105",
+      "weight": 0.0573
+    },
+    {
+      "name": "IMCD NV EUR0.16",
+      "isin": "NL0010801007",
+      "cusip": "N4447S106",
+      "weight": 0.0565
+    },
+    {
+      "name": "ALIGN TECHNOLOGY INC USD0.0001",
+      "isin": "US0162551016",
+      "cusip": "016255101",
+      "weight": 0.0565
+    },
+    {
+      "name": "ATLASSIAN CORP USD 0.100000000",
+      "isin": "US0494681010",
+      "cusip": "049468101",
+      "weight": 0.0561
+    },
+    {
+      "name": "COPART INC NPV",
+      "isin": "US2172041061",
+      "cusip": "217204106",
+      "weight": 0.056
+    },
+    {
+      "name": "TELEPERFORMANCE EUR2.5",
+      "isin": "FR0000051807",
+      "cusip": "F9120F106",
+      "weight": 0.0558
+    },
+    {
+      "name": "SYSMEX CORP NPV",
+      "isin": "JP3351100007",
+      "cusip": "J7864H102",
+      "weight": 0.0557
+    },
+    {
+      "name": "BAXTER INTERNATIONAL INC USD1",
+      "isin": "US0718131099",
+      "cusip": "071813109",
+      "weight": 0.0557
+    },
+    {
+      "name": "RIVIAN AUTOMOTIVE INC-A USD 0.0010",
+      "isin": "US76954A1034",
+      "cusip": "76954A103",
+      "weight": 0.0552
+    },
+    {
+      "name": "LKQ CORP USD0.01",
+      "isin": "US5018892084",
+      "cusip": "501889208",
+      "weight": 0.0548
+    },
+    {
+      "name": "SCHINDLER HOLDING-PART CERT CHF0.1",
+      "isin": "CH0024638196",
+      "cusip": "H7258G209",
+      "weight": 0.0546
+    },
+    {
+      "name": "Elevance Health Inc USD0.01",
+      "isin": "US0367521038",
+      "cusip": "036752103",
+      "weight": 0.0543
+    },
+    {
+      "name": "PANDORA A/S DKK0.01",
+      "isin": "DK0060252690",
+      "cusip": "K7681L102",
+      "weight": 0.0541
+    },
+    {
+      "name": "CTS EVENTIM AG & Co KGaA NPV",
+      "isin": "DE0005470306",
+      "cusip": "D1648T108",
+      "weight": 0.0538
+    },
+    {
+      "name": "FORTINET INC USD0.001",
+      "isin": "US34959E1091",
+      "cusip": "34959E109",
+      "weight": 0.0528
+    },
+    {
+      "name": "HUBSPOT INC USD0.001",
+      "isin": "US4435731009",
+      "cusip": "443573100",
+      "weight": 0.0524
+    },
+    {
+      "name": "WOLTERS KLUWER EUR0.12",
+      "isin": "NL0000395903",
+      "cusip": "N9643A197",
+      "weight": 0.0519
+    },
+    {
+      "name": "SAMSARA INC-CL A USD 0.0001",
+      "isin": "US79589L1061",
+      "cusip": "79589L106",
+      "weight": 0.0518
+    },
+    {
+      "name": "OKTA INC NPV",
+      "isin": "US6792951054",
+      "cusip": "679295105",
+      "weight": 0.0518
+    },
+    {
+      "name": "WIX.COM LTD ILS0.01",
+      "isin": "IL0011301780",
+      "cusip": "M98068105",
+      "weight": 0.0518
+    },
+    {
+      "name": "REECE LTD NPV",
+      "isin": "AU000000REH4",
+      "cusip": "Q80528138",
+      "weight": 0.0515
+    },
+    {
+      "name": "HOLCIM LTD CHF2",
+      "isin": "CH0012214059",
+      "cusip": "H3816Q102",
+      "weight": 0.0509
+    },
+    {
+      "name": "TREND MICRO INC NPV",
+      "isin": "JP3637300009",
+      "cusip": "J9298Q104",
+      "weight": 0.0507
+    },
+    {
+      "name": "FAIR ISAAC CORP USD0.01",
+      "isin": "US3032501047",
+      "cusip": "303250104",
+      "weight": 0.05
+    },
+    {
+      "name": "RENAULT SA EUR3.81",
+      "isin": "FR0000131906",
+      "cusip": "F77098105",
+      "weight": 0.05
+    },
+    {
+      "name": "HENKEL AG & CO KGAA VORZUG EUR 0.0000 PFD",
+      "isin": "DE0006048432",
+      "cusip": "D3207M110",
+      "weight": 0.0493
+    },
+    {
+      "name": "ALPHABET INC-CL A USD0.001",
+      "isin": "US02079K3059",
+      "cusip": "02079K305",
+      "weight": 0.0488
+    },
+    {
+      "name": "TRADE DESK INC/THE -CLASS A NPV",
+      "isin": "US88339J1051",
+      "cusip": "88339J105",
+      "weight": 0.0484
+    },
+    {
+      "name": "FORTIVE CORP USD0.01",
+      "isin": "US34959J1088",
+      "cusip": "34959J108",
+      "weight": 0.048
+    },
+    {
+      "name": "LULULEMON ATHLETICA INC USD0.005",
+      "isin": "US5500211090",
+      "cusip": "550021109",
+      "weight": 0.0478
+    },
+    {
+      "name": "WPP PLC GBP0.1",
+      "isin": "JE00B8KF9B49",
+      "cusip": "G9788D103",
+      "weight": 0.0475
+    },
+    {
+      "name": "TEXAS PACIFIC LAND CORP USD NPV",
+      "isin": "US88262P1021",
+      "cusip": "88262P102",
+      "weight": 0.0474
+    },
+    {
+      "name": "AP MOLLER-MAERSK A/S-B DKK1000",
+      "isin": "DK0010244508",
+      "cusip": "K0514G101",
+      "weight": 0.0473
+    },
+    {
+      "name": "FOX CORP - CLASS A USD0.01",
+      "isin": "US35137L1052",
+      "cusip": "35137L105",
+      "weight": 0.0472
+    },
+    {
+      "name": "ORSTED A/S DKK10",
+      "isin": "DK0060094928",
+      "cusip": "K7653Q105",
+      "weight": 0.0472
+    },
+    {
+      "name": "CHOCOLADEFABRIKEN LINDT-PC CHF10",
+      "isin": "CH0010570767",
+      "cusip": "H49983184",
+      "weight": 0.0465
+    },
+    {
+      "name": "CHARTER COMMUNICATIONS INC-A USD0.001",
+      "isin": "US16119P1084",
+      "cusip": "16119P108",
+      "weight": 0.046
+    },
+    {
+      "name": "HEICO CORP-CLASS A USD0.01",
+      "isin": "US4228062083",
+      "cusip": "422806208",
+      "weight": 0.045
+    },
+    {
+      "name": "ATLAS COPCO AB SEK NPV",
+      "isin": "SE0017486889",
+      "cusip": "W1R924252",
+      "weight": 0.0435
+    },
+    {
+      "name": "MONDAY.COM LTD USD NPV",
+      "isin": "IL0011762130",
+      "cusip": "M7S64H106",
+      "weight": 0.0432
+    },
+    {
+      "name": "EPIROC AB SEK NPV",
+      "isin": "SE0015658109",
+      "cusip": "W25918124",
+      "weight": 0.0431
+    },
+    {
+      "name": "INDUSTRIVARDEN AB-C SHS SEK2.5",
+      "isin": "SE0000107203",
+      "cusip": "W45430126",
+      "weight": 0.0428
+    },
+    {
+      "name": "ALPHABET INC-CL C USD0.001",
+      "isin": "US02079K1079",
+      "cusip": "02079K107",
+      "weight": 0.0418
+    },
+    {
+      "name": "MOLINA HEALTHCARE INC USD0.001",
+      "isin": "US60855R1005",
+      "cusip": "60855R100",
+      "weight": 0.0405
+    },
+    {
+      "name": "GARTNER INC USD0.0005",
+      "isin": "US3666511072",
+      "cusip": "366651107",
+      "weight": 0.0384
+    },
+    {
+      "name": "Cash and/or Derivatives",
+      "weight": 0.0375
+    },
+    {
+      "name": "AP MOELLER-MAERSK A/S-A DKK1000",
+      "isin": "DK0010244425",
+      "cusip": "K0514G135",
+      "weight": 0.035
+    },
+    {
+      "name": "HEICO CORP USD0.01",
+      "isin": "US4228061093",
+      "cusip": "422806109",
+      "weight": 0.0336
+    },
+    {
+      "name": "CENTENE CORP USD0.001",
+      "isin": "US15135B1017",
+      "cusip": "15135B101",
+      "weight": 0.0334
+    },
+    {
+      "name": "INDUSTRIVARDEN AB-A SHS SEK2.5",
+      "isin": "SE0000190126",
+      "cusip": "W45430100",
+      "weight": 0.033
+    },
+    {
+      "name": "AMRIZE LTD CHF NPV",
+      "isin": "CH1430134226",
+      "cusip": "H2927K103",
+      "weight": 0.0315
+    },
+    {
+      "name": "FOX CORP - CLASS B USD0.01",
+      "isin": "US35137L2043",
+      "cusip": "35137L204",
+      "weight": 0.028
+    },
+    {
+      "name": "HENKEL AG & CO KGAA NPV",
+      "isin": "DE0006048408",
+      "cusip": "D3207M102",
+      "weight": 0.0276
+    },
+    {
+      "name": "SCHINDLER HOLDING AG-REG CHF0.1",
+      "isin": "CH0024638212",
+      "cusip": "H7258G233",
+      "weight": 0.0261
+    },
+    {
+      "name": "CHOCOLADEFABRIKEN LINDT-REG CHF100",
+      "isin": "CH0010570759",
+      "cusip": "H49983176",
+      "weight": 0.0241
+    },
+    {
+      "name": "EPIROC AB SEK NPV",
+      "isin": "SE0015658117",
+      "cusip": "W25918157",
+      "weight": 0.0228
+    },
+    {
+      "name": "ATLAS COPCO AB-B SHS SEK 0.6390",
+      "isin": "SE0017486897",
+      "cusip": "W1R924229",
+      "weight": 0.0226
+    },
+    {
+      "name": "BAYERISCHE MOTOREN WERKE-PFD EUR 1.0000 PFD",
+      "isin": "DE0005190037",
+      "cusip": "D12096125",
+      "weight": 0.0108
+    },
+    {
+      "name": "ROCHE HOLDING AG-BR CHF1",
+      "isin": "CH0012032113",
+      "cusip": "H69293225",
+      "weight": 0.0034
+    }
+  ]
+}
