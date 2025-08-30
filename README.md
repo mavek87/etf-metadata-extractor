@@ -75,6 +75,16 @@ https://extraetf.com/api-v2/detail/?isin=IE00BZ56SW52&extraetf_locale=en
 
 using the ISIN is possible to find all the info about an ETF on extra-etf. The data are not always updated but it could be useful if it's not possibile to find them on the official website of the ETF provider.
 
+## Morningstar 
+
+ISIN is not used. this is complicated to use...
+
+Holdings:
+https://api-global.morningstar.com/sal-service/v1/etf/portfolio/v2/sector/0P0001RTKE/data?languageId=it&locale=it&clientId=MDC&benchmarkId=prospectus_primary&component=sal-mip-sector-exposure&version=4.69.0
+
+Factors:
+https://api-global.morningstar.com/sal-service/v1/etf/factorProfile/0P0001RTKE/data?languageId=it&locale=it&clientId=MDC&benchmarkId=prospectus_primary&component=sal-mip-factor-profile&version=4.69.0
+
 ### iShares
 
 - Format: List of ETFs
