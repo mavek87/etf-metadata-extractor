@@ -7,13 +7,17 @@ session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115 Safari/537.36"
 })
 
-ticker = "AAPL"
+# ticker = "AAPL"
+ticker = "SSAC.L"
 stock = yf.Ticker(ticker, session=session)
 
-print(stock.info.get("longName"))
-# print(stock.history(period="1mo").tail())
-
 info = stock.info
+# shares = stock.shares
+# print(f"aaaaaaAA: {shares}")
+
+print(info.get("longName"))
+print(stock.history(period="1mo").tail())
+
 for k, v in info.items():
     print(k, ":", v)
 
