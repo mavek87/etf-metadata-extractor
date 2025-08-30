@@ -68,6 +68,13 @@ https://www.ishares.com/us/products/etf-investments#/?productView=etf&pageNumber
 
 To collect correct data, it is important to use official csv files provided by the ETF providers. Below are the rules for each provider.
 
+## Extra-ETF useful data
+
+https://extraetf.com/api-v2/detail/?isin=IE00BZ56SW52&extraetf_locale=it
+https://extraetf.com/api-v2/detail/?isin=IE00BZ56SW52&extraetf_locale=en
+
+using the ISIN is possible to find all the info about an ETF on extra-etf. The data are not always updated but it could be useful if it's not possibile to find them on the official website of the ETF provider.
+
 ### iShares
 
 - Format: List of ETFs
@@ -114,8 +121,18 @@ sector and regions: at the moment any URL found. They can be found scraping the 
 
 ### WisdomTree
 
+List of all etfs: https://dataspanapi.wisdomtree.com/pdr/documents/EMT/ETP/EU/EN-GB/EMT-V42/
+
 similar to vanguard but even worst because the url to download the csv file is hidden in js code
 sector and regions: at the moment any URL found. They can be found scraping the web page.
+
+List of all holdings for GGRA (probably the ID is internal, they don't use ISIN in the URL):
+https://www.wisdomtree.eu/it-it/global/etf-details/modals/all-holdings?id={213E2975-10D2-4521-B1CE-DB445F02AB16}
+
+List holdings structure:
+Name, Isin, Country Code, Weight
+
+No sector. But it could be aggregated from the holdings using their ISIN. Otherwise, they can be scraped from the the ETF html page.
 
 ### VanEck
 
