@@ -1,0 +1,72 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "portfolio_breakdown": {
+        "asset_allocation_exposure_list": [
+          {
+            "name": "Azioni",
+            "value": 99.79162,
+            "code": "stock"
+          },
+          {
+            "name": "Obbligazioni",
+            "value": 0,
+            "code": "bond"
+          }
+        ],
+        "country_stocks_exposure_list": [
+          {
+            "name": "Australia",
+            "value": 1.63655,
+            "code": "AU"
+          }
+        ],
+        "currency_allocations": [
+          {
+            "name": "Hong Kong Dollar",
+            "value": 0.2494,
+            "code": "HKD"
+          }
+        ],
+        "global_stock_exposure_list": [
+          {
+            "name": "Materiali di base",
+            "value": 2.19998,
+            "code": "basic_materials"
+          }
+        ],
+        "items": [
+          {
+            "stock_global_sector": "Tecnologia",
+            "local_security": null,
+            "type": "Azioni",
+            "name_short": "Microsoft",
+            "slug": "slug-is-obsolete",
+            "icon": null,
+            "logo_url": "/media/brand/logos/US5949181045/408c9428-6c75-425d-b68c-5b53c4c5ac0c.jpeg",
+            "profile_type": "stock",
+            "breakdown_type": "stock",
+            "name": "Microsoft",
+            "isin": "US5949181045",
+            "weight": 5.78982,
+            "stock_industry_id": 31110030,
+            "stock_global_industry_id": 31110030,
+            "stock_global_sector_id": 311,
+            "local_currency_code": "USD",
+            "local_security_type": "",
+            "bond_maturity_date": null,
+            "bond_coupon": null,
+            "country": "USA",
+            "stock_industry": "Infrastrutture software",
+            "stock_global_industry": "Infrastrutture software",
+            "country_name": "Stati Uniti d'America",
+            "sector_id": null
+          }
+        ]
+      }
+    }
+  ]
+}

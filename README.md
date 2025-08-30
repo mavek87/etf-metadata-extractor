@@ -73,6 +73,12 @@ To collect correct data, it is important to use official csv files provided by t
 https://extraetf.com/api-v2/detail/?isin=IE00BZ56SW52&extraetf_locale=it
 https://extraetf.com/api-v2/detail/?isin=IE00BZ56SW52&extraetf_locale=en
 
+```bash
+curl "https://extraetf.com/api-v2/detail/?isin=FR0013416716&extraetf_locale=it" \
+  -H "cookie: extraetf_locale=it" \
+  -H "accept-language: it-IT,it;q=0.6"
+```
+
 using the ISIN is possible to find all the info about an ETF on extra-etf. The data are not always updated but it could be useful if it's not possibile to find them on the official website of the ETF provider.
 
 ## Morningstar 
