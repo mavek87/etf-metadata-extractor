@@ -128,6 +128,66 @@ if __name__ == "__main__":
         "IE00BM67HK77"
     ]
 
+    # Tutti
+    #    trading_currency_id (EURO, DOLLAR, ETC)
+
+    # asset_class_name: Azioni
+    #     asset_allocation_exposure_list (azioni, obbligazioni, altro)
+    #     country_stocks_exposure_list (italia%, usa%, etc)
+    #     country_convertible_exposure_list (vuoto ma forse presente?)
+    #     currency_allocations (es. EUR 70%, USD 20%, ecc)
+    #     region_stock_exposure_list (es. nord america, europa, ecc)
+    #     region_convertible_exposure_list (vuoto ma forse puo essere presente?)
+    #     global_bond_exposure_list (es. monetario%)
+    #     global_stock_exposure_list (materiali base%, consumo ciclico%, immobiliare%, ecc)
+    #     items (lista azioni incompleta!)
+
+    # asset_class_name: Obbligazioni
+    #     asset_allocation_exposure_list (azioni, obbligazioni, altro)
+    #     country_bond_exposure_list (italia%, usa%, etc)
+    #     country_convertible_exposure_list (italia%, usa%, etc)
+    #     currency_allocations (es. EUR 70%, USD 20%, ecc)
+    #     global_bond_exposure_list (tipi di bond es. governativi, corporate, high yield, ecc)
+    #     region_bond_exposure_list (europe%, africa%, etc )
+    #     region_convertible_exposure_list (europe%, africa%, etc )
+    #     items (lista azioni incompleta!)
+
+    # asset_class_name: Materie prime
+    #       "guide_commodity": {
+    #         "name": "Oro",
+    #         "slug": "gold"
+    #       },
+    #       - "currency": "USD",
+    #        - "fund_currency_id": "USD",
+    #        - dentro chiave "items":
+    #           "commodity_type_name": "Oro"
+    #           "commodity_class_name": "Metalli preziosi",
+    #        - "currency_allocations": [] (solo oro, in USD credo??)
+    #     items (1 elemento solo, l'oro)
+
+    # asset_class_name: Mercato monetario
+    #   - "asset_allocation_exposure_list": "altro"
+    #   - dentro chiave "items"
+    #       "breakdown_type": "derivatives",
+    #       "name": "TRS Solactive €STR +8.5 Daily TR EUR",
+    #   - "currency": "EUR"
+    #   - "fund_currency_id": "EUR"
+    #   - "net_assets_currency": "EUR",
+    #   - "currency_allocations" [] (sconosciuta.. in euro credo??)
+    #     items (1 elemento solo, es. XEON)
+
+    # asset_class_name: Criptovalute
+    #    - "asset_allocation_exposure_list": "altro"
+    #    - dentro chiave "items"
+    #             "breakdown_type": "derivatives",
+    #             "name": "Bitcoin",
+    #    - "currency_allocations" [] (solo btc, in USD credo??)
+    #    - "crypto_currency_name": "Bitcoin",
+    #    - "fund_currency_id": "USD"
+    #    - "currency": "USD",
+    #    - "net_assets_currency": null
+    #     items (1 elemento solo, es. Bitcoin)
+
     # Avvia il download
     # Puoi modificare output_dir e delay secondo le tue esigenze
     download_etf_data(
