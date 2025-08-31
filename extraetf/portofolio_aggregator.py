@@ -1,3 +1,140 @@
+# import json
+# import os
+# from collections import defaultdict
+# from typing import Dict
+#
+# import pandas as pd
+#
+#
+# class PortfolioAggregator:
+#     def __init__(self, data_dir: str = "./data"):
+#         """
+#         Inizializza l'aggregatore di portafoglio.
+#
+#         Args:
+#             data_dir: Directory contenente i file JSON degli ETF
+#         """
+#         self.data_dir = data_dir
+#         self.etf_data = {}
+#
+#     def load_etf_data(self) -> None:
+#         """Carica tutti i file JSON dalla directory data."""
+#         if not os.path.exists(self.data_dir):
+#             raise FileNotFoundError(f"Directory {self.data_dir} non trovata")
+#
+#         json_files = [f for f in os.listdir(self.data_dir) if f.endswith('.json')]
+#
+#         if not json_files:
+#             raise FileNotFoundError(f"Nessun file JSON trovato in {self.data_dir}")
+#
+#         print(f"Caricamento di {len(json_files)} file ETF...")
+#
+#         for filename in json_files:
+#             isin = filename.replace('.json', '')
+#             filepath = os.path.join(self.data_dir, filename)
+#
+#             try:
+#                 with open(filepath, 'r', encoding='utf-8') as f:
+#                     data = json.load(f)
+#
+#                 # Estrai i dati del portfolio breakdown
+#                 if 'results' in data and len(data['results']) > 0:
+#                     result = data['results'][0]
+#
+#
+#                     portfolio_data = {
+#                         "asset_class_name": result.get('asset_class_name', 'Unknown'),
+#                         "portfolio_breakdown": result.get('portfolio_breakdown', {}),
+#                     }
+#
+#                     print(portfolio_data)
+#
+#                     # portfolio_data = .get('portfolio_breakdown', {})
+#                     self.etf_data[isin] = portfolio_data
+#                     print(f"✓ Caricato {isin}")
+#                 else:
+#                     print(f"⚠ Dati mancanti per {isin}")
+#
+#             except Exception as e:
+#                 print(f"✗ Errore nel caricamento di {filename}: {e}")
+#
+#     def aggregate_portfolio(self, portfolio_weights: Dict[str, float]) -> Dict:
+#         """
+#         Aggrega i dati del portafoglio in base alle percentuali.
+#
+#         Args:
+#             portfolio_weights: Dict con ISIN come chiave e percentuale come valore
+#             Esempio: {"IE00BZ56SW52": 30.0, "IE00B4L5Y983": 55.0, "IE00B3XXRP09": 15.0}
+#
+#         Returns:
+#             Dict con i dati aggregati
+#         """
+#         # Verifica che le percentuali sommino a 100
+#         total_weight = sum(portfolio_weights.values())
+#         if abs(total_weight - 100.0) > 0.01:
+#             print(f"⚠ Attenzione: le percentuali sommano a {total_weight}% invece di 100%")
+#
+#         # Converti percentuali in decimali
+#         weights = {isin: weight / 100.0 for isin, weight in portfolio_weights.items()}
+#
+#         # Inizializza le strutture per l'aggregazione
+#         aggregated_data = {
+#             'esposizione_settoriale': defaultdict(float),
+#             'esposizione_geografica': defaultdict(float),
+#             'holdings': defaultdict(float),
+#             'valute': defaultdict(float)
+#         }
+#
+#         print("\n=== AGGREGAZIONE DATI ===")
+#
+#         for isin, weight in weights.items():
+#             if isin not in self.etf_data:
+#                 print(f"⚠ Dati non trovati per ISIN {isin}")
+#                 continue
+#
+#             etf_data = self.etf_data[isin]
+#             print(f"Processando {isin} (peso: {weight * 100:.1f}%)")
+#
+#             # 1. ESPOSIZIONE SETTORIALE
+#             sector_data = etf_data.get('global_stock_exposure_list', [])
+#             for sector in sector_data:
+#                 sector_name = sector.get('name', 'Unknown')
+#                 sector_value = sector.get('value', 0)
+#                 aggregated_data['esposizione_settoriale'][sector_name] += sector_value * weight
+#
+#             # 2. ESPOSIZIONE GEOGRAFICA
+#             country_data = etf_data.get('country_stocks_exposure_list', [])
+#             for country in country_data:
+#                 country_name = country.get('name', 'Unknown')
+#                 country_value = country.get('value', 0)
+#                 aggregated_data['esposizione_geografica'][country_name] += country_value * weight
+#
+#             # 3. HOLDINGS (singole azioni)
+#             holdings_data = etf_data.get('items', [])
+#             for holding in holdings_data:
+#                 holding_name = holding.get('name', 'Unknown')
+#                 holding_isin = holding.get('isin', '')
+#                 holding_weight = holding.get('weight', 0)
+#
+#                 # Usa ISIN + Nome per identificare univocamente
+#                 holding_key = f"{holding_name} ({holding_isin})" if holding_isin else holding_name
+#                 aggregated_data['holdings'][holding_key] += holding_weight * weight
+#
+#             # 4. VALUTE
+#             currency_data = etf_data.get('currency_allocations', [])
+#             for currency in currency_data:
+#                 currency_name = currency.get('name', 'Sconosciuta')
+#                 currency_value = currency.get('value', 0)
+#                 aggregated_data['valute'][currency_name] += currency_value * weight
+#
+#         # Converti defaultdict in dict normali e ordina per valore
+#         result = {}
+#         for category, data in aggregated_data.items():
+#             sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
+#             result[category] = sorted_data
+#
+#         return result
+
 import json
 import os
 from collections import defaultdict
@@ -39,7 +176,26 @@ class PortfolioAggregator:
 
                 # Estrai i dati del portfolio breakdown
                 if 'results' in data and len(data['results']) > 0:
-                    portfolio_data = data['results'][0].get('portfolio_breakdown', {})
+
+                    result = data['results'][0]
+
+                    portfolio_data = {
+                        "asset_class_name": result.get('asset_class_name', 'Unknown'),
+                        "crypto_currency_name": result.get('crypto_currency_name'),
+                        "isin": result.get('isin', 'Unknown'),
+                        "trading_symbol_base": result.get('trading_symbol_base', 'Unknown'),
+                        "trading_symbol_localized": result.get('trading_symbol_localized', 'Unknown'),
+                        "trading_symbol_xetra": result.get('trading_symbol_xetra', 'Unknown'),
+                        "ter": result.get('ter', 0),
+                        "currency": result.get('currency', 0),
+                        "commodity_class_name": result.get('commodity_class_name'),
+                        "commodity_type_name": result.get('commodity_type_name'),
+                        "portfolio_breakdown": result.get('portfolio_breakdown', {}),
+                    }
+
+                    # print(str(portfolio_data))
+
+                    # portfolio_data = data['results'][0].get('portfolio_breakdown', {})
                     self.etf_data[isin] = portfolio_data
                     print(f"✓ Caricato {isin}")
                 else:
@@ -85,24 +241,60 @@ class PortfolioAggregator:
             etf_data = self.etf_data[isin]
             print(f"Processando {isin} (peso: {weight * 100:.1f}%)")
 
+            asset_class_name = etf_data['asset_class_name']
+            if asset_class_name == "Azioni":
+                print(f"✓ l'ETF {isin} è di classe Azioni (classe: {asset_class_name})")
+            elif asset_class_name == "Obbligazioni":
+                print(f"✓ l'ETF {isin} è di classe Obbligazioni (classe: {asset_class_name})")
+            elif asset_class_name == "Materie prime":
+                print(f"✓ l'ETF {isin} è di classe Materie prime (classe: {asset_class_name})")
+            elif asset_class_name == "Mercato monetario":
+                print(f"✓ l'ETF {isin} è di classe Mercato monetario (classe: {asset_class_name})")
+            elif asset_class_name == "Criptovalute":
+                print(f"✓ l'ETF {isin} è di classe Criptovalute (classe: {asset_class_name})")
+            else:
+                print(f"⚠ Attenzione: L'ETF {isin} è di classe SCONOSCIUTA: {asset_class_name}")
+
+            portfolio_breakdown = etf_data.get('portfolio_breakdown', {})
+
+            if asset_class_name == "Azioni" or asset_class_name == "Obbligazioni":
+                global_stock_exposure_list = portfolio_breakdown.get('global_stock_exposure_list', [])
+                global_bond_exposure_list = portfolio_breakdown.get('global_bond_exposure_list', [])
+                global_exposure_list = global_stock_exposure_list + global_bond_exposure_list
+            elif asset_class_name == "Materie prime":
+                commodity_name = etf_data.get("commodity_type_name", "Unknown commodity")
+                global_exposure_list = [{"name": commodity_name, "value": 100.0}]
+            elif asset_class_name == "Mercato monetario":
+                currency_name = etf_data.get("currency", "Unknown currency")
+                global_exposure_list = [{"name": "Monetario " + currency_name, "value": 100.0}]
+            elif asset_class_name == "Criptovalute":
+                crypto_name = etf_data.get("crypto_currency_name", "Unknown cryptocurrency")
+                global_exposure_list = [{"name": crypto_name, "value": 100.0}]
+            else:
+                print(f"⚠ Attenzione: L'ETF {isin} è di classe SCONOSCIUTA: {asset_class_name}")
+                global_exposure_list = [{"name": "Unknown", "value": 100.0}]
+
+            print(f"✓ global_exposure_list: {global_exposure_list}")
+
             # 1. ESPOSIZIONE SETTORIALE
-            sector_data = etf_data.get('global_stock_exposure_list', [])
+
+            sector_data = global_exposure_list
             for sector in sector_data:
-                sector_name = sector.get('name', 'Sconosciuto')
+                sector_name = sector.get('name', 'Unknown')
                 sector_value = sector.get('value', 0)
                 aggregated_data['esposizione_settoriale'][sector_name] += sector_value * weight
 
             # 2. ESPOSIZIONE GEOGRAFICA
-            country_data = etf_data.get('country_stocks_exposure_list', [])
+            country_data = portfolio_breakdown.get('country_stocks_exposure_list', [])
             for country in country_data:
-                country_name = country.get('name', 'Sconosciuto')
+                country_name = country.get('name', 'Unknown')
                 country_value = country.get('value', 0)
                 aggregated_data['esposizione_geografica'][country_name] += country_value * weight
 
             # 3. HOLDINGS (singole azioni)
-            holdings_data = etf_data.get('items', [])
+            holdings_data = portfolio_breakdown.get('items', [])
             for holding in holdings_data:
-                holding_name = holding.get('name', 'Sconosciuto')
+                holding_name = holding.get('name', 'Unknown')
                 holding_isin = holding.get('isin', '')
                 holding_weight = holding.get('weight', 0)
 
@@ -111,132 +303,7 @@ class PortfolioAggregator:
                 aggregated_data['holdings'][holding_key] += holding_weight * weight
 
             # 4. VALUTE
-            currency_data = etf_data.get('currency_allocations', [])
-            for currency in currency_data:
-                currency_name = currency.get('name', 'Sconosciuta')
-                currency_value = currency.get('value', 0)
-                aggregated_data['valute'][currency_name] += currency_value * weight
-
-        # Converti defaultdict in dict normali e ordina per valore
-        result = {}
-        for category, data in aggregated_data.items():
-            sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
-            result[category] = sorted_data
-
-        return result
-
-    import json
-import os
-from typing import Dict, List
-from collections import defaultdict
-import pandas as pd
-
-class PortfolioAggregator:
-    def __init__(self, data_dir: str = "./data"):
-        """
-        Inizializza l'aggregatore di portafoglio.
-
-        Args:
-            data_dir: Directory contenente i file JSON degli ETF
-        """
-        self.data_dir = data_dir
-        self.etf_data = {}
-
-    def load_etf_data(self) -> None:
-        """Carica tutti i file JSON dalla directory data."""
-        if not os.path.exists(self.data_dir):
-            raise FileNotFoundError(f"Directory {self.data_dir} non trovata")
-
-        json_files = [f for f in os.listdir(self.data_dir) if f.endswith('.json')]
-
-        if not json_files:
-            raise FileNotFoundError(f"Nessun file JSON trovato in {self.data_dir}")
-
-        print(f"Caricamento di {len(json_files)} file ETF...")
-
-        for filename in json_files:
-            isin = filename.replace('.json', '')
-            filepath = os.path.join(self.data_dir, filename)
-
-            try:
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-
-                # Estrai i dati del portfolio breakdown
-                if 'results' in data and len(data['results']) > 0:
-                    portfolio_data = data['results'][0].get('portfolio_breakdown', {})
-                    self.etf_data[isin] = portfolio_data
-                    print(f"✓ Caricato {isin}")
-                else:
-                    print(f"⚠ Dati mancanti per {isin}")
-
-            except Exception as e:
-                print(f"✗ Errore nel caricamento di {filename}: {e}")
-
-    def aggregate_portfolio(self, portfolio_weights: Dict[str, float]) -> Dict:
-        """
-        Aggrega i dati del portafoglio in base alle percentuali.
-
-        Args:
-            portfolio_weights: Dict con ISIN come chiave e percentuale come valore
-            Esempio: {"IE00BZ56SW52": 30.0, "IE00B4L5Y983": 55.0, "IE00B3XXRP09": 15.0}
-
-        Returns:
-            Dict con i dati aggregati
-        """
-        # Verifica che le percentuali sommino a 100
-        total_weight = sum(portfolio_weights.values())
-        if abs(total_weight - 100.0) > 0.01:
-            print(f"⚠ Attenzione: le percentuali sommano a {total_weight}% invece di 100%")
-
-        # Converti percentuali in decimali
-        weights = {isin: weight/100.0 for isin, weight in portfolio_weights.items()}
-
-        # Inizializza le strutture per l'aggregazione
-        aggregated_data = {
-            'esposizione_settoriale': defaultdict(float),
-            'esposizione_geografica': defaultdict(float),
-            'holdings': defaultdict(float),
-            'valute': defaultdict(float)
-        }
-
-        print("\n=== AGGREGAZIONE DATI ===")
-
-        for isin, weight in weights.items():
-            if isin not in self.etf_data:
-                print(f"⚠ Dati non trovati per ISIN {isin}")
-                continue
-
-            etf_data = self.etf_data[isin]
-            print(f"Processando {isin} (peso: {weight*100:.1f}%)")
-
-            # 1. ESPOSIZIONE SETTORIALE
-            sector_data = etf_data.get('global_stock_exposure_list', [])
-            for sector in sector_data:
-                sector_name = sector.get('name', 'Sconosciuto')
-                sector_value = sector.get('value', 0)
-                aggregated_data['esposizione_settoriale'][sector_name] += sector_value * weight
-
-            # 2. ESPOSIZIONE GEOGRAFICA
-            country_data = etf_data.get('country_stocks_exposure_list', [])
-            for country in country_data:
-                country_name = country.get('name', 'Sconosciuto')
-                country_value = country.get('value', 0)
-                aggregated_data['esposizione_geografica'][country_name] += country_value * weight
-
-            # 3. HOLDINGS (singole azioni)
-            holdings_data = etf_data.get('items', [])
-            for holding in holdings_data:
-                holding_name = holding.get('name', 'Sconosciuto')
-                holding_isin = holding.get('isin', '')
-                holding_weight = holding.get('weight', 0)
-
-                # Usa ISIN + Nome per identificare univocamente
-                holding_key = f"{holding_name} ({holding_isin})" if holding_isin else holding_name
-                aggregated_data['holdings'][holding_key] += holding_weight * weight
-
-            # 4. VALUTE
-            currency_data = etf_data.get('currency_allocations', [])
+            currency_data = portfolio_breakdown.get('currency_allocations', [])
             for currency in currency_data:
                 currency_name = currency.get('name', 'Sconosciuta')
                 currency_value = currency.get('value', 0)
@@ -252,9 +319,9 @@ class PortfolioAggregator:
 
     def print_results(self, aggregated_data: Dict) -> None:
         """Stampa i risultati aggregati in formato leggibile."""
-        print("\n" + "="*60)
+        print("\n" + "=" * 60)
         print("RISULTATI AGGREGAZIONE PORTAFOGLIO")
-        print("="*60)
+        print("=" * 60)
 
         # 1. ESPOSIZIONE SETTORIALE
         print("\n🏭 ESPOSIZIONE SETTORIALE:")
@@ -305,7 +372,6 @@ class PortfolioAggregator:
             currency_total += percentage
         print("-" * 40)
         print(f"{'TOTALE':<30} {currency_total:>8.2f}%")
-
 
     def save_to_csv(self, aggregated_data: Dict, output_dir: str = "./portfolio_analysis") -> None:
         """Salva i risultati in file CSV separati."""
