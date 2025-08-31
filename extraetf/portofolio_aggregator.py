@@ -1,11 +1,11 @@
-import pycountry
-import gettext
 import json
 import os
 from collections import defaultdict
 from typing import Dict
 
 import pandas as pd
+import pycountry
+
 
 def get_country_name(code):
     """
@@ -17,6 +17,7 @@ def get_country_name(code):
         return country.name
     except AttributeError:
         return None
+
 
 class PortfolioAggregator:
     def __init__(self, data_dir: str = "./data"):
@@ -68,6 +69,11 @@ class PortfolioAggregator:
                         "portfolio_breakdown": result.get('portfolio_breakdown', {}),
                         "fund_domicile": result.get('fund_domicile'),
                         "fund_domicile_code": result.get('fund_domicile_code'),
+                        "marketcap_giant": result.get('marketcap_giant', 0.0),
+                        "marketcap_large": result.get('marketcap_large', 0.0),
+                        "marketcap_medium": result.get('marketcap_medium', 0.0),
+                        "marketcap_micro": result.get('marketcap_micro', 0.0),
+                        "marketcap_small": result.get('marketcap_small', 0.0),
                     }
 
                     # print(str(portfolio_data))
@@ -100,6 +106,8 @@ class PortfolioAggregator:
         # Converti percentuali in decimali
         weights = {isin: weight / 100.0 for isin, weight in portfolio_weights.items()}
 
+        print("Weights (decimali):", weights)
+
         # Inizializza le strutture per l'aggregazione
         aggregated_data = {
             'esposizione_settoriale': defaultdict(float),
@@ -108,11 +116,17 @@ class PortfolioAggregator:
             'valute': defaultdict(float)
         }
 
-        print("\n=== AGGREGAZIONE DATI ===")
+        weight_azioni = 0.0
+        weight_obbligazioni = 0.0
+        weight_commodities = 0.0
+        weight_monetario = 0.0
+        weight_crypto = 0.0
+        weight_sconosciuto = 0.0
 
         for isin, weight in weights.items():
             if isin not in self.etf_data:
                 print(f"⚠ Dati non trovati per ISIN {isin}")
+                weight_sconosciuto += weight
                 continue
 
             etf_data = self.etf_data[isin]
@@ -121,19 +135,41 @@ class PortfolioAggregator:
             asset_class_name = etf_data['asset_class_name']
             if asset_class_name == "Azioni":
                 print(f"✓ l'ETF {isin} è di classe Azioni (classe: {asset_class_name})")
+                weight_azioni += weight
             elif asset_class_name == "Obbligazioni":
                 print(f"✓ l'ETF {isin} è di classe Obbligazioni (classe: {asset_class_name})")
+                weight_obbligazioni += weight
             elif asset_class_name == "Materie prime":
                 print(f"✓ l'ETF {isin} è di classe Materie prime (classe: {asset_class_name})")
+                weight_commodities += weight
             elif asset_class_name == "Mercato monetario":
                 print(f"✓ l'ETF {isin} è di classe Mercato monetario (classe: {asset_class_name})")
+                weight_monetario += weight
             elif asset_class_name == "Criptovalute":
                 print(f"✓ l'ETF {isin} è di classe Criptovalute (classe: {asset_class_name})")
+                weight_crypto += weight
             else:
                 print(f"⚠ Attenzione: L'ETF {isin} è di classe SCONOSCIUTA: {asset_class_name}")
+                weight_sconosciuto += weight
 
+        print("\n=== CALCOLO PERCENTUALI PORTAFOGLIO ===")
+        print(f"Azioni: {weight_azioni * 100:.2f}%")
+        print(f"Obbligazioni: {weight_obbligazioni * 100:.2f}%")
+        print(f"Materie prime: {weight_commodities * 100:.2f}%")
+        print(f"Mercato monetario: {weight_monetario * 100:.2f}%")
+        print(f"Criptovalute: {weight_crypto * 100:.2f}%")
+        print(f"Sconosciuto: {weight_sconosciuto * 100:.2f}%")
+        print(
+            f"Totale: {(weight_azioni + weight_obbligazioni + weight_commodities + weight_monetario + weight_crypto + weight_sconosciuto) * 100:.2f}%")
+
+        print("\n=== AGGREGAZIONE DATI ===")
+
+        for isin, weight in weights.items():
+
+            etf_data = self.etf_data[isin]
+            print(f"Processando {isin} (peso: {weight * 100:.1f}%)")
+            asset_class_name = etf_data['asset_class_name']
             portfolio_breakdown = etf_data.get('portfolio_breakdown', {})
-
             fund_domicile_code = etf_data.get("fund_domicile_code", "Unknown country code")
 
             if asset_class_name == "Azioni" or asset_class_name == "Obbligazioni":
@@ -204,7 +240,21 @@ class PortfolioAggregator:
                 currency_value = currency.get('value', 0)
                 aggregated_data['valute'][currency_name] += currency_value * weight
 
-        # Converti defaultdict in dict normali e ordina per valore
+            # 4. MARKETCAP
+            marketcap = etf_data.get('currency_allocations', [])
+
+            # "marketcap_giant": result.get('marketcap_giant', 0.0),
+            # "marketcap_large": result.get('marketcap_large', 0.0),
+            # "marketcap_medium": result.get('marketcap_medium', 0.0),
+            # "marketcap_micro": result.get('marketcap_micro', 0.0),
+            # "marketcap_small": result.get('marketcap_small', 0.0),
+
+            for currency in currency_data:
+                currency_name = currency.get('name', 'Sconosciuta')
+                currency_value = currency.get('value', 0)
+                aggregated_data['valute'][currency_name] += currency_value * weight
+
+                # Converti defaultdict in dict normali e ordina per valore
         result = {}
         for category, data in aggregated_data.items():
             sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
@@ -233,7 +283,11 @@ class PortfolioAggregator:
         print("-" * 40)
         country_total = 0
         for country, percentage in aggregated_data['esposizione_geografica']:
-            print(f"{get_country_name(str(country).upper())} {percentage:>8.2f}%")
+            if country is None:
+                country_name = "Unknown"
+            else:
+                country_name = get_country_name(str(country))
+            print(f"{country_name:<30} {percentage:>8.2f}%")
             country_total += percentage
         print("-" * 40)
         print(f"{'TOTALE':<30} {country_total:>8.2f}%")
