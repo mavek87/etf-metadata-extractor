@@ -5,3 +5,4 @@ yfinance
 pytest
 pycountry
 pycountry-convert
+openbb

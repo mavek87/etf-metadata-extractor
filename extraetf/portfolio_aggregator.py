@@ -326,11 +326,12 @@ class PortfolioAggregator:
         print(f"{'TOTALE':<30} {region_total:>8.4f}%")
 
         # 4. TOP HOLDINGS (mostra solo i primi 20)
-        print("\n💼 TOP 20 HOLDINGS:")
+        n = 1000
+        print(f"\n💼 TOP {n} HOLDINGS:")
         print("-" * 60)
         holdings_total = 0
         holdings_shown = 0
-        for i, (holding, percentage) in enumerate(aggregated_data['holdings'][:20], 1):
+        for i, (holding, percentage) in enumerate(aggregated_data['holdings'][:n], 1):
             print(f"{i:2d}. {holding:<45} {percentage:>8.2f}%")
             holdings_total += percentage
             holdings_shown += 1
@@ -338,9 +339,9 @@ class PortfolioAggregator:
         # Calcola il totale di TUTTI gli holdings (non solo i top 20)
         all_holdings_total = sum(percentage for _, percentage in aggregated_data['holdings'])
 
-        if len(aggregated_data['holdings']) > 20:
+        if len(aggregated_data['holdings']) > n:
             remaining_total = all_holdings_total - holdings_total
-            print(f"\n... e altri {len(aggregated_data['holdings']) - 20} holdings ({remaining_total:.2f}%)")
+            print(f"\n... e altri {len(aggregated_data['holdings']) - n} holdings ({remaining_total:.2f}%)")
 
         print("-" * 60)
         print(f"{'TOTALE (tutti gli holdings)':<47} {all_holdings_total:>8.2f}%")
