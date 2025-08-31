@@ -69,16 +69,15 @@ class PortfolioAggregator:
                         "portfolio_breakdown": result.get('portfolio_breakdown', {}),
                         "fund_domicile": result.get('fund_domicile'),
                         "fund_domicile_code": result.get('fund_domicile_code'),
-                        "marketcap_giant": result.get('marketcap_giant', 0.0),
-                        "marketcap_large": result.get('marketcap_large', 0.0),
-                        "marketcap_medium": result.get('marketcap_medium', 0.0),
-                        "marketcap_micro": result.get('marketcap_micro', 0.0),
-                        "marketcap_small": result.get('marketcap_small', 0.0),
+                        # "marketcap_giant": result.get('marketcap_giant', 0.0),
+                        # "marketcap_large": result.get('marketcap_large', 0.0),
+                        # "marketcap_medium": result.get('marketcap_medium', 0.0),
+                        # "marketcap_micro": result.get('marketcap_micro', 0.0),
+                        # "marketcap_small": result.get('marketcap_small', 0.0),
                     }
 
-                    # print(str(portfolio_data))
+                    # print("PORTFOLIO DATA: " + str(portfolio_data))
 
-                    # portfolio_data = data['results'][0].get('portfolio_breakdown', {})
                     self.etf_data[isin] = portfolio_data
                     print(f"✓ Caricato {isin}")
                 else:
@@ -113,7 +112,12 @@ class PortfolioAggregator:
             'esposizione_settoriale': defaultdict(float),
             'esposizione_geografica': defaultdict(float),
             'holdings': defaultdict(float),
-            'valute': defaultdict(float)
+            'valute': defaultdict(float),
+            'marketcap_giant': 0.0,
+            'marketcap_large': 0.0,
+            'marketcap_medium': 0.0,
+            'marketcap_micro': 0.0,
+            'marketcap_small': 0.0,
         }
 
         weight_azioni = 0.0
@@ -163,10 +167,12 @@ class PortfolioAggregator:
             f"Totale: {(weight_azioni + weight_obbligazioni + weight_commodities + weight_monetario + weight_crypto + weight_sconosciuto) * 100:.2f}%")
 
         print("\n=== AGGREGAZIONE DATI ===")
-
         for isin, weight in weights.items():
 
             etf_data = self.etf_data[isin]
+            # print("xxx: " + str(etf_data))
+            print("yyy: " + str(etf_data.get('marketcap_giant')))
+
             print(f"Processando {isin} (peso: {weight * 100:.1f}%)")
             asset_class_name = etf_data['asset_class_name']
             portfolio_breakdown = etf_data.get('portfolio_breakdown', {})
@@ -240,26 +246,35 @@ class PortfolioAggregator:
                 currency_value = currency.get('value', 0)
                 aggregated_data['valute'][currency_name] += currency_value * weight
 
-            # 4. MARKETCAP
-            marketcap = etf_data.get('currency_allocations', [])
+            # # 4. MARKETCAP
+            if asset_class_name == "Azioni":
+                print("Weight: " + str(weight))
+                marketcap_giant = portfolio_breakdown.get('marketcap_giant', 0.0)
+                marketcap_large = portfolio_breakdown.get('marketcap_large', 0.0)
+                marketcap_medium = portfolio_breakdown.get('marketcap_medium', 0.0)
+                marketcap_micro = portfolio_breakdown.get('marketcap_micro', 0.0)
+                marketcap_small = portfolio_breakdown.get('marketcap_small', 0.0)
+                aggregated_data['marketcap_giant'] += marketcap_giant * weight
+                aggregated_data['marketcap_large'] += marketcap_large * weight
+                aggregated_data['marketcap_medium'] += marketcap_medium * weight
+                aggregated_data['marketcap_micro'] += marketcap_micro * weight
+                aggregated_data['marketcap_small'] += marketcap_small * weight
 
-            # "marketcap_giant": result.get('marketcap_giant', 0.0),
-            # "marketcap_large": result.get('marketcap_large', 0.0),
-            # "marketcap_medium": result.get('marketcap_medium', 0.0),
-            # "marketcap_micro": result.get('marketcap_micro', 0.0),
-            # "marketcap_small": result.get('marketcap_small', 0.0),
+        if weight_azioni > 0:
+            aggregated_data['marketcap_giant'] = aggregated_data['marketcap_giant'] / weight_azioni
+            aggregated_data['marketcap_large'] = aggregated_data['marketcap_large'] / weight_azioni
+            aggregated_data['marketcap_medium'] = aggregated_data['marketcap_medium'] / weight_azioni
+            aggregated_data['marketcap_micro'] = aggregated_data['marketcap_micro'] / weight_azioni
+            aggregated_data['marketcap_small'] = aggregated_data['marketcap_small'] / weight_azioni
 
-            for currency in currency_data:
-                currency_name = currency.get('name', 'Sconosciuta')
-                currency_value = currency.get('value', 0)
-                aggregated_data['valute'][currency_name] += currency_value * weight
-
-                # Converti defaultdict in dict normali e ordina per valore
         result = {}
         for category, data in aggregated_data.items():
-            sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
-            result[category] = sorted_data
-
+            if isinstance(data, defaultdict):
+                sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
+                result[category] = sorted_data
+            else:
+                # Per marketcap mantieni il valore numerico
+                result[category] = data
         return result
 
     def print_results(self, aggregated_data: Dict) -> None:
@@ -322,15 +337,61 @@ class PortfolioAggregator:
         print("-" * 40)
         print(f"{'TOTALE':<30} {currency_total:>8.2f}%")
 
+        # 5. MARKETCAP
+        print("\n📊 MARKETCAP SIZE AZIONARIO:")
+        print("-" * 40)
+        marketcap_giant = aggregated_data.get('marketcap_giant', 0.0)
+        marketcap_large = aggregated_data.get('marketcap_large', 0.0)
+        marketcap_medium = aggregated_data.get('marketcap_medium', 0.0)
+        marketcap_micro = aggregated_data.get('marketcap_micro', 0.0)
+        marketcap_small = aggregated_data.get('marketcap_small', 0.0)
+
+        marketcap_total = marketcap_giant + marketcap_large + marketcap_medium + marketcap_micro + marketcap_small
+
+        print(f"{'Giant (>200B)':<30} {marketcap_giant:>8.2f}%")
+        print(f"{'Large (10B-200B)':<30} {marketcap_large:>8.2f}%")
+        print(f"{'Medium (2B-10B)':<30} {marketcap_medium:>8.2f}%")
+        print(f"{'Small (300M-2B)':<30} {marketcap_small:>8.2f}%")
+        print(f"{'Micro (<300M)':<30} {marketcap_micro:>8.2f}%")
+        print("-" * 40)
+        print(f"{'TOTALE':<30} {marketcap_total:>8.2f}%\n")
+
+    # def save_to_csv(self, aggregated_data: Dict, output_dir: str = "./portfolio_analysis") -> None:
+    #     """Salva i risultati in file CSV separati."""
+    #     os.makedirs(output_dir, exist_ok=True)
+    #
+    #     for category, data in aggregated_data.items():
+    #         df = pd.DataFrame(data, columns=['Nome', 'Percentuale'])
+    #         filename = os.path.join(output_dir, f"{category}.csv")
+    #         df.to_csv(filename, index=False, encoding='utf-8')
+    #         print(f"✓ Salvato: {filename}")
+
     def save_to_csv(self, aggregated_data: Dict, output_dir: str = "./portfolio_analysis") -> None:
         """Salva i risultati in file CSV separati."""
         os.makedirs(output_dir, exist_ok=True)
 
         for category, data in aggregated_data.items():
-            df = pd.DataFrame(data, columns=['Nome', 'Percentuale'])
-            filename = os.path.join(output_dir, f"{category}.csv")
-            df.to_csv(filename, index=False, encoding='utf-8')
-            print(f"✓ Salvato: {filename}")
+            if isinstance(data, list):  # Solo per le categorie con liste (esposizioni e holdings)
+                df = pd.DataFrame(data, columns=['Nome', 'Percentuale'])
+                filename = os.path.join(output_dir, f"{category}.csv")
+                df.to_csv(filename, index=False, encoding='utf-8')
+                print(f"✓ Salvato: {filename}")
+            elif category.startswith('marketcap'):
+                # Per marketcap salva in un unico file
+                continue
+
+        # Salva marketcap in un file separato
+        marketcap_data = [
+            ['Giant (>200B)', aggregated_data.get('marketcap_giant', 0.0)],
+            ['Large (10B-200B)', aggregated_data.get('marketcap_large', 0.0)],
+            ['Medium (2B-10B)', aggregated_data.get('marketcap_medium', 0.0)],
+            ['Small (300M-2B)', aggregated_data.get('marketcap_small', 0.0)],
+            ['Micro (<300M)', aggregated_data.get('marketcap_micro', 0.0)]
+        ]
+        df_marketcap = pd.DataFrame(marketcap_data, columns=['Categoria', 'Percentuale'])
+        filename = os.path.join(output_dir, "marketcap.csv")
+        df_marketcap.to_csv(filename, index=False, encoding='utf-8')
+        print(f"✓ Salvato: {filename}")
 
 
 def main():
@@ -345,6 +406,7 @@ def main():
     # DEFINISCI QUI LE PERCENTUALI DEL TUO PORTAFOGLIO
     # Sostituisci con i tuoi ISIN e percentuali
     portfolio_composition = {
+        # "DE000A0F5UH1": 100,
         "FR0013416716": 6.11,
         "IE000OEF25S1": 1.63,
         "IE00B579F325": 4.30,
