@@ -2,43 +2,8 @@ import json
 import os
 from collections import defaultdict
 from typing import Dict
-
+from geo_utils import GeoUtils
 import pandas as pd
-import pycountry
-import pycountry_convert as pc
-
-# Mappa da continenti inglesi -> categorie italiane personalizzate
-CONTINENT_MAP_IT = {
-    "Europe": "Europa",                # potresti anche distinguere "Europa" vs "Europa dell'Est" se vuoi a mano
-    "Asia": "Asia",
-    "North America": "Nord America",
-    "South America": "America Latina",
-    "Africa": "Africa",
-    "Oceania": "Pacifico",
-    "Antarctica": "Antartide"
-}
-
-def get_continent_name(country_code):
-    try:
-        country_alpha2 = country_code.upper()
-        continent_code = pc.country_alpha2_to_continent_code(country_alpha2)
-        continent_name = pc.convert_continent_code_to_continent_name(continent_code)
-        return CONTINENT_MAP_IT.get(continent_name, continent_name)
-    except Exception as e:
-        print("Errore:", repr(e))
-        return None
-
-def get_country_name(code):
-    """
-    Restituisce il nome di un paese dato il suo codice ISO a due lettere.
-    Se il codice non è valido, restituisce None.
-    """
-    try:
-        country = pycountry.countries.get(alpha_2=code.upper())
-        return country.name
-    except AttributeError:
-        return None
-
 
 class PortfolioAggregator:
     def __init__(self, data_dir: str = "./data"):
@@ -260,7 +225,7 @@ class PortfolioAggregator:
                     if len(str(region_name)) == 2:
                         country_code = str(region_name)
                         print(country_code)
-                        region_name = get_continent_name(country_code)
+                        region_name = GeoUtils.get_continent_name(country_code)
                         if region_name is None:
                             region_name = "Unknown C"
 
@@ -340,7 +305,7 @@ class PortfolioAggregator:
             if country is None:
                 country_name = "Unknown"
             else:
-                country_name = get_country_name(str(country))
+                country_name = GeoUtils.get_country_name(str(country))
             print(f"{country_name:<30} {percentage:>8.4f}%")
             country_total += percentage
         print("-" * 40)

@@ -180,3 +180,8 @@ similar to vanguard but even worst because the url to download the csv file is h
 
 https://global.morningstar.com/it/investimenti/etf/0P0001BJX7/portafoglio
 
+## Run tests command
+
+```bash
+pytest
+```
