@@ -5,7 +5,28 @@ from typing import Dict
 
 import pandas as pd
 import pycountry
+import pycountry_convert as pc
 
+# Mappa da continenti inglesi -> categorie italiane personalizzate
+CONTINENT_MAP_IT = {
+    "Europe": "Europa",                # potresti anche distinguere "Europa" vs "Europa dell'Est" se vuoi a mano
+    "Asia": "Asia",
+    "North America": "Nord America",
+    "South America": "America Latina",
+    "Africa": "Africa",
+    "Oceania": "Pacifico",
+    "Antarctica": "Antartide"
+}
+
+def get_continent_name(country_code):
+    try:
+        country_alpha2 = country_code.upper()
+        continent_code = pc.country_alpha2_to_continent_code(country_alpha2)
+        continent_name = pc.convert_continent_code_to_continent_name(continent_code)
+        return CONTINENT_MAP_IT.get(continent_name, continent_name)
+    except Exception as e:
+        print("Errore:", repr(e))
+        return None
 
 def get_country_name(code):
     """
@@ -69,11 +90,6 @@ class PortfolioAggregator:
                         "portfolio_breakdown": result.get('portfolio_breakdown', {}),
                         "fund_domicile": result.get('fund_domicile'),
                         "fund_domicile_code": result.get('fund_domicile_code'),
-                        # "marketcap_giant": result.get('marketcap_giant', 0.0),
-                        # "marketcap_large": result.get('marketcap_large', 0.0),
-                        # "marketcap_medium": result.get('marketcap_medium', 0.0),
-                        # "marketcap_micro": result.get('marketcap_micro', 0.0),
-                        # "marketcap_small": result.get('marketcap_small', 0.0),
                     }
 
                     # print("PORTFOLIO DATA: " + str(portfolio_data))
@@ -109,6 +125,7 @@ class PortfolioAggregator:
         aggregated_data = {
             'esposizione_settoriale': defaultdict(float),
             'esposizione_geografica': defaultdict(float),
+            'esposizione_regioni': defaultdict(float),
             'holdings': defaultdict(float),
             'valute': defaultdict(float),
             'marketcap_giant': 0.0,
@@ -181,28 +198,37 @@ class PortfolioAggregator:
                 country_stocks_exposure_list = portfolio_breakdown.get('country_stocks_exposure_list', [])
                 country_bond_exposure_list = portfolio_breakdown.get('country_bond_exposure_list', [])
                 country_exposure_list = country_stocks_exposure_list + country_bond_exposure_list
+
+                region_stock_exposure_list = portfolio_breakdown.get('region_stock_exposure_list', [])
+                region_bond_exposure_list = portfolio_breakdown.get('region_bond_exposure_list', [])
+                region_exposure_list = region_stock_exposure_list + region_bond_exposure_list
             elif asset_class_name == "Materie prime":
                 commodity_name = etf_data.get("commodity_type_name", "Unknown commodity")
                 global_exposure_list = [{"name": commodity_name, "value": 100.0}]
 
                 country_exposure_list = [{"name": fund_domicile_code, "value": 100.0}]
+                region_exposure_list = [{"name": fund_domicile_code, "value": 100.0}]
             elif asset_class_name == "Mercato monetario":
                 currency_name = etf_data.get("currency", "Unknown currency")
                 global_exposure_list = [{"name": "Monetario " + currency_name, "value": 100.0}]
 
                 country_exposure_list = [{"name": fund_domicile_code, "value": 100.0}]
+                region_exposure_list = [{"name": fund_domicile_code, "value": 100.0}]
             elif asset_class_name == "Criptovalute":
                 crypto_name = etf_data.get("crypto_currency_name", "Unknown cryptocurrency")
                 global_exposure_list = [{"name": crypto_name, "value": 100.0}]
 
                 country_exposure_list = [{"name": fund_domicile_code, "value": 100.0}]
+                region_exposure_list = [{"name": fund_domicile_code, "value": 100.0}]
             else:
                 print(f"⚠ Attenzione: L'ETF {isin} è di classe SCONOSCIUTA: {asset_class_name}")
                 global_exposure_list = [{"name": "Unknown sector", "value": 100.0}]
                 country_exposure_list = [{"name": "Unknown country", "value": 100.0}]
+                region_exposure_list = [{"name": "Unknown region", "value": 100.0}]
 
             print(f"✓ global_exposure_list: {global_exposure_list}")
             print(f"✓ country_exposure_list: {country_exposure_list}")
+            print(f"✓ region_exposure_list: {region_exposure_list}")
 
             # 1. ESPOSIZIONE SETTORIALE
 
@@ -215,15 +241,31 @@ class PortfolioAggregator:
             # 2. ESPOSIZIONE GEOGRAFICA
             country_data = country_exposure_list
             for country in country_data:
-                # country_name = country.get('name', 'Unknown')
                 country_name = country.get('code', 'Unknown')
                 if country_name == 'Unknown':
                     country_name = country.get('name', 'Unknown')
-                    print(country_name)
+                    # print(country_name)
                 country_value = country.get('value', 0)
                 aggregated_data['esposizione_geografica'][country_name] += country_value * weight
 
-            # 3. HOLDINGS (singole azioni)
+            # 3. ESPOSIZIONE REGIONI
+            region_data = region_exposure_list
+            for region in region_data:
+                region_name = region.get('name', 'Unknown A')
+                if region_name is None:
+                    region_name = "Unknown B"
+                else:
+                    if len(str(region_name)) == 2:
+                        country_code = str(region_name)
+                        print(country_code)
+                        region_name = get_continent_name(country_code)
+                        if region_name is None:
+                            region_name = "Unknown C"
+
+                region_value = region.get('value', 0)
+                aggregated_data['esposizione_regioni'][region_name] += region_value * weight
+
+            # 4. HOLDINGS (singole azioni)
             holdings_data = portfolio_breakdown.get('items', [])
             for holding in holdings_data:
                 holding_name = holding.get('name', 'Unknown')
@@ -234,14 +276,14 @@ class PortfolioAggregator:
                 holding_key = f"{holding_name} ({holding_isin})" if holding_isin else holding_name
                 aggregated_data['holdings'][holding_key] += holding_weight * weight
 
-            # 4. VALUTE
+            # 5. VALUTE
             currency_data = portfolio_breakdown.get('currency_allocations', [])
             for currency in currency_data:
                 currency_name = currency.get('name', 'Sconosciuta')
                 currency_value = currency.get('value', 0)
                 aggregated_data['valute'][currency_name] += currency_value * weight
 
-            # # 4. MARKETCAP
+            # 6. MARKETCAP
             if asset_class_name == "Azioni":
                 print("Weight: " + str(weight))
                 marketcap_giant = portfolio_breakdown.get('marketcap_giant', 0.0)
@@ -302,7 +344,17 @@ class PortfolioAggregator:
         print("-" * 40)
         print(f"{'TOTALE':<30} {country_total:>8.2f}%")
 
-        # 3. TOP HOLDINGS (mostra solo i primi 20)
+        # 3. ESPOSIZIONE REGIONI
+        print("\n🏭 ESPOSIZIONE REGIONI:")
+        print("-" * 40)
+        region_total = 0
+        for region, percentage in aggregated_data['esposizione_regioni']:
+            print(f"{region:<30} {percentage:>8.2f}%")
+            region_total += percentage
+        print("-" * 40)
+        print(f"{'TOTALE':<30} {region_total:>8.2f}%")
+
+        # 4. TOP HOLDINGS (mostra solo i primi 20)
         print("\n💼 TOP 20 HOLDINGS:")
         print("-" * 60)
         holdings_total = 0
@@ -322,7 +374,7 @@ class PortfolioAggregator:
         print("-" * 60)
         print(f"{'TOTALE (tutti gli holdings)':<47} {all_holdings_total:>8.2f}%")
 
-        # 4. VALUTE
+        # 5. VALUTE
         print("\n💱 ESPOSIZIONE VALUTARIA:")
         print("-" * 40)
         currency_total = 0
@@ -332,7 +384,7 @@ class PortfolioAggregator:
         print("-" * 40)
         print(f"{'TOTALE':<30} {currency_total:>8.2f}%")
 
-        # 5. MARKETCAP
+        # 6. MARKETCAP
         print("\n📊 MARKETCAP SIZE AZIONARIO:")
         print("-" * 40)
         marketcap_giant = aggregated_data.get('marketcap_giant', 0.0)
@@ -350,16 +402,6 @@ class PortfolioAggregator:
         print(f"{'Micro (<300M)':<30} {marketcap_micro:>8.2f}%")
         print("-" * 40)
         print(f"{'TOTALE':<30} {marketcap_total:>8.2f}%\n")
-
-    # def save_to_csv(self, aggregated_data: Dict, output_dir: str = "./portfolio_analysis") -> None:
-    #     """Salva i risultati in file CSV separati."""
-    #     os.makedirs(output_dir, exist_ok=True)
-    #
-    #     for category, data in aggregated_data.items():
-    #         df = pd.DataFrame(data, columns=['Nome', 'Percentuale'])
-    #         filename = os.path.join(output_dir, f"{category}.csv")
-    #         df.to_csv(filename, index=False, encoding='utf-8')
-    #         print(f"✓ Salvato: {filename}")
 
     def save_to_csv(self, aggregated_data: Dict, output_dir: str = "./portfolio_analysis") -> None:
         """Salva i risultati in file CSV separati."""
@@ -390,6 +432,8 @@ class PortfolioAggregator:
 
 
 def main():
+    # print(get_continent_name("IT"))
+
     """Esempio di utilizzo dello script."""
 
     # Inizializza l'aggregatore
@@ -400,8 +444,8 @@ def main():
 
     # DEFINISCI QUI LE PERCENTUALI DEL TUO PORTAFOGLIO
     # Sostituisci con i tuoi ISIN e percentuali
+    # "DE000A0F5UH1": 100,
     portfolio_composition = {
-        # "DE000A0F5UH1": 100,
         "FR0013416716": 6.11,
         "IE000OEF25S1": 1.63,
         "IE00B579F325": 4.30,

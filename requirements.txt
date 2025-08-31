@@ -4,3 +4,4 @@ openpyxl
 yfinance
 pytest
 pycountry
+pycountry-convert
