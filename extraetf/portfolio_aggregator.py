@@ -1,9 +1,13 @@
+import sys
 import json
 import os
 from collections import defaultdict
 from typing import Dict
-from geo_utils import GeoUtils
 import pandas as pd
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from geo_utils import GeoUtils
 
 class PortfolioAggregator:
     def __init__(self, data_dir: str = "./data"):
