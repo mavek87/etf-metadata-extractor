@@ -197,11 +197,13 @@ class PortfolioAggregator:
 
                 country_stocks_exposure_list = portfolio_breakdown.get('country_stocks_exposure_list', [])
                 country_bond_exposure_list = portfolio_breakdown.get('country_bond_exposure_list', [])
-                country_exposure_list = country_stocks_exposure_list + country_bond_exposure_list
+                country_convertible_exposure_list = portfolio_breakdown.get('country_convertible_exposure_list', [])
+                country_exposure_list = country_stocks_exposure_list + country_bond_exposure_list + country_convertible_exposure_list
 
                 region_stock_exposure_list = portfolio_breakdown.get('region_stock_exposure_list', [])
                 region_bond_exposure_list = portfolio_breakdown.get('region_bond_exposure_list', [])
-                region_exposure_list = region_stock_exposure_list + region_bond_exposure_list
+                region_convertible_exposure_list = portfolio_breakdown.get('region_convertible_exposure_list', [])
+                region_exposure_list = region_stock_exposure_list + region_bond_exposure_list + region_convertible_exposure_list
             elif asset_class_name == "Materie prime":
                 commodity_name = etf_data.get("commodity_type_name", "Unknown commodity")
                 global_exposure_list = [{"name": commodity_name, "value": 100.0}]
@@ -325,10 +327,10 @@ class PortfolioAggregator:
         print("-" * 40)
         sector_total = 0
         for sector, percentage in aggregated_data['esposizione_settoriale']:
-            print(f"{sector:<30} {percentage:>8.2f}%")
+            print(f"{sector:<30} {percentage:>8.4f}%")
             sector_total += percentage
         print("-" * 40)
-        print(f"{'TOTALE':<30} {sector_total:>8.2f}%")
+        print(f"{'TOTALE':<30} {sector_total:>8.4f}%")
 
         # 2. ESPOSIZIONE GEOGRAFICA
         print("\n🌍 ESPOSIZIONE GEOGRAFICA:")
@@ -339,20 +341,20 @@ class PortfolioAggregator:
                 country_name = "Unknown"
             else:
                 country_name = get_country_name(str(country))
-            print(f"{country_name:<30} {percentage:>8.2f}%")
+            print(f"{country_name:<30} {percentage:>8.4f}%")
             country_total += percentage
         print("-" * 40)
-        print(f"{'TOTALE':<30} {country_total:>8.2f}%")
+        print(f"{'TOTALE':<30} {country_total:>8.4f}%")
 
         # 3. ESPOSIZIONE REGIONI
         print("\n🏭 ESPOSIZIONE REGIONI:")
         print("-" * 40)
         region_total = 0
         for region, percentage in aggregated_data['esposizione_regioni']:
-            print(f"{region:<30} {percentage:>8.2f}%")
+            print(f"{region:<30} {percentage:>8.4f}%")
             region_total += percentage
         print("-" * 40)
-        print(f"{'TOTALE':<30} {region_total:>8.2f}%")
+        print(f"{'TOTALE':<30} {region_total:>8.4f}%")
 
         # 4. TOP HOLDINGS (mostra solo i primi 20)
         print("\n💼 TOP 20 HOLDINGS:")
