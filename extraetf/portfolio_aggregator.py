@@ -105,8 +105,6 @@ class PortfolioAggregator:
         # Converti percentuali in decimali
         weights = {isin: weight / 100.0 for isin, weight in portfolio_weights.items()}
 
-        print("Weights (decimali):", weights)
-
         # Inizializza le strutture per l'aggregazione
         aggregated_data = {
             'esposizione_settoriale': defaultdict(float),
@@ -168,10 +166,7 @@ class PortfolioAggregator:
 
         print("\n=== AGGREGAZIONE DATI ===")
         for isin, weight in weights.items():
-
             etf_data = self.etf_data[isin]
-            # print("xxx: " + str(etf_data))
-            print("yyy: " + str(etf_data.get('marketcap_giant')))
 
             print(f"Processando {isin} (peso: {weight * 100:.1f}%)")
             asset_class_name = etf_data['asset_class_name']
